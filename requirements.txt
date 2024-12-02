@@ -1,0 +1,8 @@
+pdfminer
+pdfminer.six
+python-docx 
+faiss-cpu
+sentence_transformers
+langchain
+openai
+pypdf2

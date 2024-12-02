@@ -1,0 +1,217 @@
+Comparative analysis of single vs. two -muscle training programs on upper body muscle growth  
+
+*Mustafa Mohsin Flayyih Khlaifawi, **Hiba Jawad Kadhim, ***Haider Radhi Raheem Alsaedi, **** Bareq Rahman Hashim Alfadhli  
+*Mustansiriyah University (Iraq) , **Karkh Second Vocational Education Department  (Iraq) , *** Baghdad Education Directorate third 
+Rusafa  (Iraq), **** Al-Farahidi University (Iraq)  
+
+Abstract. This study investigates the effects of different bodybuilding training methodologies —single muscle versus multiple muscle training—on upper body muscle growth. Despite the established benefits of resistance training for muscle hypertrophy, the optimal structuring of workouts remains debated. An experimental design was utilized, dividing 44 participants from the Iraqi Federation for Bodybuilding and Fitness into two groups, with one focusing on training a single muscle per session and the other on training two muscles per session over 12 weeks. Pre - and post -test measurements were taken to assess changes in chest, upper arm, and forearm circumferences, alongside strength gains. Statistical analysis using SPSS revealed significant increases in muscle size for both training approaches, with the single muscle group demonstrating superior hypertrophic outcomes. These findings suggest that training one muscle group per session may provide a more effective stimulus for muscle growth compared to training multiple groups simultaneously. The results contribute valuable insights into bodybuilding training practices, indicating that specific training strategies can optimize hypertrophy and enhance strength in bodybuilders. 
+Keywords: Bodybuilding Training Methods, Muscle Hypertrophy, Single Muscle vs. Multiple Muscle Training, Upper Body Muscle Growth.  
+
+Introduction  
+
+Resistance training (RT) has long been recognized as a key method for inducing muscle hypertrophy, strength gains, and overall improvements in physical performance. Among the various training methods, bodybuilding exercises, which focus on maximizing muscle size through targeted resistance work, have been widely practiced by athletes and fitness enthusiasts. A major point of interest in hypertrophy training revolves around the optimal structuring of workouts —particularly, whether training one muscle group per session or multiple muscle groups in the same session leads to greater hypertrophic outcomes.  
+
+Muscle hypertrophy, defined as an increase in muscle mass due to the enlargement of muscle fibers, is influenced by a variety of factors, including mechanical tension, metabolic stress, and muscle damage (Schoenfeld, 2010). The structuring of training programs, particularly the number of muscle groups targeted per session, plays a critical role in determining these factors. Training a single muscle group per session allows for greater focus, volume, and intensity on that particular muscle, which can enhance hypertrophic adaptation (Kraemer & Ratamess, 2004). By concentrating mechanical stress on one muscle group, single-muscle workouts may facilitate more significant muscle fiber recruitment and maximize muscle protein synthesis post -exercise (Schoenfeld, 2016). 
+
+On the other hand, training multiple muscle groups in one session provides a more time -efficient approach and is commonly employed in programs designed for overall body development. Multi -muscle training involves distributing volume and recovery resources across more than one muscle group, which could potentially reduce the hypertrophic stimulus for any one particular muscle but can result in balanced development across different muscle groups (Figueiredo et al., 2017). For athletes or individuals with time constraints.Several studies have investigated the relationship between training volume—defined as the total number of sets, repetitions, and load applied to a muscle —and muscle growth. Higher volumes have been consistently shown to produce greater muscle hypertrophy. However, the question remains as to how this volume should be distributed within a workout session. Should all volume be concentrated on one muscle group, or should it be spread across multiple groups?
+
+Existing literature provides mixed results on this topic. Some studies indicate that isolated training, where a single muscle is targeted with higher volumes, leads to more significant hypertrophy in that muscle compared to training multiple muscles in a session with lower individual muscle volume. In contrast, other research suggests that as long as progressive overload is applied and recovery is adequate, training multiple muscles per session can still lead to meaningful muscle growth, particularly when total weekly volume is controlled.
+
+The relationship between training methodologies and muscle hypertrophy has been a focal point in exercise science research. Resistance training, a cornerstone of bodybuilding, has been shown to elicit significant increases in muscle mass and strength through various training protocols. The effectiveness of these protocols often depends on factors such as the frequency of training, the number of muscle groups involved, and the intensity of the exercises performed. 
+
+Several studies have explored the impact of different training frequencies on hypertrophy. Zourdos et al. suggest that training frequency is crucial for optimizing muscle growth, with evidence indicating that a higher frequency of muscle group engagement can lead to superior hypertrophic outcomes. These studies highlight the importance of structuring training programs to maximize the frequency of muscle group activation. 
+
+In contrast, research has also pointed to the effectiveness of single muscle group training. For instance, Schoenfeld argues that focusing on one muscle group per session can enhance the training stimulus, allowing for greater intensity and volume, which are critical factors for muscle growth. This is particularly relevant for advanced bodybuilders who may benefit from a more concentrated approach to their training. 
+
+Moreover, the debate over the optimal number of muscle groups to train per session continues to be explored. A study by Gentil et al. suggests that while training multiple muscle groups can be effective, it may dilute the training stimulus compared to a focused approach. They found that participants who trained single muscle groups exhibited greater hypertrophy in targeted muscles compared to those who trained multiple groups in a single session. 
+
+Additionally, the role of intensity in resistance training is well-documented. Rhea et al. emphasize that training intensities between 75% and 95% of one-repetition maximum (1RM) are optimal for promoting muscle growth. The adaptation of muscle fibers to high -intensity training protocols supports the idea that carefully structured training can lead to significant improvements in muscle size and strength.
+
+Current research indicates that individual variability in response to training can significantly influence outcomes, suggesting that personalized training regimens may be more effective than standardized protocols. This highlights the necessity for ongoing research to identify the most effective training strategies tailored to specific populations. 
+
+The purpose of this study is to examine how the number of muscles involved in a single training session affects hypertrophic outcomes in upper body muscle groups. Specifically, this research compares the effects of training one muscle group per session versus training two muscle groups per session on the growth of chest, upper arm, and forearm circumferences. By comparing these two approaches, the study aims to provide practical insights into optimal training strategies for muscle hypertrophy.
+
+Previous research has largely focused on overall training volume and intensity, but few studies have systematically examined how varying the number of muscle groups trained in a single session influences localized muscle hypertrophy. This study seeks to fill that gap by providing direct comparisons between these two training modalities. The results can have significant implications for strength athletes, bodybuilders, and fitness enthusiasts seeking to maximize muscle growth while optimizing their training structure. 
+
+Hypotheses: 
+Hypothesis 1: Training one muscle group per session will yield significantly greater hypertrophic outcomes compared to training two muscle groups per session.
+Hypothesis 2: Participants engaged in a single muscle training program will demonstrate greater strength gains compared to those in the multiple muscle training program.
+The research problem revolves around how engaging a variety of muscles in a single training unit affects the growth of upper body muscles. The main idea is to compare the effectiveness of exercises that target multiple muscles in a single session with those that focus on only one muscle group.The aim of the research is to understand whether it is better to split training so that it includes a variety of muscle groups in each session, such as incorporating exercises for the chest, shoulders and back in the same session, or to focus only on one muscle group, such as the chest, for example, in each training session. 
+
+By studying this issue, the research can provide valuable insights into how training programs can be designed to improve muscle building results. The study will be conducted using an experimental approach where participants are divided into two groups; the first follows a training program that includes multiple muscles in each session, and the second focuses on training a single muscle group in the session. The results of the research will be evaluated based on changes in muscle size, strength and physical adaptation after a specified period of training. 
+
+Research Questions:
+1. How does training one muscle group per session compare to training two muscle groups per session in terms of hypertrophic outcomes in the chest, upper arm, and forearm muscles?
+2. What are the differences in strength gains between participants following a single -muscle training program versus those following a two -muscle training program?
+3. How do variations in training volume and intensity across different training modalities impact overall physical conditioning among bodybuilders?
+4. What specific measures of muscle size (e.g., chest circumference, upper arm circumference, forearm circumference) show significant changes following the implementation of the two different training programs?
+
+Research Objectives:
+1. To evaluate and compare the effects of training one muscle group versus two muscle groups per session on hypertrophy in upper body muscles.
+2. To assess the strength gains achieved by participants engaged in single -muscle versus two -muscle training programs over a 12 -week training period.
+3. To analyze the influence of different training modalities on overall physical conditioning, including aspects such as endurance and functional strength.
+4. To measure and report the pre -and post -test differences in muscle size parameters (chest, upper arm, forearm) to determine the effectiveness of each training approach.
+
+Research significance:
+The research will provide insights into how to optimize training programs to achieve the best results in building upper body muscle, which could help coaches and athletes design more effective training programs. 
+
+Methodology:
+An experimental approach was employed, wherein participants were divided into two distinct groups. The first group followed a training program that included multiple muscles in each session, while the second group adhered to a program that focused on a single muscle group per session. Evaluations of the results were based on criteria such as muscle size, strength, and physical conditioning after a specified training period.
+
+The researchers employed a quasi -experimental design with a pre-test and post -test framework to address the research problem. The study involved a sample of bodybuilders affiliated with the Iraqi Federation for Bodybuilding and Fitness, comprising a total of 44 participants ( 22 in each group). The inclusion criteria specified participants aged 22 to 33 years with at least one year of resistance training experience, ensuring a homogenous group in terms of training background and capability. 
+
+Table 1:
+Distribution of the research samples
+Variables  Mean  Median  Std Deviation  Skewness Coefficient
+Height (cm)  175 173 2.0 0.50  
+Weight (kg)  72 72 1.5 0.25  
+Age (year)  26 27 3.5 0.40
+
+Figure 1 shows the frequency distribution of the data, with most values concentrated near the center, indicating a nearly normal distribution. The fitted curve represents the ideal normal distribution.0.055 suggests minimal positive skewness. This means the distribution is almost symmetric, with a slight tendency for more values on the right side. Overall, the data is closely centered around the mean, with only a small number of extreme values on either  end. 
+
+Instruments and Data Collection Tools  
+Data collection involved various tools and resources:  
+• Access to both Arabic and foreign literature and references.  
+• An electronic timer for measuring time -based performance.  
+• A fully equipped sports club (gym) for conducting training sessions.  
+• Personal mobile devices, specifically HP laptops, for data analysis and calculations.  
+• Standardized measuring devices for assessing muscle size and strength.  
+• Body composition analysis using calipers and a bioelectrical impedance scale to assess muscle size.  
+
+Exploratory Experiment  
+An exploratory experiment was conducted on February 25, 2024, involving players not included in the main research sample. This exploratory phase was essential for validating the training curriculum and assessment protocols, ensuring that the devices and tools necessary for the tests were properly identified (Patten, 2016).  
+
+Main Experiment  
+Pre-Test:  The pre -tests were conducted on March 1, 2024, in a sports hall (gym) in Baghdad. All temporal and spatial conditions were standardized to ensure uniformity with the post-tests.  Training Application:  Following the pre-tests, training commenced in the gym. The sample was divided into two groups, each consisting of 22 participants. Two distinct training programs were designed:  
+
+Training Program  
+Training Program day Muscle Group Trained  Duration  
+Single-Muscle Training Program  Day 1  Chest  60-75 minutes  
+Day 2  Arms  45-60 minutes  
+Day 3  Back  60-75 minutes  
+Day 4  Shoulders  45-60 minutes  
+Two -Muscles Training Program  Day 1  Chest and Biceps  75-90 minutes  
+Day 2  Back and Triceps  75-90 minutes  
+Day 3  Shoulders and Abs  60-75 minutes  
+
+The training duration spanned 12 weeks, with training intensities ranging between 75 -95% of the participants' one-repetition maximum (1RM). This intensity range is consistent with recommendations for optimizing hypertrophy and strength gains (Schoenfeld, 2010).  
+
+Post-Test:  The post -tests were conducted on June 2, 2024, in the same gym where the pre -tests were administered, maintaining all temporal and spatial conditions for consistency.  
+
+Training Program Design  
+The participants engaged in a structured training program over a duration of 12 weeks, focusing on either a single -muscle or two -muscle training approach. The following table outlines the load progression and periodization for training intensities ranging from 75% to 95%, detailing the sets and repetitions prescribed each week.
+
+Load Progression and Periodization for Training Intensities (75% -95%).  
+
+Week  Training Intensity (%)  Sets Repetitions  Notes  
+1 75 3 10 Introduction phase; focus on technique.  
+2 75 4 10 Increase volume; maintain intensity.  
+3 80 4 8 Start to increase intensity; focus on form.  
+4 80 5 8 Increased intensity; recovery emphasized.  
+5 85 4 6 Peak intensity for muscle growth.  
+6 85 5 6 Continue high intensity; focus on maximal effort.  
+7 90 4 5 Deload week; maintain intensity, reduce volume.  
+8 90 5 5 Begin to increase volume again.  
+9 95 3 4 Peak intensity; focus on maximal lifts.  
+10 95 4 3 Test week; assess strength and hypertrophy progress.  
+11 90 4 5 Transition phase; slightly reduce intensity but maintain volume.  
+12 70 3 8 Recovery phase; focus on technique and active recovery.  
+
+Description of Periodization Phases  
+• Weeks 1 -2: Introduction Phase: Participants familiarize themselves with the exercises and prioritize correct form and technique while maintaining moderate intensity.  
+• Weeks 3 -4: Hypertrophy Phase: Gradual increase in intensity and volume, emphasizing mechanical tension and metabolic stress to stimulate muscle growth.  
+• Weeks 5 -6: Strength Phase: Shift focus towards higher intensity and lower repetitions, promoting maximal strength gains with increased recovery demands.
+• Weeks 7 -8: Deload and Recovery Phase: A deload week followed by a gradual increase in volume to allow muscles to recover while maintaining intensity.  
+• Weeks 9 -10: Peak Phase: Focus on maximal strength testing and assessing hypertrophy progress, with peak intensity during the training sessions.  
+• Weeks 11 -12: Transition and Recovery Phase: Transitioning back to slightly lower intensities while maintaining volume for technique refinement and active recovery.  
+
+Statistical Analysis  
+Statistical analyses of the collected data were performed using the Statistical Package for the Social Sciences (SPSS). The following statistical measures were applied:  
+Arithmetic mean and standard deviation to summarize data distribution.  
+Skewness coefficient to assess the normality of the data.  
+T-tests for comparing means between the two independent groups to evaluate the significance of changes observed from pre - to post -test measurements. Effect sizes were calculated to determine the practical significance of the results.  
+These statistical analyses provide reliable insights into the effects of the differing training methodologies on muscle growth and strength, allowing for a robust examination of the research hypothesis.  
+
+Results  
+
+Pre and post-tests for the first research group (single -muscle training group)  
+Variables  Pre-test Post-test T-test Value  Sig. Mean  Std. deviation  Mean  Std. deviation  
+Chest circumference  88.600  1.140  93.200  1.303  5.277  0.006  
+Upper arm circumference  29.200  0.836  33.200  0.836  7.303  0.002  
+Forearm circumference  24.800  0.836  30.600  0.894  8.744  0.001  
+
+Professional Interpretation of Table 3: Pre and Post-Test Results for the First Research Group (Single-Muscle Training Approach)  
+Table 4 presents a comparative analysis of the pre -and post-test measurements for the first research group, which followed a bodybuilding regimen focused on engaging one muscle group per training unit. The variables assessed include chest circumference, upper arm  circumference, and forearm circumference, with statistical significance evaluated using the paired sample T -test. The results provide key insights into the hypertrophic response to single-muscle-targeted exercises.  
+
+The results from Table 3 demonstrate the effectiveness of single-muscle training on the growth of upper body muscles, with significant gains observed in chest, upper arm, and forearm circumferences. The consistently low p-values (<0.05) across all variables validate the statistical significance of these results, affirming that the training protocol was effective in driving the hypertrophic response.promoting hypertrophy in a highly reliable and reproducible manner. The large T-test values further reflect substantial effect sizes, indicating that isolating individual muscle groups during training sessions leads to pronounced muscular adaptations.  
+These findings are consistent with the theoretical framework suggesting that targeted resistance training elicits specific hypertrophic responses by maximizing the mechanical tension and metabolic stress placed on the isolated muscles. Thus, the data support the hypothesis that single-muscle-focused training protocols are an effective strategy for increasing muscle mass in specific regions of the upper body, providing practical implications for bodybuilding programs aimed at enhancing muscular development through selective muscle engagement.  
+
+Table 5 presents the comparative pre and post-test measurements for the second research group, which followed a bodybuilding regimen involving exercises targeting two muscle groups per training unit. The key variables measured include chest circumference, upper arm circumference, and forearm circumference. The paired sample T-test was utilized to determine the significance of the observed changes, and the results offer critical insights into the efficacy of this dual -muscle approach on upper body hypertrophy.
+
+Chest Circumference:
+Pre-test mean : 89.400 cm (SD = 0.894).  
+Post-test mean : 91.200 cm (SD = 0.836).  
+
+A T-test value  of 9.000, with a p-value  of 0.001, indicates a statistically significant increase in chest circumference following the training intervention. The relatively low standard deviations highlight the consistency in results across participants, suggesting that incorporating two muscle groups per session still yields considerable gains in chest development, albeit at a slightly lower magnitude compared to single -muscle-focused training.  
+
+Upper Arm Circumference:
+Pre-test mean : 29.200 cm (SD = 0.894).  
+Post-test mean : 31.400 cm (SD = 0.894).  
+
+With a T-test value  of 11.644 and a p-value  of 0.000, the increase in upper arm circumference is highly statistically significant. This indicates that training two muscle groups per session resulted in notable hypertrophy in the upper arms. 
+
+Forearm Circumference:
+Pre-test mean : 23.800 cm (SD = 0.836).  
+Post-test mean : 26.200 cm (SD = 0.836).  
+
+A T-test value  of 9.798, with a p-value  of 0.001, signifies a significant increase in forearm circumference. The consistency in standard deviation indicates that the observed gains were uniform across participants, suggesting that the forearms respond well to multi-muscle activation strategies. The high T-test value further demonstrates a strong effect size, and the low p-value confirms  the robustness of the result.
+
+The results from Table 4 confirm that the dual -muscle training approach is effective in promoting significant upper body hypertrophy across all measured variables. However, when comparing these results with those from Table 1 (single-muscle group), the magnitude of gains is slightly less pronounced, suggesting that isolating a single muscle group may provide a more targeted stimulus for maximal growth in specific areas.
+
+The dual -muscle approach offers a more time-efficient strategy while still eliciting substantial hypertrophic adaptations. This method may prove advantageous for individuals seeking balanced muscle development across multiple regions of the upper body within a limited training timeframe. This method may also reduce the risk of overloading a single muscle group by distributing the training load, while still yielding significant improvements in muscle size across the upper body.
+
+The comparison of the two training approaches—one muscle versus two muscles per training unit—provides insights into how varying training volumes and focus impact hypertrophy.muscle hypertrophy in specific regions of the upper body. Each variable reflects different adaptive responses, with particular emphasis on hypertrophic outcomes as revealed by the statistical data from both groups.
+
+Chest Circumference:  Analyzing Growth Patterns  
+Single-Muscle Group: The chest circumference in the single-muscle group showed a mean increase of 4.6 cm, moving from 88.600 cm to 93.200 cm. This substantial hypertrophic response, accompanied by a T-test value of 5.277  and a p-value of 0.006, indicates a focused adaptation likely driven by the isolated stimulation of the pectoral muscles. The relatively high increase suggests that targeting one muscle per session enhances the metabolic stress and mechanical tension within that specific muscle, leading to superior growth.
+Two-Muscle Group: In contrast, the two-muscle group displayed a mean increase of 1.8 cm, with chest circumference rising from 89.400 cm to 91.200 cm. The T-test value of 9.000 and the p-value of 0.001 show statistical significance, but the magnitude of growth was considerably lower than in the single-muscle group. The distribution of energy and training load across two muscles likely diluted the stimulus on the chest, resulting in less localized hypertrophy. Despite the smaller gain, the higher T -test value signals greater uniformity in the participants’ responses, indicating that two-muscle training can be effective but with more moderate results.
+
+Upper Arm Circumference: Impact of Muscle Targeting  
+Single-Muscle Group: The upper arm circumference in the single-muscle group increased by 4.0 cm (from 29.200 cm to 33.200 cm), supported by a T-test value of 7.303  and a p-value of 0.002. This significant growth reinforces the notion that isolated training sessions, where the biceps or triceps are individually targeted, optimize tension on these muscles, promoting more efficient muscle fiber recruitment and recovery. The larger growth may also be attributed to higher volume concentration on a single muscle group, maximizing hypertrophy.
+Two-Muscle Group: The two-muscle group saw a smaller increase of 2.2 cm, with upper arm circumference increasing from 29.200 cm to 31.400 cm. Despite the lower absolute growth, the T-test value of 11.644 and the p-value of 0.000 highlight the precision and consistency of these gains across participants. Training two muscles in the same session, while still yielding significant hypertrophy, likely spreads recovery resources between muscle groups, limiting the growth potential of any single muscle. The lower increase could also be reflective of the fact that multi-muscle activation leads to a slightly reduced volume per muscle, affecting overall adaptation.
+
+Forearm Circumference: Differential Hypertrophy Response  
+Single-Muscle Group: Forearm circumference in the single-muscle group demonstrated the largest proportional growth, with a mean increase of 5.8 cm (from 24.800 cm to 30.600 cm), backed by a T-test value of 8.744 and a p-value of 0.001. This result underscores the high effectiveness of isolation training for smaller muscle groups like the forearms, where focused work leads to a significant hypertrophic response. The substantial increase suggests that targeted forearm exercises are particularly effective when done with isolated intensity, leading to both larger gains and a more significant impact on muscle fiber hypertrophy.
+Two-Muscle Group: Conversely, the forearm circumference in the two-muscle group increased by 2.4 cm (from 23.800 cm to 26.200 cm). The T-test value of 9.798 and p-value of 0.001 indicate that while the two-muscle protocol still promotes significant hypertrophy, the magnitude is less pronounced compared to the single-muscle group. This could be attributed to the splitting of resources across multiple muscles, leading to less concentrated hypertrophy. The forearm's smaller increase could also reflect a reduced ability to handle high training loads when attention is divided between two muscle groups in one session.
+
+Broader Implications of Hypertrophy Response to Training Methods
+The results from these two groups provide valuable insight into the differential effects of single-muscle versus two-muscle training approaches on upper body hypertrophy:
+1. Magnitude of Hypertrophy: The single-muscle group consistently showed greater gains across all muscle circumferences, highlighting the advantages of isolating muscle groups during training for maximal hypertrophic response. This supports the idea that focused mechanical tension and metabolic stress on individual muscles amplify the stimulus for growth, particularly when higher volumes can be devoted to each muscle in isolation.
+2. Uniformity and Statistical Precision: Despite producing less absolute hypertrophy, the two-muscle group consistently exhibited higher T-test values, indicating a more uniform response acrossIn conclusion, while both training methods-single-muscle and two-muscle approaches —are effective in promoting upper body hypertrophy, the single -muscle approach yields superior growth across all measured variables. However, the two-muscle group demonstrates greater consistency and could serve as a more balanced, time-efficient option. The findings suggest that selecting a training strategy should depend on individual goals, with single-muscle training being ideal for those focused on maximizing specific muscle development and two-muscle training offering a more holistic and efficient approach for balanced growth.
+
+The results showed improvement in both groups, one group used one muscle per day and the second group used two muscles per day, but the improvement that appeared in the second group that used two muscle groups per day was greater than the arithmetic mean of the group that used one muscle per day. The reason for this, in our opinion, is that each muscle was trained twice a week, unlike the group that trained one muscle per day. Also, there was a long period between training each muscle in the body's muscles in single -muscle training, which reduced the rapid improvement in muscle growth, unlike the group that trained two muscles per day.
+
+Focusing on a Single-muscle per session benefits include high focus which allows you to delve deeper into targeting the specific muscle, enhancing focus on technique and control. It gives the opportunity to use heavy weights and fewer repetitions, which helps build muscle size.
+
+Focusing on  two muscles per session benefits include time efficiency where you can target two or more muscles in the same session, making training more time-efficient. It also helps achieve a balance in strength development between different muscles, reducing the risk of injury.
+
+The effects on growth and progress are as follows: Single muscle training is preferred for beginners or those focused on developing a specific size in a specific muscle. Two muscles training is preferred for people looking to improve overall strength and fitness in a balanced way.
+
+Choosing a program depends on your individual goals, fitness level, and time availability: If you are looking for targeted muscle size, training for a single muscle can be more effective. If your goal is to improve overall strength and fitness, training for two or more muscles will be more beneficial.
+
+The results indicate that both training approaches—single-muscle and two -muscle training protocols—led to significant improvements in upper body hypertrophy, with gains in chest, upper arm, and forearm circumferences in both groups. The single -muscle group, focusing on one muscle per session, showed a more pronounced hypertrophic response in each area due to the isolated focus on specific muscles, maximizing mechanical tension and metabolic stress. In contrast, the two-muscle group, training two muscles per session, exhibited slightly lower absolute growth but demonstrated greater uniformity and consistency in results. 
+
+The larger increases in muscle circumference observed in the single-muscle group suggest that isolated training sessions generate a more intense hypertrophic stimulus. This is in line with the concept that focusing on one muscle group at a time allows for greater volume, mechanical tension, and metabolic stress, all of which are key factors in promoting muscle growth. The higher growth rates observed in the chest (4.6 cm), upper arm (4.0 cm), and forearm (5.8 cm) are likely due to the ability to concentrate the entire session's resources (energy, time, recovery) on a single muscle, optimizing hypertrophy. 
+
+Previous studies have highlighted the importance of mechanical tension in stimulating muscle protein synthesis.group per session can promote greater muscle adaptation and growth. This is likely due to the ability to concentrate more training volume and stimulus on a single muscle, leading to more muscle microtrauma and catalyzing more robust recovery and growth responses. 
+
+However, the two-muscle training method also demonstrated significant hypertrophy. While the hypertrophic gains were less compared to the single-muscle approach, the efficiency and versatility of this method, along with its application for time-constrained individuals or those seeking balanced muscle development, support its usefulness. 
+
+The results stress the role of training volume, intensity, and recovery in muscle growth. When designing training protocols, individual goals, available time, and recovery capacity should be taken into consideration. In the future, research could examine how different training volumes, intensities, and recovery periods affect hypertrophy in single vs. two-muscle training protocols, along with the influence of diet and sleep. Strict control over these factors will provide more insightful results.
+
+The study's limitations include a lack of dietary control and absent monitoring of sleep routines. Both nutrition and sleep play significant roles in muscle recovery and growth, so they could have potentially affected the outcomes. Further investigations should aim to control these variables to capture their impact on hypertrophy strategies more accurately. 
+
+This study provides evidence for an effective model, with its unique benefits and drawbacks, for both single-muscle and two-muscle training approaches. Practitioners and athletes can apply these insights to optimize training protocols and achieve their specific hypertrophy objectives, whether they aim for maximum muscle growth in specific areas or more balanced muscle development across various groups.Per session maximizes muscle growth. However, the two-muscle approach provided significant hypertrophy with greater consistency, offering a reliable and efficient method for balanced upper body development. 
+
+Future research could expand on these findings by exploring the long-term effects of these training approaches on muscle growth and strength. Additionally, investigating the impact of different intensities, frequencies, and recovery protocols in conjunction with single and two-muscle training could provide further insights into optimizing hypertrophy and performance outcomes.  
+

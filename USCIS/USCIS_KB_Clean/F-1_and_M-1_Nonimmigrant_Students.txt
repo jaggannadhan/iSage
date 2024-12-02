@@ -1,0 +1,163 @@
+Source: https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/70-evidence-of-employment-authorization-for-certain-categories/74-exchange-visitors-and-students/742-f-1-and-m-1-nonimmigrant-students
+
+F-1 and M-1 Nonimmigrant Students
+Foreign students pursuing academic studies and/or language training programs are classified as F-1 nonimmigrants, while foreign students pursuing nonacademic or vocational studies are classified as M-1 nonimmigrants. Designated school oﬀicials (DSO) at certified schools issue Form I-20, Certificate of Eligibility for Nonimmigrant (F-1)/(M-1) Students. Foreign academic or vocational students may work in the United States under certain circumstances. DHS issues documents showing employment authorization based on the type of student they are and the type of employment they have.
+
+Academic Students in F-1 Nonimmigrant Status
+F-1 students may not work off-campus during the first academic year but may accept on-campus employment subject to certain conditions and restrictions. After the first academic year, F-1 students may seek off-campus employment through a variety of programs. The following table shows where students can locate their “Authorized to Work Until” date for Section 1, as well as the types of documents they may receive and could present to you for Form I-9 purposes.
+
+
+F-1 Employment Type: On campus
+Students: Where to Find Your “Authorized to work until” Date for Section 1: Form I-20, Certificate of Eligibility for Nonimmigrant Student Status, program end date
+Employers: Section 2 Acceptable Documents: Unexpired foreign passport and Form I-94, Arrival/Departure Record (Or) List B and List C document (unexpired Form I-94)
+
+F-1 Employment Type: Curricular practical training (CPT)
+Students: Where to Find Your “Authorized to work until” Date for Section 1: Form I-20, Certificate of Eligibility for Nonimmigrant Student Status, CPT end date from the employment authorization field
+Employers: Section 2 Acceptable Documents: Employers: Section 2 Acceptable Documents: Unexpired foreign passport, Form I-94, and Form I-20 (Or) List B and List C documents (unexpired Form I-94 with Form I-20)
+
+F-1 Employment Type: Off campus, severe economic hardship
+Students: Where to Find Your “Authorized to work until” Date for Section 1: Form I-766, Employment Authorization Document (EAD) “Card Expires” date
+Employers: Section 2 Acceptable Documents: EAD
+
+F-1 Employment Type: Off campus, sponsored by an international organization
+Students: Where to Find Your “Authorized to work until” Date for Section 1: Form I-766, Employment Authorization Document (EAD) “Card Expires” date
+Employers: Section 2 Acceptable Documents: EAD
+
+F-1 Employment Type: Optional practical training (OPT)
+Students: Where to Find Your “Authorized to work until” Date for Section 1: Form I-766, Employment Authorization Document (EAD) “Card Expires” date
+Employers: Section 2 Acceptable Documents: EAD
+
+F-1 Employment Type: OPT science, technology, engineering, and math (STEM)
+Students: Where to Find Your “Authorized to work until” Date for Section 1: Form I-766, Employment Authorization Document (EAD) “Card Expires” date
+Employers: Section 2 Acceptable Documents: EAD
+
+F-1 Employment Type: STEM OPT extension
+Students: Where to Find Your “Authorized to work until” Date for Section 1: Form I-766, Employment Authorization Document (EAD) “Card Expires” date (Or) Expired EAD “Card Expires” date plus 180 days.
+Employers: Section 2 Acceptable Documents: EAD or Expired EAD* with Form I-20 endorsed by a designated school official for STEM extension.
+
+F-1 Employment Type: Cap-gap F-1 with pending H-1B petition
+Students: Where to Find Your “Authorized to work until” Date for Section 1: Enter Sept. 30 and the year the H‑1B petition was filed.
+Employers: Section 2 Acceptable Documents: Form I-766, Employment Authorization Document (EAD) and Form I-797C, Notice of Action for Form I-129, Petition for a Nonimmigrant Worker
+
+*In limited circumstances, employers may accept an EAD that appears to be expired for Form I-9 verification. See F-1 STEM OPT Extension below.
+
+
+On-Campus Employment
+Subject to certain conditions, F-1 students may work on campus without approval from USCIS until they complete their course of study. The F-1 nonimmigrant admission notation on their Form I-94 usually states “D/S” indicating duration of status. The F-1 student’s Form I-20 provides a Program End Date field, which is the latest date they can complete the academic program stated on the Form I-20 . The student must enter the program end date in Section 1 as the date employment authorization expires.
+
+In Section 2, you may enter:
+1. A List A document, including the combination of:
+   a. A foreign passport; and
+   b. Form I-94 indicating F-1 nonimmigrant status
+
+or
+
+2. List B and List C documents:
+   a. For example, a state driver’s license (List B document) and, under List C #7, a Form I-94 indicating F-1 nonimmigrant status. 
+
+We do not require you to record information from the student’s Form I-20 in Section 2 for on-campus employment.
+
+F-1 students may work:
+1. On the school’s premises, including on-location commercial firms that provide services for students on campus, such as the school bookstore or cafeteria; and
+2. At an oﬀ-campus location that is educationally aﬀiliated with the school.
+
+Employment that does not provide direct services to students is not on-campus employment. For example, an on-campus commercial firm, such as a construction company that builds a school building, does not provide direct student services. Guidelines for on-campus employment are available at ice.gov/sevis/employment.
+
+On-campus employment is limited to 20 hours a week when school is in session. An exception to this limitation applies in cases of emergent circumstances that DHS announces in a Federal Register notice.
+
+Curricular Practical Training
+Curricular practical training (CPT) allows students to accept paid alternative work/study, internship, cooperative education, or any other type of required internship or practicum that sponsoring employers oﬀer through cooperative agreements with the school. The CPT program must be an integral part of the student’s degree program curriculum. The DSO must authorize CPT on the student’s Form I-20. The student should enter the CPT employment end date from the employment authorization section of their Form I-20 in Section 1 as the date employment authorization expires.
+
+In Section 2, you may enter:
+1. A List A document, including the combination of:
+   a. A foreign passport;
+   b. Form I-94 indicating F-1 nonimmigrant status; and
+   c. Form I-20 with the DSO endorsement for employment
+
+or
+
+2. List B and List C documents:
+   a. For example, a state driver’s license (List B document) and, under List C #7, a Form I-94 indicating F-1 nonimmigrant status with a properly endorsed Form I-20. You should enter the additional List C document in the Additional Information box.
+
+An acceptable Form I-20 for CPT must have all Employment Authorization fields completed. These fields include employment status, employment type, start and end date of employment, and the employer’s name and location. Use the CPT Employment End Date on Form I-20 as the expiration date in Section 2.
+
+Border commuter students who enter the United States as an F-1 nonimmigrant may only work as part of their CPT or post-completion OPT.
+
+Optional Practical Training (OPT) for F-1 Students – EAD Required
+OPT provides practical training experience that directly relates to an F-1 nonimmigrant’s major area of study on the Form I-20. An F-1 student authorized for OPT may work up to 20 hours per week while school is in session and full-time when school is not in session. After completing their degree program, USCIS may authorize an F-1 student up to 12 months of OPT. Certain F-1 students may be eligible to extend their OPT; see F-1 STEM OPT Extension below for more information.
+
+The designated school oﬀicial must update Form I-20 to indicate an OPT recommendation. F-1 students must obtain an EAD from USCIS before they are authorized to work pursuant to OPT. The student may not begin employment until the date indicated on the EAD. The EAD establishes the student’s identity and employment authorization for Form I-9 purposes.
+
+When completing Section 1, the student must enter the EAD Card Expires date in the Authorized to Work Until field in Section 1. When completing Section 2 for this student, you should enter the EAD’s card number and Card Expires date under List A. When the student’s EAD expires, you must reverify the student’s employment authorization using Supplement B, Reverification and Rehire.
+
+F-1 STEM OPT Extension
+An F-1 student who received a bachelor’s, master’s, or doctoral degree in science, technology, engineering, or mathematics from an accredited and Student and Exchange Visitor Program (SEVP)-certified school may apply for a 24-month extension of their OPT before their current OPT employment authorization expires. Employment must be directly related to their major area of study, and you must be enrolled in and be in good standing with E-Verify.
+
+Your E-Verify company identification number is required for the student to apply to USCIS for the STEM extension using Form I-765, Application for Employment Authorization. A STEM student may change employers or work at a diﬀerent hiring site for the same employer, but any new employer or new hiring site must be enrolled in and be in good standing with E-Verify before the student begins employment. Moreover, new employers or hiring sites must timely report any change in the student’s employment information, as described below.
+
+The EAD issued to the F-1 STEM OPT student states “STU: STEM OPT ONLY.” The following documents establish a student’s identity and employment authorization for Form I-9:
+1. An unexpired EAD; or
+2. An expired EAD presented with Form I-20 endorsed by the student’s designated school oﬀicial recommending a STEM extension if the student timely filed their Form I-765 but their application is still pending. If the student has changed employers, this Form I-20 must also contain the new employer’s information.
+   In this case, you should enter the following information under List A in Section 2:
+   a. Enter EAD in the Document Title field;
+   b. Enter EAD number in the Document Number field;
+   c. Enter the date 180 days from the Card Expires date on the EAD in the Expiration Date field; and
+   d. Enter “EAD EXT” in the Additional Information field.
+
+To update Section 2 for a current employee with a STEM OPT extension:
+1. Review the employee’s Form I-20 endorsed by the student’s designated school oﬀicial recommending a STEM extension.
+2. Enter “EAD EXT” and the date 180 days from the Card Expires date on the EAD in the Additional Information field. For example, EAD EXT mm/dd/yyyy. If the employee’s original Form I-9 was completed on a Form I-9 that is no longer valid, enter this information in the Additional Information field in Section 2 of a new valid version of Form I-9, initial and date the notation, and retain it with the employee’s original Form I-9.
+
+You must reverify this student’s employment authorization on the date you entered in Section 2.
+
+The student’s Form I-20 for STEM OPT must have all Employment Authorization fields completed. These fields include employment status, employment type, start and end date of employment, and your name and location.
+
+You have specific responsibilities when providing practical training opportunities to STEM OPT students, including:
+1. Enrolling in E-Verify and remaining in good standing before employing an F-1 STEM OPT student.
+2. Implementing a formal training plan to augment the student’s academic learning through practical experience.
+3. Completing the employer’s portion and certifying Form I-983, Training Plan for STEM OPT Students.
+4. Reporting to the DSO and updating Form I-983 if there are any changes to or material deviations from the student’s formal training plan.
+5. Reporting a student’s termination of employment or departure to the DSO within five business days.
+
+Additional requirements and information on your responsibilities are available at studyinthestates.dhs.gov.
+
+Cap-Gap
+The term “cap-gap” refers to the period between the time a nonimmigrant’s F-1 student status would ordinarily end and their H-1B status begins. F-1 students who seek to change to H-1B status may be eligible for a cap-gap extension of status and employment authorization through Sept. 30 of the calendar year you filed Form I- 129, Petition for Nonimmigrant Worker (H-1B petition) but only if the student’s H-1B status begins on Oct. 1.
+
+If you employ an F-1 nonimmigrant student in OPT and you timely filed an H-1B petition for that student, they may be able to continue working beyond the expiration date on their OPT EAD while waiting for the start date of an approved or pending H-1B petition.
+
+There are two types of cap-gap extensions:
+1. Extensions of F-1 status only (without OPT): If a student is in F-1 status when you file an H-1B petition with an Oct. 1 start date, but the student is not currently participating in OPT, they will receive a cap-gap extension of their F-1 status but will not be authorized to work until we approve the petition and their H-1B status begins on Oct. 1.
+2. Extensions of F-1 status and OPT: If a student is in F-1 status when you file an H-1B petition with an Oct. 1 start date and is currently participating in post-completion OPT, they will receive an automatic cap-gap extension of both their F-1 student status and their authorized period of post-completion OPT. If we select their petition and it remains pending or we approve it, the student will remain authorized to work as an F-1 student with OPT through Sept. 30.
+
+Cap-Gap Automatic Extension Based on Timely Requests to Change Status
+
+For an eligible F-1 student to receive an automatic EAD extension, you must:
+1. Timely file a petition to change the student’s status to H-1B; and
+2. State the student’s employment start date is Oct. 1 of the year you filed the H-1B petition.
+
+The employee’s expired EAD in combination with your Form I-797C, Notice of Action, showing the above requirements is an unexpired EAD under List A. This automatic extension ends if the H-1B petition is rejected, denied, revoked, or withdrawn.
+
+Timely filed means you submitted the H-1B petition (indicating change of status rather than consular processing) during the acceptance period while the student’s authorized F-1 duration of status admission was still in eﬀect. This includes any period of time during the academic course of study, any authorized periods of post completion OPT, and the 60-day departure preparation period.
+
+In Section 1, a new employee should:
+1. Select “A noncitizen authorized to work until;” and
+2. Enter “Sept. 30” and the year the H-1B change of status petition was filed as the expiration date.
+
+In Section 2, you should:
+1. Enter “EAD” as the document title;
+2. Enter the Form I-797C receipt number in the Document Number field;
+3. Enter “Sept. 30” and the year you filed the petition in the Expiration Date field; and
+4. Enter “CAP-GAP” in the Additional Information field.
+
+To update Section 2 for a current employee eligible for a cap-gap extension once you receive Form I-797C, enter CAP-GAP and Sept. 30 and the year you filed the petition in the Additional Information field. For example, CAP-GAP 09/30/yyyy. If the employee’s original Form I-9 was completed on a Form I-9 that is no longer valid, enter this information in the Additional Information field in Section 2 of a new valid version of Form I-9 and retain it with the employee’s original Form I-9.
+
+Cap-Gap Reverification
+If an employee’s EAD automatic extension expires on Oct. 1, you must reverify their employment authorization in Supplement B, Reverification and Rehire by Sept. 30 of the year you filed the petition. When we approve the H-1B petition you will receive a Form I-797 with your employee’s new Form I-94. Enter the Form I-94 document title, number, and expiration date in one block of Supplement B to complete reverification. The employee may also present any document from List A or C, or an acceptable List A or C receipt described in Section 4.4, Acceptable Receipts (https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/40-completing-section-2-employer-review-and-verification/44-acceptable-receipts), to reverify their employment authorization. If the employee’s original Form I-9 was completed on a Form I-9 that is no longer valid, reverify the employee’s employment authorization using a block of Supplement B: Reverification and Rehire of a new valid version of Form I-9 and retain it with the employee’s original Form I-9.
+
+E-Verify employers may create a case in E-Verify for a new employee with a cap-gap extension using the information provided on their Form I-9.
+
+Vocational Students in M-1 Nonimmigrant Status
+Foreign students pursuing nonacademic or vocational studies are classified as M-1 nonimmigrants. M-1 students may only accept employment after completion of their course of study and if it is part of a practical training program. The student must receive an EAD before working and can only work for a maximum of six months of practical training. Enter the M-1 student’s EAD information under List A in Section 2 of Form I-9.
+
+Dependents of M-1 students who have M-2 status are not eligible for employment authorization.

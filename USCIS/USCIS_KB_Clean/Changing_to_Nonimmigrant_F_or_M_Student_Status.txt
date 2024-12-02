@@ -1,0 +1,55 @@
+Source: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/students-and-employment/changing-to-a-nonimmigrant-f-or-m-student-status
+
+Changing to a Nonimmigrant F or M Student Status
+Is it permissible to enroll in school while in a nonimmigrant status other than student status?
+It depends. Some statuses permit you to enroll in school, while other statuses do not. For example, the regulations at 8 C.F.R. § 214.2(b)(7) specifically prohibit a course of study in the United States while in B-1 or B-2 status. However, no such prohibition exists for those in E status, so individuals in that status can enroll in school as long as it does not interfere with their ability to maintain their E status.
+
+Individuals in a nonimmigrant status that prohibits enrolling in school must first acquire F-1 (academic student) or M-1 (vocational student) status. Enrolling in a course of study while in a status that does not permit such activity will result in a status violation. Individuals who have violated their nonimmigrant status by enrolling in a course of study are not eligible to extend their status or change to F-1 or M-1 status.
+
+Changing to F or M Status from Another Nonimmigrant Status
+If you are in the United States in valid nonimmigrant status for a purpose other than to attend school and wish to change your nonimmigrant status to a student status while remaining in the United States, you must meet the criteria below and submit an application with USCIS to change your status. 
+
+In general, you may apply to change your nonimmigrant status while remaining in the United States if:
+
+You were lawfully admitted to the United States in a nonimmigrant status;
+Your nonimmigrant status remains valid;
+You have not violated the conditions of your status; and
+You have not committed any crimes or engaged in any other actions that would make you ineligible for change of status.
+Until you receive notice of approval from USCIS, do not assume the requested status has been approved. Before USCIS may approve your application, you must take the following steps: 
+
+Apply to and receive acceptance from a U.S. Student and Exchange Visitor Program (SEVP)-certified school.
+Obtain an initial Form I-20, Certificate of Eligibility for Nonimmigrant Student Status, from the SEVP-certified school. The Designated School Official (DSO) should give change of status in the Issue Reason section of the Form I-20.
+Pay the I-901 SEVIS Fee.
+File a Form I-539, Application to Extend/Change Nonimmigrant Status, with USCIS.
+Not all nonimmigrant classifications are allowed to change to student status. Read the Form I-539 instructions carefully to ensure that your category is eligible.
+
+What if My Current Status Doesn’t Allow Me to Enroll in Classes?
+If you are requesting to change from another nonimmigrant status to F or M student status and your current nonimmigrant status does not permit you to enroll in classes, do not enroll in classes or begin your studies until USCIS has approved your change of status. If USCIS has not adjudicated your change of status at least 15 days before the program start date on your Form I-20, contact the designated school official (DSO) at your new school. If USCIS does not grant your request to change status prior to the start date of classes, you may need to defer attendance and wait until the following term in order to begin your studies at the school in F or M status.
+
+Please note that if you are applying to change status to M status, you must maintain a valid nonimmigrant status while your Form I-539 change of status application is pending.
+
+We encourage all students and prospective students to work closely with their DSO to coordinate the timing of applying for change of status and enrolling in a course of study.
+
+NOTE: If you are an M-1 student, you may not change to F status while you are in the United States.
+
+What if My Change of Status Application to F-1 Nonimmigrant Student is Still Pending Within 30 Days of My F-1 Program Start Date?
+Due to processing times, you may have to request that your DSO defer the F-1 program start date to the following academic term or semester because USCIS did not make a decision on your Form I-539 change of status application before your originally intended F-1 program start date. If your COS application is approved, your change of status to F-1 will be effective as of the date of approval. You are not required to obtain status all the way up to the date that is 30 days before your program start date (“bridge the gap”), provided that your nonimmigrant status is unexpired at the time of filing the change of status to F-1 application, and you otherwise remain eligible for a change of status.
+
+What if My Change of Status Application to F-1 Nonimmigrant Student is Approved More than 30 Days Before My F-1 Program Start Date?
+If we approve an application more than 30 days before your program start date, you must ensure that you do not violate your F-1 status. An example of a violation would be engaging in employment, including on-campus employment and practical training, more than 30 days before the program start date as listed on your Form I-20.
+
+What if my Change of Status Application to M-1 Nonimmigrant Student is Still Pending within 30 Days of My M-1 Program Start Date?
+If your current nonimmigrant status will expire more than 30 days before your M-1 program start date and you wish to remain in the United States until your start date, you must find a way to obtain status all the way up to the date that is 30 days before your program start date (“bridge the gap”). For most people, you will need to file a separate Form I-539 to request to extend your current status or change to another nonimmigrant status, in addition to your other Form I-539 application to change to student status. If you do not file this separate request before your status expires, USCIS will deny your Form I-539 request to change to M-1 status. Please continue to check the USCIS processing times while your Form I-539 change of status request is pending to determine if you need to file a request to extend or change your nonimmigrant status. 
+
+Note that because of processing times, you may have to request that your DSO defer the M-1 program start date to the following term or semester because USCIS did not make a decision on your Form I-539 change of status application before your originally intendedM-1 program start date. In that instance, you will need to obtain status all the way up to the date which is 30 days before your new program start date. If you had already filed an I-539 to bridge the original gap, you may need to file another I-539 to bridge the new gap.
+Because extending or changing nonimmigrant status to bridge the gap and changing to M-1 status are two distinct benefits, you must pay a separate filing fee for each request. See the User Fee Statute, 31 U.S.C. § 9701. 
+
+Leaving the United States to Become an F-1 or M-1 Student
+You may consider consular processing if you are concerned about maintaining your nonimmigrant status to within 30 days of your M-1 program start date (which may be deferred as described above) or are otherwise not eligible to change status to F-1 or M-1 status in the United States. You will need to do the following:
+
+Apply to and receive acceptance from a SEVP-certified school.
+Receive a new initial Form I-20 from your designated school official (DSO).
+Pay the I-901 SEVIS fee.
+Apply at a U.S. consulate or embassy for an F-1 or M-1 visa to travel to the United States in order to seek admission as a student.
+If you are from a country where no visa is required, such as Canada, you may proceed directly to a U.S. port of entry or a U.S. pre-clearance/pre-flight inspection station and apply for admission to the United States as an F-1 or M-1 student.
+Once admitted by an immigration officer in F-1 or M-1 status, you may begin your studies.
