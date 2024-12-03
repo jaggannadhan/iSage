@@ -1,0 +1,95 @@
+Source: https://www.uscis.gov/working-in-the-united-states/information-for-employers-and-employees/employer-information/validation-instrument-for-business-enterprises-vibe-program
+
+Validation Instrument for Business Enterprises (VIBE) Program
+The web-based Validation Instrument for Business Enterprises (VIBE) is a tool designed to enhance USCIS’ adjudications of certain employment-based immigration petitions and applications. VIBE uses commercially available data from an independent information provider (IIP) to validate basic information about companies or organizations petitioning to employ certain noncitizens and to validate the basic information about the companies or organizations listed on:
+1. Form I-129, Petition for a Nonimmigrant Worker; (https://www.uscis.gov/i-129)
+2. Form I-140, Immigrant Petition for Alien Worker; (https://www.uscis.gov/i-140)
+3. Form I-360, Petition for Amerasian, Widow(er), or Special Immigrant; (https://www.uscis.gov/i-360) and 
+4. Form I-485 Supplement J, Confirmation of Bona Fide Job Offer or Request for Job Portability Under INA Section 204(j) (https://www.uscis.gov/i-485supj).
+
+For additional information, please visit the VIBE Questions and Answers (https://www.uscis.gov/working-in-the-united-states/information-for-employers-and-employees/employer-information/vibe/vibe-questions-and-answers) page.
+Currently, Dun and Bradstreet (D&B) is the independent information provider for the VIBE program.
+
+Background
+When adjudicating employment-based petitions or applications, USCIS must primarily rely on paper documentation supplied by the petitioning company or organization to establish the petitioner’s eligibility for the requested classification or by the applicant to confirm a bona fide job offer or request job portability.
+When the paperwork does not sufficiently document the evidence required under the law, USCIS must issue a Request for Evidence (RFE) for additional documentation, delaying final adjudication of the petition or application.
+The VIBE program has been introduced to address some of these issues.
+
+VIBE Program
+VIBE allows USCIS to electronically receive commercially available information from an IIP, currently D&B, about a company or an organization. This information includes:
+1. Business activities, such as type of business (North American Industry Classification System code), trade payment information, and status (active or inactive)
+2. Financial standing, including sales volume and credit standing
+3. Number of employees, both on-site and globally
+4. Relationships with other entities, including foreign affiliates
+5. Type of office (examples include single entities, branches, subsidiaries and headquarters)
+6. Type of legal entity (for example, LLC, partnership or corporation)
+7. Company executives
+8. Date of establishment as a business entity
+9. Current physical address
+
+USCIS officers review all information received through VIBE along with the evidence submitted by the petitioner or applicant and will use the information from VIBE to verify the petitioner’s qualifications. For example, if a petitioner is seeking L-1 status for a beneficiary, VIBE will help USCIS officers confirm that the petitioner has a foreign affiliate, which is a requirement for granting L-1 status. They will also use the information from VIBE to validate the bona fides of the employer when certain employment-based applicants file for lawful permanent resident status.
+Information from VIBE will also help to confirm an employer's financial viability and operational status for petitions and applications where a job offer is required. USCIS will not deny a petition or an application solely based upon information from VIBE. If USCIS officers find significant data discrepancy between the evidence submitted by the petitioner or applicant and the information presented in VIBE, they will give the petitioner or applicant the opportunity to respond to the agency’s concerns. USCIS may issue an RFE or a Notice of Intent to Deny (NOID) if it is necessary to resolve relevant inconsistencies or other issues that emerge upon review of VIBE-supplied information that are material to the benefit requested.
+USCIS will then make a final decision based on the totality of the circumstances.
+
+Your Company’s or Organization’s Information in VIBE
+USCIS does not require companies and organizations to create or update records with D&B; however, you may choose to create, verify, or correct your company or organization’s information with D&B.
+If your entity is a U.S.-based privately held company or organization and you would like to create, verify or correct its D&B record, you may contact D&B directly online through iUpdate for U.S. government customers (https://www.dnb.com/duns/duns-number-and-government.html). Contacting D&B through this link will allow you to create, update and view basic elements of your company’s or organization’s D&B report without being subjected to direct marketing from D&B. It is only available for U.S.-based privately held companies and other U.S. government customers.
+iUpdate for U.S. government customers is a free, password-protected and encrypted online service tool offered by D&B. Its users will be asked a series of short challenge questions, based on geographical and demographic data, to authenticate and establish an ID and password. Only those with access to your established ID and password will be able to access your business information.
+If you are a U.S.-based publicly traded company, government entity, or foreign company and you want to create, update or view your report with D&B, you may use dnb.com.  
+Please be aware that if you update your information through dnb.com, you may be subjected to direct marketing from D&B. D&B representatives may suggest that you purchase products and services from D&B. USCIS does not endorse D&B or its products or services, and does not in any way suggest that you purchase products or services from D&B in order to ensure your information is complete. Additionally, USCIS does not in any way suggest that you pay any fee to expedite the creation of a new record or to update an existing record.
+There is no fee to check, update or create a record for your company or organization with D&B.
+Please note that whether or not you choose to create a record or update your record with D&B, you must respond to any RFE or NOID you receive from USCIS. Failure to respond directly to USCIS could result in the denial of your petition.
+
+Immigrant Classifications Included in VIBE
+The following Form I-140, Immigrant Petition for Alien Worker, employment-based immigrant classifications are included in VIBE:
+1. E12, outstanding professor or researcher
+2. E13, multinational executive or manager
+3. E21, member of professions holding an advanced degree or a noncitizen of exceptional ability (with the exception of National Interest Waiver petitions)
+4. E31, skilled worker
+5. E32, professional
+6. EW3, unskilled/other worker
+
+Additionally, the following Form I-360, Petition for Amerasian, Widow(er) or Special Immigrant, employment-based immigrant classifications are included in VIBE:
+1. SD1, minister of religion
+2. SR1, non-minister in a religious occupation or vocation
+
+Nonimmigrant Classifications Included in VIBE
+The following Form I-129, Petition for a Nonimmigrant Worker, employment-based nonimmigrant classifications are also included in VIBE:
+1. E-1, treaty trader
+2. E-2, treaty investor
+3. E-3, member of specialty occupation who is a national of the Commonwealth of Australia
+4. H-1B, specialty occupation worker
+5. H-1B1, specialty occupation worker from Chile or Singapore
+6. H-1B2, worker performing services related to a Department of Defense cooperative research and development project or coproduction project
+7. H-1B3, fashion model of distinguished merit and ability
+8. H-2A, temporary or seasonal agricultural worker
+9. H-2B, temporary nonagricultural worker
+10. H-3, trainee or special education exchange visitor
+11. L-1A, intracompany transferee in a managerial or executive position
+12. L-1B, intracompany transferee in a position utilizing specialized knowledge
+13. LZ, blanket L petition
+14. Q-1, international cultural exchange visitor
+15. R-1, religious worker
+16. TN, NAFTA professional from Canada or Mexico
+
+I-485 Supplement J Included in VIBE
+When an applicant files Form I-485 Supplement J to confirm a bona fide job offer or to request job portability under INA section 204(j), USCIS will use VIBE to validate the basic information about the companies or organizations listed on the Form I-485 Supplement J. However, if the employer is listed as “Self/Individual” on the Form I-485 Supplement J, USCIS will not use VIBE because an individual’s information is not included in VIBE.
+
+Classifications Not Included in VIBE
+Due to their unique eligibility requirements, the following employment-based classifications are not included in VIBE at this time:
+1. CW-1, Commonwealth of the Northern Mariana Islands (CNMI)-only transitional worker
+2. E-2C, long-term foreign investors in the CNMI
+3. E11, individuals of extraordinary ability
+4. E21, national interest waiver
+5. EB-5, immigrant investor
+6. O, individuals with extraordinary ability or achievement (including essential support personnel)
+7. P, internationally recognized athletes and entertainment groups, performers under a reciprocal exchange program, and artists or entertainers under a culturally unique program (including essential support personnel)
+
+Goals of VIBE
+The use of VIBE is expected to enhance USCIS’ ability to distinguish eligible petitioners and applicants from those who may be ineligible, and thus make reviews by USCIS officers more efficient.
+The use of VIBE should reduce the need for companies and organizations to submit identical paper documentation with each petition to establish their current level of business operations. Through VIBE, USCIS should also be able to reduce the number of RFEs issued to otherwise eligible petitioners or applicants.
+By providing the same petitioner and applicant information to all five USCIS service centers, VIBE promotes the consistent review of employment-based immigrant and nonimmigrant filings. Overall, the information VIBE provides improves the integrity of employment-based immigrant and nonimmigrant programs and the process for petitioners seeking foreign workers to employ.
+
+Feedback about VIBE
+USCIS may send to some petitioners or applicants an RFE or NOID that references information VIBE has received from the IIP. Petitioners or applicants MUST respond to these RFEs or NOIDs; failure to respond may result in the denial of the petition or application.
+Customers may email to USCIS their questions about RFEs or NOIDs involving IIP information we received through VIBE, as well as suggestions for improving the program, to VIBE-Feedback@dhs.gov.

@@ -1,0 +1,233 @@
+Source: https://www.uscis.gov/eadautoextend
+
+
+Automatic Employment Authorization Document (EAD) Extension
+ALERT: If you filed Form I-765 based on a grant of Temporary Protected Status (TPS) or a pending TPS application, please see the Temporary Protected Status (TPS) section below for more information on TPS-specific requirements for the automatic EAD extension.
+
+If you filed Form I-765, Application for Employment Authorization, to renew your expiring Employment Authorization Document (EAD), you may qualify for an automatic extension of the expiration date printed on your EAD while your application is pending. You qualify for this automatic extension if:
+1. The Form I-797C, Notice of Action, receipt notice you received for your pending Form I-765 renewal application has a “Received Date” that is before the “Card Expires” date shown on the face of your EAD;
+2. The Form I-797C, Notice of Action, receipt notice has a “Received Date” on or after May 4, 2022, and on or before Sept. 30, 2025;
+3. Your renewal application is under a category that is eligible for an automatic extension (see the list of categories below); and
+4. The category on your current EAD matches the “Eligibility Category” or “Class Requested” listed on your Form I-797C, Notice of Action, receipt notice. (The table below lists exceptions for certain categories.)
+If all the above factors are true, then your employment authorization does not expire on the date printed on your EAD, because you have been granted an automatic extension. To determine your actual EAD expiration date, please see the “Automatic Extension Eligibility Calculator” below.
+
+Categories Eligible for Automatic Extensions
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+A03		
+Description:
+Refugee
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+A05		
+Description:
+Asylee
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+A07
+Description:
+N-8 or N-9
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+A08
+Description:
+Citizen of Micronesia, Marshall Islands, or Palau
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+A10
+Description:
+Withholding of Deportation or Removal Granted
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+A12
+Description:
+Temporary Protected Status (TPS) Granted
+Length of extension:
+Up to 540 days (See TPS section below for more information)
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+A17
+Description:
+Spouse of principal E nonimmigrant with an unexpired I-94 showing E (including E-1S, E-2S and E-3S) nonimmigrant status
+Length of extension:
+Up to 540 days, or expiration date on I-94, whichever is sooner
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+A18
+Description:
+Spouse of principal L-1 Nonimmigrant with an unexpired I-94 showing L-2 (including L-2S) nonimmigrant status
+Length of extension:
+Up to 540 days, or expiration date on I-94, whichever is sooner
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+C08
+Description:
+Asylum Application Pending	
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+C09
+Description:
+Pending Adjustment of Status under Section 245 of the Act	
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+C10
+Description:
+Suspension of Deportation Applicants (filed before April 1, 1997), Cancellation of Removal Applicants, Special Rule Cancellation of Removal Applicants Under NACARA	
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+C16
+Description:
+Creation of Record (Adjustment Based on Continuous Residence since Jan. 1, 1972)	
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+C19
+Description:
+USCIS determined applicant is prima facie eligible for TPS and can receive an EAD as a “temporary treatment benefit”	
+Length of extension:
+Up to 540 days (See TPS section below for more information)
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+C20
+Description:
+Section 210 Legalization (pending I-700)	
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+C22
+Description:
+Section 245A Legalization (pending I-687)	
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+C24
+Description:
+LIFE Legalization	
+Length of extension:
+Up to 540 days
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+C26
+Description:
+Spouses of certain H-1B principal nonimmigrants with an unexpired I-94 showing H-4 nonimmigrant status	
+Length of extension:
+Up to 540 days, or expiration date on I-94, whichever is sooner
+
+
+The “Class requested” or “Eligibility Category” on your Form I-797C, Notice of Action, receipt notice for your Form I-765 renewal application:
+C31
+Description:
+VAWA Self-Petitioners	
+Length of extension:
+Up to 540 days
+
+Automatic Extension Eligibility Calculator 
+To confirm that you meet the eligibility requirements for the automatic employment authorization and/or EAD extension, use the calculator below. The calculator will also determine your auto-extended EAD expiration date.
+You will need your current EAD (expired or unexpired) and Form I-797C, Notice of Action, receipt notice of your form I-765 to use the calculator. If you are filing under employment authorization Category Codes A17, A18, or C26, you will also need your unexpired Form I-94.
+
+How the calculator works:
+The automatic extension begins on the day after the “Card Expires” date on the front of the EAD and generally continues for up to 540 days. The extension ends when the applicant receives a final decision on their renewal application or when the 540-day period expires, whichever comes earlier.
+For expired or expiring EADs with category codes A17, A18, and C26, to calculate the new expiration date:
+1. Add 540 days to the EAD “Card Expires” date.
+2. Compare the 540-day auto-extended date to the Form I-94 end date.
+3. Whichever date is earlier is the auto-extended EAD expiration date.
+
+Disclaimer: This calculator is intended to help individuals determine the new EAD expiration date for a person who is eligible for an automatic extension of their expiring EAD based on a temporary final rule (https://www.uscis.gov/newsroom/news-releases/uscis-increases-automatic-extension-of-certain-employment-authorization-documents-to-improve-access) that amends 8 CFR 274a.13(d). The calculator does not replace an employer’s legal requirement to verify employment eligibility for their new or existing employees in accordance with the Form I-9, Employment Eligibility Verification process. Government agencies that issue public benefits/licenses and that are registered to use SAVE should use SAVE to verify EAD validity periods, including any automatic extensions.
+
+Proof of an EAD Automatic Extension
+An employer or government agency may require proof that an EAD has been automatically extended. Renewal applicants eligible for an EAD automatic extension are responsible for presenting documentation to show they continue to have employment authorization.
+A facially expired EAD is still valid when presented with a Form I-797C, Notice of Action, Receipt Notice extending its validity period. To show that the “Card Expires” date shown on your EAD has been automatically extended, you must present:
+1. Your current EAD (expired or unexpired) with an eligible category for automatic extension
+Note: If the code on your EAD is A17, A18, or C26, you must also show your unexpired Form I-94.
+AND
+2. Form I-797C, Notice of Action, receipt notice showing that you timely filed to renew your EAD in the same category eligible for automatic extension. The receipt notice must:
+   a. Be dated with a “Received Date” that is on or after May 4, 2022 through Sept. 30, 2025; and
+   b. Refers to the 180-day or 540-day extension.
+NOTE: If you filed Form I-765 based on a grant of TPS or a pending TPS application, please see the Temporary Protected Status (TPS) section below for more information on TPS-specific requirements for the automatic EAD extension.
+
+This document combination is acceptable proof of an up-to-540-day automatic extension under the May 2022 temporary final rule (https://www.federalregister.gov/documents/2022/05/04/2022-09539/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation) or the April 2024 temporary final rule (https://www.federalregister.gov/documents/2024/04/08/2024-07345/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation).
+To confirm that you meet the eligibility requirements for the automatic EAD extension and determine your auto-extended EAD expiration date, see the Automatic Extension Eligibility Calculator section above.
+
+Applicants who filed a Form I-765 renewal application between Oct. 27, 2023 and  April 8, 2024: If you filed your I-765 renewal application during this timeframe you may have a received Form I-797C, Notice of Action, Receipt Notice that refers to a 180-day automatic extension.  These filings also qualify for the up to 540-day automatic extension. We will not issue updated Form I-797C notices for these filings. Individuals should refer to this webpage to confirm eligibility requirements for the up to 540-day automatic extension.
+You may refer your employer to this website if they have any questions. Government agencies issuing benefits or licenses that rely on EADs as identity documents may also refer to this webpage.
+
+EAD Temporary Final Rules 
+On April 4, 2024, USCIS published a temporary final rule that increased the automatic extension period for employment authorization or EADs available to certain EAD renewal applicants from up to 180 days to up to 540 days.
+
+This temporary final rule applies to two categories of EAD renewal applicants:
+1. Applicants who timely and properly filed their Form I-765 applications on or after Oct. 27, 2023, if the application was still pending on April 8, 2024; and
+2. Applicants who timely and properly file their Form I-765 application from April 8, 2024, through Sept. 30, 2025.
+
+Previously, in May 2022, USCIS published (https://www.federalregister.gov/documents/2022/05/04/2022-09539/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation) a temporary final rule that increased the automatic EAD extension period for certain EAD renewal applicants from up to 180 days to up to 540 days. As announced in 2022, this temporary final rule was applicable to applications filed during a limited period that ended Oct. 26, 2023.
+Because the 2024 temporary final rule provides a 540-day auto-extension for those who filed after the filing period under the 2022 temporary final rule ended, there is no gap in the 540-day auto-extension increase for eligible renewal applications timely filed on or after May 4, 2022, through September 2025. Therefore, for the convenience of the public, we are combining the filing periods of the two temporary final rules in this guidance.
+If you receive an up-to-540-day automatic extension under either the 2024 temporary final rule or the 2022 temporary final rule, the automatic extension will generally end when we make a decision on your EAD renewal application, or at the end of the 540-day period, whichever comes earlier.
+
+Temporary Protected Status (TPS)
+TPS applicants and beneficiaries may have their TPS-based EAD automatically extended by 1 of the following automatic EAD extensions, if they qualify:
+1. If you have a TPS-based EAD and maintain TPS, you may receive an up-to-540-day automatic extension of your EAD through the automatic EAD extension described on this page.
+    You qualify for this automatic extension if:
+    a. You filed your renewal Form I-765 application during the TPS re-registration period indicated in the applicable Federal Register notice for your country;
+    b. The Form I-797C, Notice of Action, indicating receipt of your Form I-765 has a “Received Date” from May 4, 2022, through Sept. 30, 2025;
+    c. Your Form I-765 application is for eligibility category (a)(12) or (c)(19); and
+    d. The category on your current EAD is A12 or C19. The categories on your renewal application and expired EAD do not need to match. (For example, you will still qualify for the automatic extension if your expired EAD says C19 and your renewal application says A12.)
+
+If you meet the above criteria, the new expiration date of your EAD is up to 540 days past the “Card Expires” date shown on your EAD. Your facially expired or expiring EAD and Form I-797C, Notice of Action, receipt notice, will serve as acceptable proof of identity and employment authorization during the automatic extension period.
+2. TPS-based EADs may also be automatically extended through publication of a Federal Register notice unique to your country of origin. You may receive an automatic EAD extension through publication of one of these Federal Register notices if you maintain TPS and meet the eligibility requirements for that extension. Your facially expired EAD will serve as acceptable proof of identity and employment authorization during this automatic extension period. You may choose, but are not required, to show your employer your country’s TPS Federal Register notice to help them complete Form I-9, Employment Eligibility Verification.
+3. We may automatically extend some TPS-based EADs through an individual notice sent to the applicant or beneficiary. The individual notice automatically extends the EAD to the specific date stated in the notice. To show your employer that your EAD is automatically extended by an individual notice for Form I-9 purposes, you will need to present the individual notice with your facially expired or expiring EAD.
+
+
+You may qualify for more than 1 of these automatic extensions. If you are eligible for more than 1 extension, you may show your employer documentation for the extension that will extend your employment authorization to the furthest date in the future. You cannot add the extensions together to increase the time; you can only use 1. To determine which automatic extension benefits you most:
+1. Check the Temporary Protected Status (https://www.uscis.gov/humanitarian/temporary-protected-status) page for your country to see if your country’s TPS-based EADs have been automatically extended by a Federal Register notice or individual notice.
+2. Use the Automatic Extension Eligibility Calculator above.
+3. Decide whether you want to show your employer documentation for either the up-to-540-day automatic extension date provided with the calculator, or the automatic extension date provided by your country’s Federal Register notice or by your individual notice.
+
+Whichever extension you decide to use, we will not extend your EAD past the “TPS Designated Through” date in your country’s Federal Register notice.
+For more information about TPS, including your country’s re-registration periods and any extensions published in the Federal Register, visit the USCIS Temporary Protected Status (https://www.uscis.gov/humanitarian/temporary-protected-status) page.
+
+F-1 International Students
+F-1 students who have a pending STEM optional practical training (OPT) extension application are not eligible for the temporary increase (https://www.uscis.gov/newsroom/news-releases/uscis-increases-automatic-extension-period-of-work-permits-for-certain-applicants) of the automatic extension period under the 2022 temporary final rule (https://www.federalregister.gov/documents/2022/05/04/2022-09539/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation) or the 2024 temporary final rule (https://www.federalregister.gov/documents/2024/04/08/2024-07345/temporary-increase-of-the-automatic-extension-period-of-employment-authorization-and-documentation). The temporary increase of the automatic extension period under 8 CFR 274a.13(d) only applies to the categories listed in the chart above.
+If you file your STEM OPT extension application on time and your OPT period expires while your extension application is pending, we will automatically extend your employment authorization for 180 days. This automatic 180-day extension will end when USCIS adjudicates your STEM OPT extension application.
+You can find additional information on filing a STEM OPT extension application on the Optional Practical Training Extension for STEM Students (STEM OPT) (https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-extension-for-stem-students-stem-opt) page.
+
+Guidance and Support
+For guidance on completing Form I-9 (https://www.uscis.gov/i-9) with an automatic extension of an EAD, please visit I-9 Central (https://www.uscis.gov/i-9-central), and specifically Chapter 5 of the Handbook for Employers (https://www.uscis.gov/i-9-central/form-i-9-resources/handbook-for-employers-m-274/50-automatic-extensions-of-employment-authorization-andor-employment-authorization-documents-eads-in), "Automatic Extensions of Employment Authorization and/or Employment Authorization Documents (EADs) in Certain Circumstances.”
+For assistance with determining eligibility for an automatic EAD extension under the 2022 or 2024 temporary final rule, please contact the Form I-9 Contact Center at the phone numbers below.
+Employers: 888-464-4218
+Employees: 888-897-7781
+Find additional resources on the Form I-9 Contact Us (https://www.uscis.gov/i-9-central/form-i-9-contact-us) page.
+If you have questions regarding a pending application for an EAD or employment authorization, please see our Contact Us (https://www.uscis.gov/about-us/contact-us) page for information on when and how to contact us.

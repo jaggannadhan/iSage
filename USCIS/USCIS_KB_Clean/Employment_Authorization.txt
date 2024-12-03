@@ -1,0 +1,218 @@
+Source: https://www.uscis.gov/employment-authorization
+
+Employment Authorization
+U.S. employers must check to make sure all employees, regardless of citizenship or national origin, are allowed to work in the United States. If you are not a citizen or a lawful permanent resident, you may need to prove that you can work in the United States by presenting an Employment Authorization Document (Form I-766/EAD) (https://www.uscis.gov/employment-authorization#). You may apply for an EAD if you are eligible.
+
+USCIS issues the following types of EADs:
+1. Initial EAD: This document proves you are allowed to work in the United States.
+2. Renewal EAD: This document renews your initial EAD. Generally, you should not file for a renewal EAD more than 180 days before your original EAD expires.
+3. Replacement EAD: This document replaces a lost, stolen, or mutilated EAD. A replacement EAD also replaces an EAD that was issued with incorrect information, such as a misspelled name.
+
+Note: In addition, certain B-1 nonimmigrant visitors are issued EADs.
+
+Form I-765 Category
+Form I-765, Application for Employment Authorization (https://www.uscis.gov/i-765), asks for your eligibility category. It is important that you write the correct eligibility category on your application.
+Please see the Form I-765 instructions (PDF, 751.24 KB) (https://www.uscis.gov/sites/default/files/document/forms/i-765instr.pdf) for a complete list of eligibility categories. You may also find eligibility categories in section 274a.12, title 8 of the Code of Federal Regulations (https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a#274a.12).
+
+Form I-765 Category: (a)(2)	
+Description: Lawful temporary resident
+
+Form I-765 Category: (a)(3)	
+Description: Refugee
+
+Form I-765 Category: (a)(4)	
+Description: Paroled refugee
+
+Form I-765 Category: (a)(5)	
+Description: Asylee
+
+Form I-765 Category: (a)(6)	
+Description: Fiancé(e) (K-1 or K-2 nonimmigrant)
+
+Form I-765 Category: (a)(7)	
+Description: N-8 or N-9
+
+Form I-765 Category: (a)(8)	
+Description: Citizen of Micronesia, Marshall Islands, or Palau
+
+Form I-765 Category: (a)(9)	
+Description: K-3 or K-4
+
+Form I-765 Category: (a)(10)	
+Description: Withholding of deportation or removal granted
+
+Form I-765 Category: (a)(11)	
+Description: Deferred Enforced Departure
+
+Form I-765 Category: (a)(12)	
+Description: Temporary Protected Status granted
+
+Form I-765 Category: (a)(13)	
+Description: Family Unity Program (Section 301 of the Immigration Act of 1990)
+
+Form I-765 Category: (a)(14)	
+Description: LIFE Legalization (Section 1504 of the Legal Immigrant Family Equity (LIFE) Act Amendments)
+
+Form I-765 Category: (a)(15)	
+Description: V visa nonimmigrant
+
+Form I-765 Category: (a)(16)	
+Description: T-1 nonimmigrant
+
+Form I-765 Category: (a)(17)	
+Description: Spouse of an E nonimmigrant
+
+Form I-765 Category: (a)(18)	
+Description: Spouse of an L nonimmigrant
+
+Form I-765 Category: (a)(19)	
+Description: U-1 nonimmigrant
+
+Form I-765 Category: (a)(20)	
+Description: U-2, U-3, U-4, or U-5 nonimmigrant
+
+Form I-765 Category: (c)(1)	
+Description: Spouse/dependent of A-1 or A-2 visa nonimmigrant
+
+Form I-765 Category: (c)(2)	
+Description: Spouse/dependent of Coordination Council for North American Affairs (E‑1)/ Taipei Economic and Cultural Representative Office (TECRO)
+
+Form I-765 Category: (c)(3)(A)	
+Description: F-1 student, pre-completion Optional Practical Training
+
+Form I-765 Category: (c)(3)(B)	
+Description: F-1 student, post-completion Optional Practical Training
+
+Form I-765 Category: (c)(3)(C)	
+Description: F-1 student, 24-month extension for STEM students
+
+Form I-765 Category: (c)(3)(ii)	
+Description: F-1 student, off-campus employment sponsored by a qualifying international organization
+
+Form I-765 Category: (c)(3)(iii)	
+Description: F-1 student, off-campus employment due to severe economic hardship
+
+Form I-765 Category: (c)(4)	
+Description: Spouse/dependent of G-1, G-3, or G-4
+
+Form I-765 Category: (c)(5)	
+Description: J-2 spouse or child of J-1 exchange visitor
+
+Form I-765 Category: (c)(6)	
+Description: M-1 student, Practical Training
+
+Form I-765 Category: (c)(7)	
+Description: Dependent of NATO-1 through NATO-6
+
+Form I-765 Category: (c)(8)	
+Description: Asylum application pending filed on/after Jan. 4, 1995
+
+Form I-765 Category: (c)(8)	
+Description: Asylum application pending filed before Jan. 4, 1995 and applicant is not in exclusion/deportation proceedings
+
+Form I-765 Category: (c)(8)	
+Description: Asylum application pending filed before Jan. 4, 1995 and applicant is in exclusion/deportation proceedings
+
+Form I-765 Category: (c)(8)	
+Description: Asylum application under ABC Agreement
+
+Form I-765 Category: (c)(9)	
+Description: Pending adjustment of status under Section 245 of the Act
+
+Form I-765 Category: (c)(10)	
+Description: Suspension of deportation applicants (filed before April 1, 1997) Cancellation of Removal applicants Cancellation applicants under NACARA
+
+Form I-765 Category: (c)(11)	
+Description: Public Interest parolee
+
+Form I-765 Category: (c)(12)	
+Description: Spouse of an E-2 CNMI investor
+
+Form I-765 Category: (c)(14)	
+Description: Deferred action
+
+Form I-765 Category: (c)(15)	
+Description: Not in use
+
+Form I-765 Category: (c)(16)	
+Description: Creation of record (adjustment based on continuous residence since Jan. 1, 1972)
+
+Form I-765 Category: (c)(17)(i)	
+Description: B-1 domestic servant of certain nonimmigrants
+
+Form I-765 Category: (c)(17)(ii)	
+Description: B-1 domestic servant of certain U.S. citizens who are in the United States on a temporary basis.
+
+Form I-765 Category: (c)(17)(iii)	
+Description: Certain B-1 nonimmigrant employees of a foreign airline
+
+Form I-765 Category: (c)(18)	
+Description: Order of supervision
+
+Form I-765 Category: (c)(19)	
+Description: Certain pending TPS applicants whom USCIS has determined are prima facie eligible for TPS and who may then receive an EAD as a ”temporary treatment benefit” under 8 C.F.R. 244.10(a).
+
+Form I-765 Category: (c)(20)	
+Description: Section 210 legalization (pending I-700)
+
+Form I-765 Category: (c)(21)	
+Description: S visa nonimmigrant
+
+Form I-765 Category: (c)(22)	
+Description: Section 245A legalization (pending I-687)
+
+Form I-765 Category: (c)(23)	
+Description: Irish peace process (Q-2)
+
+Form I-765 Category: (c)(24)	
+Description: LIFE legalization
+
+Form I-765 Category: (c)(25)	
+Description: T-2, T-3, T-4, T-5, or T-6 nonimmigrant
+
+Form I-765 Category: (c)(26)	
+Description: Spouse of an H-1B nonimmigrant
+
+Form I-765 Category: (c)(31)	
+Description: VAWA self-petitioners with an approved Form I-360
+
+Form I-765 Category: (c)(33)	
+Description: Consideration of Deferred Action for Childhood Arrivals (DACA)
+
+Form I-765 Category: (c)(35)	
+Description: Principal beneficiary of an approved employment-based immigrant petition facing compelling circumstances
+
+Form I-765 Category: (c)(36)	
+Description: Spouse or unmarried child of a principal beneficiary of an approved employment-based immigrant petition facing compelling circumstances
+
+Form I-765V Category
+Form I-765V, Application for Employment Authorization for Abused Nonimmigrant Spouse (https://www.uscis.gov/i-765v), asks for your eligibility category. It is important that you write the correct eligibility category on your application.
+Please see the Form I-765V instructions (PDF, 346.04 KB) (https://www.uscis.gov/sites/default/files/document/forms/i-765vinstr.pdf) for a complete list of eligibility categories. You may also find eligibility categories in section 274a.12, title 8 of the Code of Federal Regulations (https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-274a#274a.12).
+
+
+Form I-765V Category: (c)(27)	
+Description: Abused spouse of an A nonimmigrant
+
+Form I-765V Category: (c)(28)	
+Description: Abused spouse of an E-3 nonimmigrant
+
+Form I-765V Category: (c)(29)	
+Description: Abused spouse of a G nonimmigrant
+
+Form I-765V Category: (c)(30)	
+Description: Abused spouse of an H nonimmigrant
+
+
+Related links
+1. I-765, Application for Employment Authorization (https://www.uscis.gov/i-765)
+2. Checklist of Required Initial Evidence for Form I-765 (for informational purposes only) (https://www.uscis.gov/forms/filing-guidance/checklist-of-required-initial-evidence-for-form-i-765-for-informational-purposes-only)
+3. Filing Form I-765 with Other Forms (https://www.uscis.gov/forms/all-forms/filing-form-i-765-with-other-forms)
+4. Direct Filing Addresses for Form I-765, Application for Employment Authorization (https://www.uscis.gov/i-765-addresses)
+5. Employment Authorization in Compelling Circumstances (https://www.uscis.gov/working-in-the-united-states/information-for-employers-and-employees/employment-authorization-in-compelling-circumstances)
+6. Automatic Employment Authorization Document (EAD) Extension (https://www.uscis.gov/eadautoextend)
+
+Other USCIS Links
+1. Check Filing Fees (https://www.uscis.gov/forms/filing-fees)
+2. Form Filing Tips (https://www.uscis.gov/forms/filing-guidance/tips-for-filing-forms-by-mail)
+3. How to Track Delivery of Your Green Card, Employment Authorization Document (EAD), and Travel Document (https://www.uscis.gov/forms/filing-guidance/how-to-track-delivery-of-your-notice-or-secure-identity-document-or-card)
+4. Immigration and Nationality Act (INA) (https://www.uscis.gov/laws-and-policy/legislation/immigration-and-nationality-act)

@@ -1,0 +1,97 @@
+Source: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/conrad-30-waiver-program
+
+Conrad 30 Waiver Program
+The Conrad 30 waiver program allows J-1 foreign medical graduates (FMGs) to apply for a waiver of the 2-year foreign residence requirement upon completion of the J-1 exchange visitor program. See section 214(l) of the Immigration Nationality Act (INA). The program addresses the shortage of qualified doctors in medically underserved areas.
+
+Eligibility
+Although each state has developed its own application rules and guidelines, the following program requirements apply to all J-1 foreign medical graduates.
+
+The J-1 foreign medical graduate must:
+1. Have been admitted to the United States under section 101(a)(15)(J) of the INA to receive graduate medical training;
+2. Enter into a bona fide, full-time employment contract to practice medicine in H-1B nonimmigrant status for at least 3 years at a health care facility located in an area designated by U.S. Department of Health and Human Services (HHS) as a Health Professional Shortage Area (HPSA), Medically Underserved Area (MUA), or Medically Underserved Population (MUP) or serving patients who reside in a HPSA, MUA, or MUP.
+3. Obtain a “no objection” statement in writing from their home country if they are contractually obligated to return to their home country upon completion of the exchange program.
+4. Agree to begin employment at the health care facility, specified in the waiver application, within 90 days of receipt of the waiver, not the date their J-1 visa expires.
+
+See each state’s public health department (or its equivalent) website for specific details.
+
+
+Application Process
+To apply for a waiver, a J-1 foreign medical graduate must:
+1. Obtain the sponsorship of a state health department, or its equivalent.
+2. Complete the U.S. Department of State (DOS) Form DS-3035, J-1 Visa Waiver Review Application.
+
+The state public health department, or its equivalent, that agreed to sponsor the J-1 foreign medical graduate for a waiver must then send the waiver application to the DOS Waiver Review Division (DOS-WRD) for a recommendation.
+For more information regarding DOS filing procedures and documentation requirements, please see Department of State J Visa Waiver (https://j1visawaiverrecommendation.state.gov/).
+
+
+After DOS Makes a Recommendation
+DOS-WRD will notify USCIS electronically of its recommendation. DOS will notify the J-1 foreign medical graduate, attorney of record (if applicable), and the state agency that requested the waiver by mail.
+USCIS will make a final determination on whether to approve the waiver application. Upon a favorable recommendation by DOS-WRD, USCIS will generally grant the waiver as long as there are no underlying concerns. USCIS will provide written notice of its decision to the J-1 foreign medical graduate and their representative (if applicable).
+If DOS-WRD recommends the waiver:
+1. The petitioner must submit Form I-129, Petition for a Nonimmigrant Worker (https://www.uscis.gov/i-129), along with the DOS-WRD favorable recommendation letter, in order to request a change of the J-1 foreign medical graduate’s nonimmigrant status to H-1B.
+2. The spouse and/or child of the waiver recipient must submit Form I-539, Application to Extend/Change Nonimmigrant Status (https://www.uscis.gov/i-539), in order to change status from J-2 to H-4 nonimmigrant status.
+3. The J-1 foreign medical graduate must practice medicine for at least 3 years in an area designated by HHS as a HPSA, MUA, or MUP, or, in some cases, serve patients in such an area.
+
+Once the Conrad 30 waiver recipient has fulfilled all terms and conditions imposed on the waiver, including the 3-year period of employment with the health care facility under their approved contract, they (and their spouse and/or child) will become eligible to apply for:
+1. An immigrant visa
+2. Adjustment of status
+3. An H or L nonimmigrant visa
+
+If the waiver recipient fails to fulfill the terms and conditions imposed on the waiver, they (and their spouse and/or child) will once again become subject to the 2-year foreign residence requirement under section 212(e) of the INA.
+
+
+
+Frequently Asked Questions
+
+Q1. Does a J-1 foreign medical graduate need to file Form I-612, Application for Waiver of the Foreign Residence Requirement, in order to apply for a Conrad 30 Waiver?
+A1. No, the Form I-612 is not required.
+
+Q.2 The law requires the recipient of a Conrad 30 waiver to work full-time for three continuous years. What is the definition of “full-time” work?
+A2. DOS considers “full-time” employment to be 40 hours per week.
+
+Q3. If a J-1 foreign medical graduate is granted a Conrad 30 waiver and H-1B status, may he or she change employers if the original health care facility closes?
+A3. Depending on the circumstances, USCIS may consider the closure of the health care facility named in the waiver application an extenuating circumstance excusing early termination of employment. A J-1 foreign medical graduate who is granted a Conrad 30 waiver and H-1B status must comply with the terms and conditions of that nonimmigrant status. USCIS may, however excuse early termination of the 3-year period of employment with the health care facility named in the Conrad 30 waiver application and H-1B petition due to extenuating circumstances. Examples of extenuating circumstances include closure of the health care facility or hardship to the noncitizen. In determining whether to excuse such early termination of employment, USCIS will base its decision on the specific facts of each case. In all cases, the burden to establish eligibility for a favorable exercise of discretion rests with the H-1B foreign medical graduate.
+Another health care facility may seek to employ such a waiver recipient (before the time the recipient has completed his or her 3-year contract named in the waiver application and the original H-1B petition) by filing a new H-1B petition with USCIS. See 8 CFR 214.2(h)(2)(i)(D) and (E). Although the state public health department does not need to file a new waiver application with DOS, the new H-1B petition must be accompanied by the documentary evidence generally required under 8 CFR 214.2(h), including:
+1. An explanation from the waiver recipient, with supporting evidence, establishing that extenuating circumstances necessitate a change of employment
+2. Evidence that the geographic area or areas of intended employment have been designated by HHS as a HPSA, MUA, or MUP, or in some cases, that the waiver recipient will be serving patients in such an area.
+
+The new H-1B petition will not be approved unless USCIS determines that the waiver recipient has established the existence of extenuating circumstances that excuse early termination of employment as stated in the terms and conditions in the original H-1B petition.
+
+
+Q4. Can the recipient of a Conrad waiver who is in H-1B status begin employment at a new health care facility after the extenuating circumstances H-1B petition is filed and while it is pending?
+A4. Yes. The waiver recipient may begin employment with the new employer after the new H-1B petition is filed and while it is pending. However, if the new petition is denied, employment authorization will cease and the waiver recipient will become subject to the 2-year foreign residence requirement under section 212(e) of the INA unless they are the beneficiary of another H1-B petition with current validity dates for employment at a qualifying healthcare facility.
+
+Q5. What are the reporting requirements for the health care facility named in the waiver application and H-1B petition if the waiver recipient fails to fulfill the 3-year employment contract, or if he or she changes employers?
+A5. If the health care facility no longer employs the waiver recipient, the health care facility must immediately send a letter explaining the changes in the terms and conditions of employment of the waiver recipient to the Service Center that approved the I-129 petition, as is required, under 8 CFR 214.2(h)(11)(i)(A).
+
+Q6. Can the spouse and/or child of a waiver recipient who has not yet fulfilled the terms and conditions of the Conrad 30 waiver independently apply for waiver of the 2-year foreign residence requirement?
+A6. According to the DOS website (https://www.state.gov/), the spouse and/or child of a waiver recipient can independently apply for a waiver only if the principal waiver recipient has died, the spouse has divorced the principal waiver recipient, or if the child is over age 21. Note that if the J-2 spouse/child was also a J-1 at some point in the past, they may, if qualified, seek a waiver for themselves, independent of their spouse/parent.
+
+Q7. How does a Conrad 30 waiver recipient (or some other concerned individual) report wage and labor related abuse?
+A7. The Department of Labor’s Wage and Hour Division (WHD) is responsible for enforcing worker protections in certain temporary worker programs including the H-1B program. For information pertaining to how you can report wage and labor related abuse, please see Department of Labor’s WHD webpage (https://www.dol.gov/agencies/whd/contact).
+
+
+
+Background on J-1 medical status
+A J-1 exchange visitor who came to the United States or acquired such status in order to receive graduate medical education or training (a J-1 foreign medical graduate) is generally ineligible to apply for:
+1. An immigrant visa
+2. Adjustment of Status
+3. An H or L nonimmigrant visa
+
+To be eligible to do so, a J-1 exchange visitor must have resided and been physically present in his or her country of nationality or last residence for at least 2 years (the 2-year foreign residence requirement) upon completion of the J-1 exchange visitor program. Any spouse or child admitted as an accompanying J-2 status holder is also subject to the 2-year foreign residence requirement. See section 212(e) of the INA.
+A J-1 foreign medical graduate (and his or her J-2 spouse and/or child) is ineligible to change from J nonimmigrant status to any other nonimmigrant status (except in certain cases to A, G, T, or U). See section 248(a)(2) of the INA.
+
+
+Additional Resources
+
+Other USCIS Links
+1. Changing to a Nonimmigrant F or M Student Status (https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/students-and-employment/changing-to-a-nonimmigrant-f-or-m-student-status)
+
+Non-USCIS Links
+1. DOL Wage and Hour Division (https://www.dol.gov/agencies/whd/contact)
+2. DOS J Visa Waiver (https://j1visawaiverrecommendation.state.gov/)
+3. Student and Exchange Visitor Program, Immigration & Customs Enforcement (https://www.ice.gov/sevis/schools)
+4. IRS: Foreign Students and Scholars (https://www.irs.gov/individuals/international-taxpayers/foreign-students-scholars-teachers-researchers-and-exchange-visitors)
+5. DHS: STEM OPT Hub (https://studyinthestates.dhs.gov/stem-opt-hub)
+6. DHS: Training Opportunities in the United States (https://studyinthestates.dhs.gov/students/training-opportunities-in-the-united-states)
+
