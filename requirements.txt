@@ -7,3 +7,4 @@ langchain
 openai
 pypdf2
 streamlit
+ai21

@@ -5,5 +5,8 @@ create-venv:
 setup:
 	pip install -r requirements.txt;
 
-run:
+run-local:
 	python3 main.py
+
+run-streamlit:
+	streamlit run main.py

@@ -20,7 +20,7 @@ class OpenAIService:
         prompt = [
             {
                 "role": "system",
-                "content": f"Answer the following question only based on the context provided. Answer if absolutely certain, else, say you don't know! Do not be verbose."
+                "content": f"Answer the following question only based on the context provided. Answer if absolutely certain, else, say I don't know! Do not be verbose. Add sources (links) provided in the context"
             },
             {
                 "role": "user",
