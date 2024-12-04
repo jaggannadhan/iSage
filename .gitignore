@@ -1,4 +1,6 @@
 .venv/
-*.faiss
 __pycache__/
 .DS_Store
+
+*.faiss
+*_chunks.txt

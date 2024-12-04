@@ -6,3 +6,4 @@ sentence_transformers
 langchain
 openai
 pypdf2
+streamlit
