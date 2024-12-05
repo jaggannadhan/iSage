@@ -1,10 +1,10 @@
+import os
 import streamlit as st
-from ai21.models.chat import ChatMessage
-from retriever import *
+from retriever import RAGOps
 from load_RAG import LoadRAG
 
 
-def main(rag_model):
+def main():
     st.set_page_config(page_title="iSAGE")
     st.header("iSAGE")
     st.subheader("- Immigrant Student Advisory Guidance Engine!" , divider="red")
@@ -25,20 +25,23 @@ def main(rag_model):
         # Add user query to chat history
         st.session_state.messages.append({"role": "user", "content": query})
 
-        top_chunks = retrieve_top_k_chunks(
+        top_chunks = rag_ops.retrieve_top_k_chunks(
             query, 
             rag_model.embedding_model, 
             rag_model.index, 
             rag_model.chunks, 
             k=5
         )
-        answer = generate_answer(query, top_chunks)
+        answer = rag_ops.generate_answer(query, top_chunks)
         with st.chat_message("assistant"):
             st.markdown(answer)
         # Add assistant response to chat history
         st.session_state.messages.append({"role": "assistant", "content": answer})
 
 
+rag_ops = RAGOps()
+rag_model = LoadRAG()
+
 if __name__ == "__main__":
-    rag_model = LoadRAG()
-    main(rag_model)
+    os.environ["TOKENIZERS_PARALLELISM"] = "false"
+    main()

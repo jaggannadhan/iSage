@@ -8,3 +8,5 @@ openai
 pypdf2
 streamlit
 ai21
+langchain_openai
+langchain-community
