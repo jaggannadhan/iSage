@@ -8,3 +8,4 @@ openai
 pypdf2
 streamlit
 ai21
+python==3.11.10
