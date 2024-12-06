@@ -30,23 +30,6 @@ def parse_cleaned_data(folder_path="Fitness/Fitness_KB_Clean"):
     return parsed_files
 
 
-def process_parsed_files(parsed_files):
-    """
-    Process parsed files by splitting their text into chunks.
-    
-    Args:
-        parsed_files (dict): Dictionary with filenames as keys and preprocessed text as values.
-        
-    Returns:
-        dict: A dictionary with filenames as keys and lists of text chunks as values.
-    """
-    chunks_dict = {}
-    for filename, text in parsed_files.items():
-        chunks = split_into_chunks(text)
-        chunks_dict[filename] = chunks
-    return chunks_dict
-
-
 def convert_to_text(file_path):
     """
     Convert a document to plain text.
@@ -84,9 +67,9 @@ def preprocess_text(raw_text):
     Returns:
         str: Preprocessed text.
     """
-    text = raw_text.lower()  # Convert to lowercase
-    text = re.sub(r'[^\w\s]', '', text)  # Remove punctuation
-    text = re.sub(r'\s+', ' ', text).strip()  # Remove extra spaces
+    # text = raw_text.lower()  # Convert to lowercase
+    # text = re.sub(r'[^\w\s]', '', text)  # Remove punctuation
+    text = re.sub(r'\s+', ' ', raw_text).strip()  # Remove extra spaces
     return text
 
 
@@ -109,3 +92,18 @@ def split_into_chunks(text, chunk_size=1000, chunk_overlap=500):
 
     return chunks
 
+def process_parsed_files(parsed_files):
+    """
+    Process parsed files by splitting their text into chunks.
+    
+    Args:
+        parsed_files (dict): Dictionary with filenames as keys and preprocessed text as values.
+        
+    Returns:
+        dict: A dictionary with filenames as keys and lists of text chunks as values.
+    """
+    chunks_dict = {}
+    for filename, text in parsed_files.items():
+        chunks = split_into_chunks(text)
+        chunks_dict[filename] = chunks
+    return chunks_dict
