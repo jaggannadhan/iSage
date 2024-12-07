@@ -1,4 +1,4 @@
-import json
+import json, os
 from openai import OpenAI
 
 from langchain_openai import OpenAI as LangOpenAI
@@ -7,9 +7,9 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_core.chat_history import InMemoryChatMessageHistory
 
-OPENAI_API_KEY = 'sk-hBSd8x6rxdExfV1iP-77MJO9cXIKicCs9q_4nwAYxWT3BlbkFJTM8Te0qgeNMQsO-BmLNGFt4CQ5kMUq1AP_5YcX3NMA'
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-class OpenAIService:
+class LLMService:
 
     def __init__(self):
         self.user_session_id = "foo"
@@ -51,7 +51,7 @@ class OpenAIService:
 
         choices = response.choices[0]
         answer = choices.message.content
-        print(answer)
+        # print(answer)
         return answer
     
 
@@ -66,7 +66,7 @@ class OpenAIService:
             { "question": prompt },
             config={"configurable": {"session_id": self.user_session_id}}
         )
-        print(response)
+        # print(response)
         return response
     
     def answer_based_on_context(self, context, question):

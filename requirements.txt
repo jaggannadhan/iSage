@@ -1,3 +1,4 @@
+python-dotenv
 faiss-cpu
 sentence_transformers
 langchain
@@ -7,6 +8,12 @@ ai21
 langchain_openai
 langchain-community
 scikit-learn
+lightrag-hku
+aioboto3
+ollama
+nano_vectordb
+neo4j
+oracledb
 
 pdfminer
 pdfminer.six
