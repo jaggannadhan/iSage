@@ -22,9 +22,9 @@ class LOAD_RAG_MODEL:
         self.rag_lightRAG = RAG_MOD_LIGHTRAG()
 
         self.model_types = {
-            "1.LightRAG": self.rag_lightRAG,
-            "2.FAISS": self.rag_faiss,
-            "3.SKLearn": self.rag_sklearn,
+            "LightRAG": self.rag_lightRAG,
+            "FAISS": self.rag_faiss,
+            "SKLearn": self.rag_sklearn,
         }
         print(">>>>>>>>>>>>>>>>RAG Models Loaded<<<<<<<<<<<<<<<<\n\n")
 
@@ -34,7 +34,7 @@ class LOAD_RAG_MODEL:
     def get_answer(self, query, choice_RAG):
         rag_model = self.get_model(model=choice_RAG)
 
-        if(choice_RAG == "1.LightRAG"):
+        if(choice_RAG == "LightRAG"):
             answer = rag_model.generate_answer(query)
             return answer
 
