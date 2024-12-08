@@ -1,7 +1,6 @@
 import os
 import re
 from docx import Document
-from pdfminer.high_level import extract_text
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 
@@ -15,7 +14,7 @@ def parse_cleaned_data(folder_path="Fitness/Fitness_KB_Clean"):
     Returns:
         dict: A dictionary with filenames as keys and preprocessed text as values.
     """
-    supported_formats = ['.txt', '.pdf', '.docx']
+    supported_formats = ['.txt', '.docx']
     parsed_files = {}
     
     for filename in os.listdir(folder_path):
@@ -43,9 +42,7 @@ def convert_to_text(file_path):
     _, ext = os.path.splitext(file_path)
     text = ""
     
-    if ext.lower() == '.pdf':
-        text = extract_text(file_path)
-    elif ext.lower() == '.docx':
+    if ext.lower() == '.docx':
         doc = Document(file_path)
         text = '\n'.join([para.text for para in doc.paragraphs])
     elif ext.lower() == '.txt':

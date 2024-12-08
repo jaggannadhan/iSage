@@ -14,7 +14,3 @@ ollama
 nano_vectordb
 neo4j
 oracledb
-
-pdfminer-six
-python-docx
-pypdf2
