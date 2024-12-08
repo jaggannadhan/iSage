@@ -34,7 +34,7 @@ class LOAD_RAG_MODEL:
     def get_answer(self, query, choice_RAG):
         rag_model = self.get_model(model=choice_RAG)
 
-        if(choice_RAG == "LightRAG"):
+        if(choice_RAG == "1.LightRAG"):
             answer = rag_model.generate_answer(query)
             return answer
 
