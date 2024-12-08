@@ -61,6 +61,8 @@ class LLMService:
                     Add sources (links) provided in the context.
                 """ + f"Context: {context}\n\nQuestion: {question}"
         
+        print(f"\n\nPrompt: {prompt}\n\n>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<")
+        
         chain = self.create_chain()
         response = chain.invoke(
             { "question": prompt },
