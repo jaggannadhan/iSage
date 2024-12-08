@@ -15,7 +15,6 @@ nano_vectordb
 neo4j
 oracledb
 
-pdfminer
-pdfminer.six
+pdfminer-six
 python-docx
 pypdf2

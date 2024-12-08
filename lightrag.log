@@ -3086,3 +3086,33 @@
 2024-12-07 19:27:39,173 - lightrag - WARNING - All docs are already in the storage
 2024-12-07 19:27:39,173 - lightrag - WARNING - All docs are already in the storage
 2024-12-07 19:27:39,173 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,846 - lightrag - INFO - Logger initialized for working directory: USCIS/LightRAG
+2024-12-07 19:31:04,850 - lightrag - INFO - Load KV llm_response_cache with 174 data
+2024-12-07 19:31:04,852 - lightrag - INFO - Load KV full_docs with 24 data
+2024-12-07 19:31:04,853 - lightrag - INFO - Load KV text_chunks with 82 data
+2024-12-07 19:31:04,867 - lightrag - INFO - Loaded graph from USCIS/LightRAG/graph_chunk_entity_relation.graphml with 710 nodes, 698 edges
+2024-12-07 19:31:04,927 - lightrag - INFO - Creating a new event loop in main thread.
+2024-12-07 19:31:04,928 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,928 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,928 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,929 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,929 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,929 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,929 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,930 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,930 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,930 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,930 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,930 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,930 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,931 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,931 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,931 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,931 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,931 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,932 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,932 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,932 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,932 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,932 - lightrag - WARNING - All docs are already in the storage
+2024-12-07 19:31:04,933 - lightrag - WARNING - All docs are already in the storage
