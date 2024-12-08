@@ -100,13 +100,6 @@ class RAG_MOD_BASIC:
 
         return answer
     
-    def truncate_context(self, context, max_tokens):
-        words = context.split()
-        print(f">>>>>>>>>>>>>Length of context: {len(words)}<<<<<<<<<<<<<<<<<<<<<\n\n")
-        if len(words) > max_tokens:
-            context = " ".join(words[:max_tokens])
-        return context
-
 
 class RAG_MOD_SKLEARN:
     def __init__(self):
