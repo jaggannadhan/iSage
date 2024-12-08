@@ -25,13 +25,13 @@ def sidebar(model_types):
         st.text("""Curiosity is a cat!
                 Try different RAG model to compare performance!
                 """)
+        st.page_link("https://github.com/HKUDS/LightRAG", label="We recommend LightRAG for best performance", icon="⚡")
         toggle_RAG = st.sidebar.selectbox(
             "Select RAG Model",
             set(model_types),
             
         )
 
-        
     return ( toggle_RAG )
 
 def run_chat_assistant(query, choice_RAG, RAG_BAG):
