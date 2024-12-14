@@ -1,5 +1,8 @@
 import json, os
 from openai import OpenAI
+from anthropic import Anthropic
+from groq import Groq
+
 
 from langchain_openai import OpenAI as LangOpenAI
 from langchain_core.output_parsers import StrOutputParser
@@ -8,6 +11,8 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 from langchain_core.chat_history import InMemoryChatMessageHistory
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 class LLMService:
 
@@ -15,6 +20,12 @@ class LLMService:
         self.user_session_id = "foo"
         self.OPENAI_CLIENT = OpenAI(
             api_key=OPENAI_API_KEY
+        )
+        self.CLAUDE_CLIENT = Anthropic(
+            api_key=ANTHROPIC_API_KEY
+        )
+        self.GROQ_CLIENT = Groq(
+            api_key=GROQ_API_KEY
         )
         self.LLM = LangOpenAI(
             openai_api_key=OPENAI_API_KEY,
@@ -73,7 +84,7 @@ class LLMService:
             )
         except Exception as exc:
             print(exc)
-            response = self.answer_based_on_context(context, question)
+            response = self.answer_based_on_text_v2(context, question)
         
         # print(response)
         return response
@@ -126,3 +137,49 @@ class LLMService:
         if len(words) > max_tokens:
             context = " ".join(words[:max_tokens])
         return context
+    
+
+    def answer_based_on_text_v2(self, context, query, model="claude"):
+        print("\n\n>>>>>>>>In CLAUDE MODEL<<<<<<<<<\n\n")
+        message = self.CLAUDE_CLIENT.messages.create(
+            model="claude-3-5-sonnet-20241022",
+            max_tokens=1024,
+            messages=[
+                {
+                    "role": "system",
+                    "content": """Answer the following question only based on the context provided. 
+                                Answer if absolutely certain, else, say I don't know! Do not be verbose. 
+                                Add sources (links) provided in the context.
+                                """
+                },
+                {
+                    "role": "user",
+                    "content": f"Context: {context}\n\nQuestion: {query}"
+                }
+            ]
+        )
+
+        return message.content
+    
+    def answer_based_on_text_v3(self, context, query, model="groq"):
+        print("\n\n>>>>>>>>In GROQ MODEL<<<<<<<<<\n\n")
+        chat_completion = self.GROQ_CLIENT.chat.completions.create(
+            messages=[
+                {
+                    "role": "system",
+                    "content": """Answer the following question only based on the context provided. 
+                                Answer if absolutely certain, else, say I don't know! Do not be verbose. 
+                                Add sources (links) provided in the context.
+                                """
+                },
+                {
+                    "role": "user",
+                    "content": f"Context: {context}\n\nQuestion: {query}"
+                }
+            ],
+            model="llama3-8b-8192",
+        )
+
+        print(chat_completion)
+        content = chat_completion.choices[0].message.content
+        return content

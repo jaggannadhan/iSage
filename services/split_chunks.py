@@ -4,7 +4,7 @@ from docx import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 
-def parse_cleaned_data(folder_path="Fitness/Fitness_KB_Clean"):
+def parse_cleaned_data(folder_path="data/USCIS/USCIS_KB_Clean"):
     """
     Parse all supported files in a given folder.
     

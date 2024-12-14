@@ -1,14 +1,14 @@
 from sentence_transformers import SentenceTransformer
 import os
-from vectorize import * 
-from split_chunks import *
-from llm_service import LLMService
+from services.vectorize import * 
+from services.split_chunks import *
+from services.llm_service import LLMService
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 from lightrag import LightRAG, QueryParam
-from lightrag.llm import gpt_4o_mini_complete, gpt_4o_complete
+from lightrag.llm import gpt_4o_mini_complete
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -16,7 +16,7 @@ load_dotenv()
 
 class LOAD_RAG_MODEL:
     def __init__(self):
-        print(">>>>>>>>>>>>Initializing RAG Models<<<<<<<<<<<<<\n\n")
+        print("\n\n>>>>>>>>>>>>Initializing RAG Models<<<<<<<<<<<<<\n")
         self.rag_faiss = RAG_MOD_BASIC()
         self.rag_sklearn = RAG_MOD_SKLEARN()
         self.rag_lightRAG = RAG_MOD_LIGHTRAG()
@@ -26,7 +26,7 @@ class LOAD_RAG_MODEL:
             "FAISS": self.rag_faiss,
             "SKLearn": self.rag_sklearn,
         }
-        print(">>>>>>>>>>>>>>>>RAG Models Loaded<<<<<<<<<<<<<<<<\n\n")
+        print("\n>>>>>>>>>>>>>>>>RAG Models Loaded<<<<<<<<<<<<<<<<\n\n")
 
     def get_model(self, model="FAISS"):
         return self.model_types.get(model, self.model_types.get("FAISS"))
@@ -34,17 +34,26 @@ class LOAD_RAG_MODEL:
     def get_answer(self, query, choice_RAG):
         rag_model = self.get_model(model=choice_RAG)
 
+        _prompt = f"""Always answer briefly unless asked otherwise by the user! 
+                    Do not be verbose. Answer up to the point! 
+                    Add source link where ever possible.
+                    User query: {query}
+                    """
+        
+
         if(choice_RAG == "LightRAG"):
-            answer = rag_model.generate_answer(query)
+            answer = rag_model.generate_answer(_prompt)
             return answer
 
-        top_chunks = rag_model.retrieve_top_k_chunks(query, k=5)
-        answer = rag_model.generate_answer(query, top_chunks)
+        top_chunks = rag_model.retrieve_top_k_chunks(_prompt, k=5)
+        answer = rag_model.generate_answer(_prompt, top_chunks)
 
         return answer
 
 
 class RAG_MOD_BASIC:
+
+    data_path = "data/USCIS"
 
     def __init__(self):
         self.embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -54,9 +63,9 @@ class RAG_MOD_BASIC:
         self.chunks = None
 
         self.model_file_path = {
-            "index_file": "USCIS/USCIS_document_index.faiss",
-            "chunks_file": "USCIS/USCIS_chunks.txt",
-            "folder_path": "USCIS/USCIS_KB_Clean"
+            "index_file": f"{self.data_path}/USCIS_document_index.faiss",
+            "chunks_file": f"{self.data_path}/USCIS_chunks.txt",
+            "folder_path": f"{self.data_path}/USCIS_KB_Clean"
         }
 
         self.run()
@@ -102,6 +111,8 @@ class RAG_MOD_BASIC:
     
 
 class RAG_MOD_SKLEARN:
+    data_path = "data/USCIS"
+
     def __init__(self):
         self.vectorizer = TfidfVectorizer()
         self.LLMService = LLMService()
@@ -112,7 +123,7 @@ class RAG_MOD_SKLEARN:
         self.run()
 
     def run(self):
-        parsed_files = parse_cleaned_data(folder_path="USCIS/USCIS_KB_Clean")
+        parsed_files = parse_cleaned_data(folder_path=f"{self.data_path}/USCIS_KB_Clean")
         all_chunks = process_parsed_files(parsed_files)
         # Flatten all chunks for indexing (if needed)
         
@@ -142,9 +153,12 @@ class RAG_MOD_SKLEARN:
     
 
 class RAG_MOD_LIGHTRAG:
+    data_path = "data/USCIS"
+
     def __init__(self):
-        self.working_dir = "USCIS/LightRAG"
-        self.folder_path = "USCIS/USCIS_KB_Clean"
+        self.working_dir = f"{self.data_path}/LightRAG"
+        self.folder_path = f"{self.data_path}/USCIS_KB_Clean"
+
         self.rag_model = LightRAG(
             working_dir=self.working_dir,
             llm_model_func=gpt_4o_mini_complete  

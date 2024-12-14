@@ -1,7 +1,6 @@
 import PyPDF2
 import os
-from pdfminer.high_level import extract_text
-from llm_service import OpenAIService
+from services.llm_service import OpenAIService
 
 
 def upload_and_parse_folder(folder_path="KB"):

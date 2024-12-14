@@ -1,17 +1,32 @@
-python-dotenv
+# VectorDB
 faiss-cpu
 sentence_transformers
-langchain
-openai
+
+# Streamlit
 streamlit
 ai21
-langchain_openai
-langchain-community
-scikit-learn
+
+# LIGHT RAG
 lightrag-hku
 aioboto3
 ollama
 nano_vectordb
 neo4j
 oracledb
+
+# LLMs
+openai
+langchain
+anthropic
+groq
+langchain_openai
+langchain-community
+scikit-learn
+
+# DOCS
+PyPDF2
 python-docx
+python-dotenv
+
+# EmailClient
+mailjet_rest
