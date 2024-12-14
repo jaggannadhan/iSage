@@ -1,20 +1,24 @@
+import traceback
 import streamlit as st
 from services.email_service import send_email
 
 def run_chat_assistant(query, choice_RAG, RAG_BAG):
-    if query:
-        # Display user query in chat message container
-        st.chat_message("user").markdown(query)
-        # Add user query to chat history
-        st.session_state.messages.append({"role": "user", "content": query})
+    try:
+        if query:
+            # Display user query in chat message container
+            st.chat_message("user").markdown(query)
+            # Add user query to chat history
+            st.session_state.messages.append({"role": "user", "content": query})
 
-        with st.spinner("Thinking..."):
-            answer = RAG_BAG.get_answer(query, choice_RAG)
-        
-        with st.chat_message("assistant"):
-            st.markdown(answer)
-        # Add assistant response to chat history
-        st.session_state.messages.append({"role": "assistant", "content": answer})
+            with st.spinner("Thinking..."):
+                answer = RAG_BAG.get_answer(query, choice_RAG)
+            
+            with st.chat_message("assistant"):
+                st.markdown(answer)
+            # Add assistant response to chat history
+            st.session_state.messages.append({"role": "assistant", "content": answer})
+    except Exception:
+        print(traceback.format_exc())
 
 
 def sidebar(model_types):
@@ -67,12 +71,15 @@ def feedback():
         
 
 def show_feedback_response():
-    if "feedback" in st.session_state: 
-        email_resp = st.session_state.feedback
-        resp_status = email_resp.get("success")
-        if resp_status:
-            st.balloons()
-            st.toast("Feedback submitted!", icon="✅")
-        else:
-            st.toast("Unable to submit feedback, pls try later!", icon="❌")
-        st.session_state.pop("feedback")
+    try:
+        if "feedback" in st.session_state: 
+            email_resp = st.session_state.feedback
+            resp_status = email_resp.get("success")
+            if resp_status:
+                st.balloons()
+                st.toast("Feedback submitted!", icon="✅")
+            else:
+                st.toast("Unable to submit feedback, pls try later!", icon="❌")
+            st.session_state.pop("feedback")
+    except Exception:
+        print(traceback.format_exc())
