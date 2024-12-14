@@ -11,7 +11,12 @@ def run_chat_assistant(query, choice_RAG, RAG_BAG):
             st.session_state.messages.append({"role": "user", "content": query})
 
             with st.spinner("Thinking..."):
-                answer = RAG_BAG.get_answer(query, choice_RAG)
+                try:
+                    answer = RAG_BAG.get_answer(query, choice_RAG)
+                except Exception:
+                    print(traceback.format_exc())
+                    answer = "Oops! I am unable to respond to your query, please try again later!"
+
             
             with st.chat_message("assistant"):
                 st.markdown(answer)
