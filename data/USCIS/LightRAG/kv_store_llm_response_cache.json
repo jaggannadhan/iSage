@@ -743,6 +743,22 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: Can I work overtime on H1-B visa?\n                    "
+    },
+    "237f235d821620bcbcb3664bb6709db2": {
+      "return": "Under F-1 OPT (Optional Practical Training), international students can work in their field of study, including potential roles as online tutors. However, the work must be directly related to the student's major. It's essential to ensure that any employment complies with the regulations set forth by USCIS, including obtaining an Employment Authorization Document (EAD) before beginning work.\n\nFor more detailed information about working during OPT, you can refer to the [USCIS OPT Guidelines](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: Can I work as an online tutor under F1-OPT?\n                    "
+    },
+    "d4b5fb8ba76d31716bf9bc9e2feeac49": {
+      "return": "Under the F-1 Optional Practical Training (OPT) program, you may work as an online tutor, provided that the position is directly related to your field of study. Here are a few key considerations:\n\n1. **Relevance**: The tutoring job must align with your major or area of study. For example, if you majored in Education or Mathematics, tutoring in these subjects would typically qualify.\n\n2. **Employment Authorization**: You must have obtained an Employment Authorization Document (EAD) from USCIS to engage in OPT. This document proves your eligibility to work in your chosen position.\n\n3. **Self-Employment**: If you choose to tutor independently (as a self-employed tutor), ensure that you are meeting all necessary legal and tax obligations associated with such work.\n\nFor more specific guidance, it's advisable to consult your Designated School Official (DSO) and reference relevant regulations from USCIS.\n\nFor additional details on OPT, you may refer to the [USCIS OPT page](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: Can I work as an online tutor under F1-OPT?\n\n                    "
     }
   }
 }
