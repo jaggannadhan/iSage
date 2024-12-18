@@ -18,7 +18,6 @@ def get_rag_models():
     RAG_BAG = LOAD_RAG_MODEL()
     return RAG_BAG
 
-@st.cache_resource
 def get_FAQ(_cache_service):
     FAQ = _cache_service.get_top_queries(k=50)
     return FAQ
@@ -80,7 +79,7 @@ def iSage():
             hide_index=True,
         )
 
-st.cache_resource.clear()
+# st.cache_resource.clear()
 
 if __name__ == "__main__":
     iSage()
