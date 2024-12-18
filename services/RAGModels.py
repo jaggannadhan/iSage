@@ -48,20 +48,22 @@ class LOAD_RAG_MODEL:
             print(traceback.format_exc())
             print(">>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<")
                 
-        rag_model = self.get_model(model=choice_RAG)
+        # rag_model = self.get_model(model=choice_RAG)
 
-        _prompt = f"""Always answer briefly unless asked otherwise by the user! 
-                    Do not be verbose. Answer up to the point! 
-                    Add source link where ever possible.
-                    User query: {query}
-                    """
+        # _prompt = f"""Always answer briefly unless asked otherwise by the user! 
+        #             Do not be verbose. Answer up to the point! 
+        #             Add source link where ever possible.
+        #             User query: {query}
+        #             """
         
 
-        if(choice_RAG == "LightRAG"):
-            answer = rag_model.generate_answer(_prompt)
-        else:
-            top_chunks = rag_model.retrieve_top_k_chunks(_prompt, k=5)
-            answer = rag_model.generate_answer(_prompt, top_chunks)
+        # if(choice_RAG == "LightRAG"):
+        #     answer = rag_model.generate_answer(_prompt)
+        # else:
+        #     top_chunks = rag_model.retrieve_top_k_chunks(_prompt, k=5)
+        #     answer = rag_model.generate_answer(_prompt, top_chunks)
+
+        answer = "Answer from LLM"
 
         try:
             self.cache_service.add_query(query, answer)
