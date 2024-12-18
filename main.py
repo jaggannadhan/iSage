@@ -18,7 +18,7 @@ def get_FAQ():
 
 def iSage():
     with st.spinner("Getting FAQ"):
-        FAQ = get_FAQ(RAG_BAG.cache_service)
+        FAQ = get_FAQ()
     
     choice_RAG = sidebar(RAG_BAG.model_types.keys())
     
