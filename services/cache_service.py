@@ -19,7 +19,7 @@ class CloudCacheService:
     def set_FAQ(self, FAQ):
         try:
             if not FAQ:
-                self.FAQ = []
+                self.FAQ = {}
                 return
             
             for enitiy in FAQ:
