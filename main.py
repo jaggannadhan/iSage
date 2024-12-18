@@ -3,8 +3,6 @@ from services.RAGModels import LOAD_RAG_MODEL
 from services.cache_service import CloudCacheService
 from services.streamlit_service import *
 
-import pandas as pd
-
 st.set_page_config(
     page_title="iSage",
     page_icon="./images/favico.png",
@@ -48,36 +46,8 @@ def iSage():
     
     with tab2:
         st.subheader("FAQ Section", divider="red")
-
-        questions = list(FAQ.keys())
-        columns = {
-            "questions": questions,
-            "votes": []
-        }
-
-        for question in questions:
-            entity = FAQ.get(question)
-            votes = entity.get("votes")
-            columns["votes"].append(votes)
-
-        data_df = pd.DataFrame(columns)
-
-        st.data_editor(
-            data_df,
-            column_config={
-                "questions": st.column_config.TextColumn(
-                    "Questions",
-                    disabled=True,
-                    width="large"
-                ),
-                "votes": st.column_config.NumberColumn(
-                    "Votes",
-                    disabled=True,
-                    width="small"
-                ),
-            },
-            hide_index=True,
-        )
+        if FAQ:
+            show_FAQ_table(FAQ)
 
 # st.cache_resource.clear()
 

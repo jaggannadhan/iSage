@@ -1,5 +1,6 @@
 import traceback
 import streamlit as st
+import pandas as pd
 from services.email_service import send_email
 
 def run_chat_assistant(query, choice_RAG, RAG_BAG):
@@ -87,4 +88,39 @@ def show_feedback_response():
                 st.toast("Unable to submit feedback, pls try later!", icon="❌")
             st.session_state.pop("feedback")
     except Exception:
+        print(traceback.format_exc())
+
+def show_FAQ_table(FAQ):
+    try:
+        questions = list(FAQ.keys())
+        columns = {
+            "questions": questions,
+            "votes": []
+        }
+
+        for question in questions:
+            entity = FAQ.get(question)
+            votes = entity.get("votes")
+            columns["votes"].append(votes)
+
+        data_df = pd.DataFrame(columns)
+
+        st.data_editor(
+            data_df,
+            column_config={
+                "questions": st.column_config.TextColumn(
+                    "Questions",
+                    disabled=True,
+                    width="large"
+                ),
+                "votes": st.column_config.NumberColumn(
+                    "Votes",
+                    disabled=True,
+                    width="small"
+                ),
+            },
+            hide_index=True,
+        )
+    except Exception:
+        print("Error in show_FAQ_table")
         print(traceback.format_exc())
