@@ -18,11 +18,16 @@ class CloudCacheService:
         
     def set_FAQ(self, FAQ):
         try:
+            if not FAQ:
+                self.FAQ = []
+                return
+            
             for enitiy in FAQ:
                 query = enitiy.get("query")
-                
                 self.FAQ[query] = enitiy
+
         except Exception:
+            print("Error in set_FAQ")
             print(traceback.format_exc())
     
     def get_top_queries(self, k=20):
