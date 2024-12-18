@@ -5,62 +5,65 @@ import time
 import traceback
 
 
-def find_matching_query(user_query, cached_query_list):
-    """
-    Find a semantically matching query from cached_query_list for the given user_query.
-    Uses BERT-based sentence embeddings for semantic similarity matching.
-    
-    Args:
-        user_query (str): The input query to match
-        cached_query_list (list): List of previously cached queries to match against
+class SemanticSearch:
+
+    @classmethod
+    def find_matching_query(cls, user_query, cached_query_list):
+        """
+        Find a semantically matching query from cached_query_list for the given user_query.
+        Uses BERT-based sentence embeddings for semantic similarity matching.
         
-    Returns:
-        str: Matching query from cache, or None if no good match is found
-    """
-    # Load model and tokenizer
-    try:
-        print(f"Finding query: {user_query} in cache...")
-        model_name = "sentence-transformers/all-MiniLM-L6-v2"
-        tokenizer = AutoTokenizer.from_pretrained(model_name)
-        model = AutoModel.from_pretrained(model_name)
-        
-        def get_embedding(text):
-            # Tokenize and get model outputs
-            inputs = tokenizer(text, return_tensors="pt", padding=True, truncation=True)
-            outputs = model(**inputs)
+        Args:
+            user_query (str): The input query to match
+            cached_query_list (list): List of previously cached queries to match against
             
-            # Mean pooling
-            attention_mask = inputs['attention_mask']
-            token_embeddings = outputs.last_hidden_state
-            input_mask_expanded = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
-            sum_embeddings = torch.sum(token_embeddings * input_mask_expanded, 1)
-            sum_mask = torch.clamp(input_mask_expanded.sum(1), min=1e-9)
-            return (sum_embeddings / sum_mask).squeeze()
-        
-        # Calculate embeddings
-        with torch.no_grad():  # Add this for inference
-            user_embedding = get_embedding(user_query)
-            cached_embeddings = torch.stack([get_embedding(query) for query in cached_query_list])
-        
-            # Normalize embeddings
-            user_embedding = F.normalize(user_embedding, p=2, dim=0)
-            cached_embeddings = F.normalize(cached_embeddings, p=2, dim=1)
+        Returns:
+            str: Matching query from cache, or None if no good match is found
+        """
+        # Load model and tokenizer
+        try:
+            print(f"Finding query: {user_query} in cache...")
+            model_name = "sentence-transformers/all-MiniLM-L6-v2"
+            tokenizer = AutoTokenizer.from_pretrained(model_name)
+            model = AutoModel.from_pretrained(model_name)
             
-            # Calculate cosine similarities
-            similarities = torch.matmul(user_embedding.unsqueeze(0), cached_embeddings.t()).squeeze()
+            def get_embedding(text):
+                # Tokenize and get model outputs
+                inputs = tokenizer(text, return_tensors="pt", padding=True, truncation=True)
+                outputs = model(**inputs)
+                
+                # Mean pooling
+                attention_mask = inputs['attention_mask']
+                token_embeddings = outputs.last_hidden_state
+                input_mask_expanded = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
+                sum_embeddings = torch.sum(token_embeddings * input_mask_expanded, 1)
+                sum_mask = torch.clamp(input_mask_expanded.sum(1), min=1e-9)
+                return (sum_embeddings / sum_mask).squeeze()
             
-            # Find best match
-            best_match_idx = torch.argmax(similarities)
-            best_match_score = similarities[best_match_idx].item()
-        
-        # Return match if similarity is high enough, otherwise None
-        if best_match_score > 0.8:  # Threshold can be adjusted
-            return cached_query_list[best_match_idx]
-        return None
-    except Exception:
-        print("Error in find_matching_query")
-        print(traceback.format_exc())
-        return None
+            # Calculate embeddings
+            with torch.no_grad():  # Add this for inference
+                user_embedding = get_embedding(user_query)
+                cached_embeddings = torch.stack([get_embedding(query) for query in cached_query_list])
+            
+                # Normalize embeddings
+                user_embedding = F.normalize(user_embedding, p=2, dim=0)
+                cached_embeddings = F.normalize(cached_embeddings, p=2, dim=1)
+                
+                # Calculate cosine similarities
+                similarities = torch.matmul(user_embedding.unsqueeze(0), cached_embeddings.t()).squeeze()
+                
+                # Find best match
+                best_match_idx = torch.argmax(similarities)
+                best_match_score = similarities[best_match_idx].item()
+            
+            # Return match if similarity is high enough, otherwise None
+            if best_match_score > 0.8:  # Threshold can be adjusted
+                return cached_query_list[best_match_idx]
+            return None
+        except Exception:
+            print("Error in find_matching_query")
+            print(traceback.format_exc())
+            return None
 
 
 if __name__ == "__main__":
@@ -120,8 +123,9 @@ if __name__ == "__main__":
     ]
 
     # Test the function
+    sematic_search = SemanticSearch()
     user_input = "What is the H-1B cap?\n\n"
-    result = find_matching_query(user_input, cached_queries)
+    result = sematic_search.find_matching_query(user_input, cached_queries)
     end = time.time()
 
     time_taken = end-start

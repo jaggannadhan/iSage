@@ -1,5 +1,5 @@
 import traceback, requests, json
-from services.query_matching import find_matching_query
+from services.query_matching import SemanticSearch
 
 class CloudCacheService:
 
@@ -7,7 +7,7 @@ class CloudCacheService:
         self.FAQ_BUCKET = "isage-faq"
         self.BACKEND_URL = "https://cache-dot-isage2024.uc.r.appspot.com"
         self.FAQ = {}
-        self.FAQ_embeddings = None
+        self.semantic_search = SemanticSearch()
         
     def get_FAQ(self):
         try:
@@ -111,7 +111,7 @@ class CloudCacheService:
             query_list=list(self.FAQ.keys())
             # print(f">>>>>>FAQ: {query_list}")
 
-            matched_query = find_matching_query(query, query_list)
+            matched_query = self.semantic_search.find_matching_query(query, query_list)
             if not matched_query:
                 print("Query NOT-FOUND in cache!")
                 return None
