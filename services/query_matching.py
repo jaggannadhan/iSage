@@ -120,7 +120,7 @@ if __name__ == "__main__":
     ]
 
     # Test the function
-    user_input = "What is the purpose of Form I-130"
+    user_input = "What is the H-1B cap?\n\n"
     result = find_matching_query(user_input, cached_queries)
     end = time.time()
 

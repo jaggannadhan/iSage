@@ -49,7 +49,7 @@ def iSage():
         if FAQ:
             show_FAQ_table(FAQ)
 
-st.cache_resource.clear()
+# st.cache_resource.clear()
 
 if __name__ == "__main__":
     iSage()
