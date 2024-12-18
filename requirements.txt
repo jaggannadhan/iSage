@@ -31,9 +31,3 @@ python-dotenv
 # EmailClient
 mailjet_rest
 
-
-# Google Cloud
-google-cloud
-google-cloud-datastore==2.19.0
-google-cloud-storage==2.18.0
-google-cloud-storage-control==1.0.2

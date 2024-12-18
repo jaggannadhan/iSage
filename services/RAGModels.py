@@ -12,8 +12,6 @@ from lightrag import LightRAG, QueryParam
 from lightrag.llm import gpt_4o_mini_complete
 from dotenv import load_dotenv
 
-from services.cache_service import CloudCacheService
-
 load_dotenv()
 
 
@@ -23,6 +21,7 @@ class LOAD_RAG_MODEL:
         self.rag_faiss = RAG_MOD_BASIC()
         self.rag_sklearn = RAG_MOD_SKLEARN()
         self.rag_lightRAG = RAG_MOD_LIGHTRAG()
+        self.cache_service = None
 
         self.model_types = {
             "LightRAG": self.rag_lightRAG,
@@ -35,41 +34,38 @@ class LOAD_RAG_MODEL:
         return self.model_types.get(model, self.model_types.get("FAISS"))
     
     def get_answer(self, query, choice_RAG):
-        cache_service = CloudCacheService()
-
         try:
-            answer = cache_service.check_query_exists(query)
+            answer = self.cache_service.check_query_exists(query)
             if answer:
                 return answer
-            answer = "Still in testing!"
         except Exception:
             print(">>>>>>>>>>>>Error in CACHE RETRIEVAL<<<<<<<<<<<")
             print(traceback.format_exc())
             print(">>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<")
-            
-    
-        # rag_model = self.get_model(model=choice_RAG)
+                
+        rag_model = self.get_model(model=choice_RAG)
 
-        # _prompt = f"""Always answer briefly unless asked otherwise by the user! 
-        #             Do not be verbose. Answer up to the point! 
-        #             Add source link where ever possible.
-        #             User query: {query}
-        #             """
+        _prompt = f"""Always answer briefly unless asked otherwise by the user! 
+                    Do not be verbose. Answer up to the point! 
+                    Add source link where ever possible.
+                    User query: {query}
+                    """
         
 
-        # if(choice_RAG == "LightRAG"):
-        #     answer = rag_model.generate_answer(_prompt)
-        #     return answer
+        if(choice_RAG == "LightRAG"):
+            answer = rag_model.generate_answer(_prompt)
+            return answer
 
-        # top_chunks = rag_model.retrieve_top_k_chunks(_prompt, k=5)
-        # answer = rag_model.generate_answer(_prompt, top_chunks)
+        top_chunks = rag_model.retrieve_top_k_chunks(_prompt, k=5)
+        answer = rag_model.generate_answer(_prompt, top_chunks)
 
         try:
-            cache_service.add_query(query, answer)
+            self.cache_service.add_query(query, answer)
         except Exception:
             print(">>>>>>>>>Error in caching LLM Response<<<<<<<<<")
             print(traceback.format_exc())
             print(">>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<")
+
         return answer
 
 
@@ -204,4 +200,3 @@ class RAG_MOD_LIGHTRAG:
         return answer
 
 
-RAG_BAG = LOAD_RAG_MODEL()

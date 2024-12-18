@@ -1,65 +1,125 @@
-import traceback
-from services.google_bucket import FileUploadService
-from models.FAQModel import FAQ
+import traceback, requests, json
+from services.query_matching import find_matching_query
 
 class CloudCacheService:
 
     def __init__(self):
         self.FAQ_BUCKET = "isage-faq"
-        self.file_service = FileUploadService()
-        self.faq_model = FAQ()
-
-    def get_all_queries(self):
-        query_list, msg =  self.faq_model.get_all_queries()
-        print(msg, query_list)
-        return query_list
+        self.BACKEND_URL = "https://cache-dot-isage2024.uc.r.appspot.com"
+        self.FAQ = {}
+        self.FAQ_embeddings = None
+        
+    def get_FAQ(self):
+        try:
+            return self.FAQ
+        except Exception:
+            print(traceback.format_exc())
+            return None
+        
+    def set_FAQ(self, FAQ):
+        try:
+            for enitiy in FAQ:
+                query = enitiy.get("query")
+                
+                self.FAQ[query] = enitiy
+        except Exception:
+            print(traceback.format_exc())
+    
+    def get_top_queries(self, k=20):
+        try:
+            response = requests.get(
+                f"{self.BACKEND_URL}/get-top-queries",
+                params={"k": k}
+            )
+            if response.status_code == 200:
+                data = response.json()
+                print(f"FAQ from cloud cache: {data}")
+                query_list = data["query_list"]
+                
+                self.set_FAQ(query_list)
+                
+                return self.FAQ
+            else:
+                return None
+        except Exception:
+            print(traceback.format_exc())
+            return None
 
 
     def add_query(self, query, answer):
         try:
             print("Adding query to cache...")
-            blob_url, msg = self.file_service.write_text_to_file(self.FAQ_BUCKET, query, answer)
-            if not blob_url:
-                print(msg)
+            response = requests.post(
+                f"{self.BACKEND_URL}/cache-response", 
+                data=json.dumps({"query": query, "answer": answer}))
+            
+            if response.status_code != 200:
+                print("Request failed!")
                 return False
             
-            success, msg = self.faq_model.add_query(query, blob_url)
-            print(msg)
-
-            return success
+            data = response.json()
+            print(data)
+            return data.get("success")
+        except Exception:
+            print(traceback.format_exc())
+            return False
+        
+    def increment_vote_for_query(self, matched_enitity):
+        try:
+            print("Incrementing vote for query")
+            response = requests.post(
+                f"{self.BACKEND_URL}/increment-vote", 
+                data=json.dumps({"query": matched_enitity.get("query")}))
+            
+            if response.status_code != 200:
+                print("Request failed!")
+                return False
+            
+            data = response.json()
+            print(data)
+            return data.get("success")
         except Exception:
             print(traceback.format_exc())
             return False
 
 
-    def get_answer_for_query(self, query):
+    def get_answer_for_query(self, matched_enitity):
         try:
             print("Getting answer for query...")
-            answer = self.file_service.get_text_from_file(self.FAQ_BUCKET, query)
-            self.faq_model.increment_vote_for_query()
 
+            blob_url = matched_enitity.get("blob_url")
+            response = requests.get(blob_url)
+            answer = response.text.strip()
+
+            print(answer)
             return answer
         except Exception:
             print(traceback.format_exc())
+            return None
+
+    def match_query(self, query):
+        try:
+            query_list=list(self.FAQ.keys())
+            # print(f">>>>>>FAQ: {query_list}")
+
+            matched_query = find_matching_query(query, query_list)
+            if not matched_enitity:
+                return None
+
+            matched_enitity = self.FAQ.get(matched_query)
+            return matched_enitity
+        except Exception:
+            print("Query NOT-FOUND in cache!")
             return False
-
-    def match_query(self, query, query_list):
-        if query in query_list:
-            print("Query FOUND in cache!")
-            return True
-        
-
-        print("Query NOT-FOUND in cache!")
-        return False
     
     
     def check_query_exists(self, query):
-        query_list = self.get_all_queries()
         formatted_query = query.lower().strip()
-        match = self.match_query(formatted_query, query_list)
+        matched_enitity = self.match_query(formatted_query)
 
-        if match:
-            answer = self.get_answer_for_query(query)
+        if matched_enitity:
+            answer = self.get_answer_for_query(matched_enitity)
+            self.increment_vote_for_query(matched_enitity)
             return answer
     
         return False
