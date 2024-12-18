@@ -1,5 +1,5 @@
 import streamlit as st
-from services.RAGModels import LOAD_RAG_MODEL
+from services.RAGModels import RAG_BAG
 from services.cache_service import CloudCacheService
 from services.streamlit_service import *
 
@@ -11,20 +11,13 @@ st.set_page_config(
 
 tab1, tab2 = st.tabs(["Assistant", "FAQ"])
     
-@st.cache_resource()
-def get_rag_models():
-    RAG_BAG = LOAD_RAG_MODEL()
-    return RAG_BAG
-
-def get_FAQ(_cache_service):
-    FAQ = _cache_service.get_top_queries(k=50)
+def get_FAQ():
+    RAG_BAG.cache_service = CloudCacheService()
+    FAQ = RAG_BAG.cache_service.get_top_queries(k=50)
     return FAQ
 
 def iSage():
-    RAG_BAG = get_rag_models()
-
     with st.spinner("Getting FAQ"):
-        RAG_BAG.cache_service = CloudCacheService()
         FAQ = get_FAQ(RAG_BAG.cache_service)
     
     choice_RAG = sidebar(RAG_BAG.model_types.keys())
@@ -49,7 +42,6 @@ def iSage():
         if FAQ:
             show_FAQ_table(FAQ)
 
-st.cache_resource.clear()
 
 if __name__ == "__main__":
     iSage()

@@ -12,8 +12,6 @@ from lightrag import LightRAG, QueryParam
 from lightrag.llm import gpt_4o_mini_complete
 from dotenv import load_dotenv
 
-import streamlit as st
-
 import time
 
 load_dotenv()
@@ -39,10 +37,9 @@ class LOAD_RAG_MODEL:
     
     def get_answer(self, query, choice_RAG):
         try:
-            with st.spinner("Quering cache"):
-                answer = self.cache_service.check_query_exists(query)
-                if answer:
-                    return answer
+            answer = self.cache_service.check_query_exists(query)
+            if answer:
+                return answer
         except Exception:
             print(">>>>>>>>>>>>Error in CACHE RETRIEVAL<<<<<<<<<<<")
             print(traceback.format_exc())
@@ -206,3 +203,4 @@ class RAG_MOD_LIGHTRAG:
         return answer
 
 
+RAG_BAG = LOAD_RAG_MODEL()
