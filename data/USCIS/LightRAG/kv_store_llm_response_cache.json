@@ -759,6 +759,38 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: Can I work as an online tutor under F1-OPT?\n\n                    "
+    },
+    "2838b27e522fc08d11e77f25f8264d4d": {
+      "return": "The purpose of Form I-130, also known as the Petition for Alien Relative, is to establish the existence of a qualifying family relationship between a U.S. citizen or lawful permanent resident and a beneficiary who wishes to immigrate to the United States. This form is a critical first step in the family-based immigration process, allowing U.S. citizens and lawful permanent residents to sponsor certain relatives for permanent residency (Green Card).\n\nFor more information, you can visit the official USCIS page [here](https://www.uscis.gov/i-130).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: What is the purpose of Form I-130?\n                    "
+    },
+    "9322ca9c5c6c01bbe084a49e341209cf": {
+      "return": "I don't have personal experiences or a graduation date as I am an AI assistant. However, if you have questions about academic programs or graduation requirements, feel free to ask!",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: When did you graduate?\n                    "
+    },
+    "0609a92c47243ac1951aeb06580d2e3e": {
+      "return": "## Maintaining F-1 Student Status\n\nF-1 students in the United States must adhere to specific requirements to maintain their nonimmigrant status. Here are the key points:\n\n1. **Enrollment in a Full Course of Study**: F-1 students are required to enroll in a full-time academic program at an SEVP-certified institution. This typically means taking a minimum number of credits or classes as defined by the school.\n\n2. **Timely Reporting of Changes**: Students must report changes in personal information, such as address, legal name, or employer details, to their Designated School Official (DSO) within 10 days of the change.\n\n3. **Validation Reports**: F-1 students must submit a Validation Report every six months to confirm their enrollment and compliance with their visa conditions.\n\n4. **Employment Authorization**: Off-campus employment requires obtaining proper authorization through the Form I-765, ensuring the work is related to their studies.\n\n5. **Compliance with Visa Regulations**: Students need to avoid any unauthorized employment or status violations, such as failing to maintain a normal course load.\n\nFor more detailed guidance and regulations, you can refer to the official [USCIS page on F-1 Students](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: How does an F-1 student maintain their status?\n                    "
+    },
+    "a6cf7761c82f74e8d9b5027861ca5a79": {
+      "return": "### H-1B Cap Explained\n\nThe H-1B cap refers to the annual limit on the number of H-1B visas that the United States Citizenship and Immigration Services (USCIS) can issue to foreign workers in specialty occupations. \n\nCurrently, the H-1B visa cap is typically set at **65,000 visas per fiscal year**. Additionally, there are **20,000 additional visas** reserved for individuals holding a master's degree or higher from a U.S. institution.\n\nThis cap affects how many foreign workers can enter the U.S. under the H-1B program, which is essential for employers seeking to hire skilled workers in fields such as technology, engineering, and healthcare.\n\nFor further information, you can visit the USCIS page on H-1B visas: [USCIS H-1B Visa Overview](https://www.uscis.gov/h-1b).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: What is the H-1B cap?\n                    "
     }
   }
 }

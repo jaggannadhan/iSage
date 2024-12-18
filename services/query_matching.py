@@ -19,6 +19,7 @@ def find_matching_query(user_query, cached_query_list):
     """
     # Load model and tokenizer
     try:
+        print(f"Finding query: {user_query} in cache...")
         model_name = "sentence-transformers/all-MiniLM-L6-v2"
         tokenizer = AutoTokenizer.from_pretrained(model_name)
         model = AutoModel.from_pretrained(model_name)
@@ -57,6 +58,7 @@ def find_matching_query(user_query, cached_query_list):
             return cached_query_list[best_match_idx]
         return None
     except Exception:
+        print("Error in find_matching_query")
         print(traceback.format_exc())
         return None
 
@@ -118,7 +120,7 @@ if __name__ == "__main__":
     ]
 
     # Test the function
-    user_input = "how to learn basics of grammar?"
+    user_input = "What is the purpose of Form I-130"
     result = find_matching_query(user_input, cached_queries)
     end = time.time()
 

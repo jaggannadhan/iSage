@@ -42,6 +42,7 @@ class CloudCacheService:
             else:
                 return None
         except Exception:
+            print("Error in get_top_queries")
             print(traceback.format_exc())
             return None
 
@@ -61,6 +62,7 @@ class CloudCacheService:
             print(data)
             return data.get("success")
         except Exception:
+            print("Error in add_query to cache")
             print(traceback.format_exc())
             return False
         
@@ -79,6 +81,7 @@ class CloudCacheService:
             print(data)
             return data.get("success")
         except Exception:
+            print("Error in increment_vote_for_query")
             print(traceback.format_exc())
             return False
 
@@ -94,6 +97,7 @@ class CloudCacheService:
             print(answer)
             return answer
         except Exception:
+            print("Error in get_answer_for_query")
             print(traceback.format_exc())
             return None
 
@@ -103,13 +107,15 @@ class CloudCacheService:
             # print(f">>>>>>FAQ: {query_list}")
 
             matched_query = find_matching_query(query, query_list)
-            if not matched_enitity:
+            if not matched_query:
+                print("Query NOT-FOUND in cache!")
                 return None
 
             matched_enitity = self.FAQ.get(matched_query)
             return matched_enitity
         except Exception:
-            print("Query NOT-FOUND in cache!")
+            print("Error in match_query")
+            print(traceback.format_exc())
             return False
     
     
