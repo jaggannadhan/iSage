@@ -2,7 +2,6 @@ import traceback
 import streamlit as st
 import pandas as pd
 from services.email_service import send_email
-from static.main_js import *
 
 
 def chat_window(choice_RAG, RAG_BAG):
