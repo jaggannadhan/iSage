@@ -791,6 +791,38 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: What is the H-1B cap?\n                    "
+    },
+    "0b45262aa86872f72d6c938dd75c2316": {
+      "return": "Under an F-1 Visa, you can work off-campus, but certain conditions apply:\n\n1. **Work Authorization Required**: You must obtain specific authorization from your Designated School Official (DSO) and file a Form I-765 with USCIS to receive Employment Authorization (EAD) before starting any off-campus employment.\n\n2. **Eligibility**: Generally, you can apply for off-campus employment after completing one academic year of full-time study and under certain conditions such as severe economic hardship or if you gain practical experience related to your academic field (like Optional Practical Training or OPT).\n\n3. **Restrictions**: Off-campus employment is authorized only if it aligns with immigration regulations, and working without proper authorization may jeopardize your visa status.\n\nFor detailed information, you can refer to the [USCIS guidelines on F-1 Employment](https://www.uscis.gov/working-in-the-united-states/temporary-workers/f-1-students) and [Federal Register notices](https://www.federalregister.gov/documents) that might apply to your situation.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: Can I work off-campus in F1 Visa?\n                    "
+    },
+    "561d0f8b6f5cd0b7a59adf4753735a7b": {
+      "return": "Under the Optional Practical Training (OPT) program, F-1 students can only work in jobs that are directly related to their field of study. However, you can work for multiple employers, but each position must maintain a bona fide employer-employee relationship and fulfill the program requirements. It's essential to report any changes in employment to your Designated School Official (DSO) to ensure compliance with OPT regulations.\n\nFor more detailed information, you can refer to the official USCIS guidelines on optional practical training [here](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: Can I work on multiple jobs in OPT?\n                    "
+    },
+    "2cdc49c989040b84315d6c8316bb3d8c": {
+      "return": "I am a helpful assistant designed to provide information and answer questions based on the data available in specific tables. If you have any particular inquiries or need assistance, feel free to ask!",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: who r u?\n                    "
+    },
+    "819143c70d53e46b0904746a15562120": {
+      "return": "### Purpose of Form I-765\n\nForm I-765, also known as the Application for Employment Authorization, is primarily used by noncitizens in the United States to request permission to work legally. It is a crucial form for various categories of individuals, including F-1 students, asylum seekers, and certain temporary protected status (TPS) applicants.\n\nThis form initiates the process of obtaining an Employment Authorization Document (EAD), which serves as proof of an individual's eligibility to work in the U.S. The form is mandatory for those seeking employment authorization, particularly for students during their Optional Practical Training (OPT) periods or for individuals adjusting their immigration status.\n\nFor more information, you can refer to the [USCIS website on Form I-765](https://www.uscis.gov/i-765).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: What is the purpose of Form I-765?\n                    "
     }
   }
 }

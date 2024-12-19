@@ -29,6 +29,27 @@ class CloudCacheService:
         except Exception:
             print("Error in set_FAQ")
             print(traceback.format_exc())
+
+    def update_FAQ(self, entity):
+        try:
+            if not entity:
+                print("Nothing to update")
+                return self.FAQ
+            
+            query = entity.get("query", None)
+            votes = entity.get("votes")
+
+            if to_update := self.FAQ.get(query, None):
+                to_update["votes"] = votes + 1
+                self.FAQ[query] = to_update
+            else:
+                self.FAQ[query] = entity
+
+            return self.FAQ
+        except Exception:
+            print("Error in update_FAQ")
+            print(traceback.format_exc())
+            return self.FAQ
     
     def get_top_queries(self, k=20):
         try:
@@ -65,7 +86,10 @@ class CloudCacheService:
             
             data = response.json()
             print(data)
-            return data.get("success")
+            entity = data.get("success")
+            self.update_FAQ(entity)
+
+            return entity
         except Exception:
             print("Error in add_query to cache")
             print(traceback.format_exc())
@@ -106,6 +130,7 @@ class CloudCacheService:
             print(traceback.format_exc())
             return None
 
+
     def match_query(self, query):
         try:
             query_list=list(self.FAQ.keys())
@@ -131,6 +156,7 @@ class CloudCacheService:
         if matched_enitity:
             answer = self.get_answer_for_query(matched_enitity)
             self.increment_vote_for_query(matched_enitity)
+            self.update_FAQ(matched_enitity)
             return answer
     
         return False

@@ -2,15 +2,33 @@ import traceback
 import streamlit as st
 import pandas as pd
 from services.email_service import send_email
+from static.main_js import *
 
-def run_chat_assistant(query, choice_RAG, RAG_BAG):
+
+def chat_window(choice_RAG, RAG_BAG):
+    # Initialize chat history
+    if "messages" not in st.session_state:
+        st.session_state.messages = []
+
+    message_container = st.container(height=370, border=False)
+
+    # Display chat messages from history on app rerun
+    for message in st.session_state.messages:
+        with message_container.chat_message(message["role"]):
+            message_container.markdown(message["content"])
+
+    if query := st.chat_input("Ask me a question!"):
+        run_chat_assistant(query, choice_RAG, RAG_BAG, message_container)
+
+
+def run_chat_assistant(query, choice_RAG, RAG_BAG, message_container):
     try:
-        if query:
-            # Display user query in chat message container
-            st.chat_message("user").markdown(query)
-            # Add user query to chat history
-            st.session_state.messages.append({"role": "user", "content": query})
+        # Display user query in chat message container
+        message_container.chat_message("user").markdown(query)
+        # Add user query to chat history
+        st.session_state.messages.append({"role": "user", "content": query})
 
+        with message_container:
             with st.spinner("Thinking..."):
                 try:
                     answer = RAG_BAG.get_answer(query, choice_RAG)
@@ -18,11 +36,11 @@ def run_chat_assistant(query, choice_RAG, RAG_BAG):
                     print(traceback.format_exc())
                     answer = "Oops! I am unable to respond to your query, please try again later!"
 
-            
-            with st.chat_message("assistant"):
-                st.markdown(answer)
-            # Add assistant response to chat history
-            st.session_state.messages.append({"role": "assistant", "content": answer})
+        
+        with message_container.chat_message("assistant"):
+            message_container.markdown(answer)
+        # Add assistant response to chat history
+        st.session_state.messages.append({"role": "assistant", "content": answer})
     except Exception:
         print(traceback.format_exc())
 
@@ -75,7 +93,6 @@ def feedback():
             st.rerun()
         
         
-
 def show_feedback_response():
     try:
         if "feedback" in st.session_state: 
@@ -90,8 +107,13 @@ def show_feedback_response():
     except Exception:
         print(traceback.format_exc())
 
+
+
 def show_FAQ_table(FAQ):
     try:
+        if not FAQ:
+            print("No FAQs")
+            return
         questions = list(FAQ.keys())
         columns = {
             "questions": questions,
