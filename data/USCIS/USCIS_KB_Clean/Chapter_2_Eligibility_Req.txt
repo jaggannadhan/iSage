@@ -1,0 +1,319 @@
+Source: https://www.uscis.gov/policy-manual/volume-10-part-a-chapter-2
+
+Chapter 2 - Eligibility Requirements
+
+Whether or not a noncitizen (https://www.uscis.gov/glossary-term/92167) is authorized to work in the United States depends on the noncitizen's immigration status or circumstances.[1] The regulations outline three classes of eligibility for employment authorization:
+
+1. Authorization to work for any employer, as well as to engage in self-employment, based on immigration status or circumstances;[2]
+2. Authorization to work for a specific employer based on immigration status or circumstances;[3] and
+3. Authorization to work for any employer, as well as to engage in self-employment, upon approval, in the discretion of USCIS, of an Application for Employment Authorization (Form I-765) (https://www.uscis.gov/i-765).[4]
+
+
+A. Authorized to Work for Any Employer Based on Status or Circumstances
+1. Noncitizens Who Must Apply for Documentation of Employment Authorization
+Certain noncitizens are authorized to work in the United States without restriction based on their underlying immigration status or circumstances.[5] However, noncitizens seeking employment in the United States must present an acceptable document or combination of documents to their employer as evidence of both identity and employment authorization.[6] In general, most noncitizens authorized to work for any employer based on their status or circumstance must apply to USCIS for a document evidencing employment authorization.
+
+The following noncitizens are authorized to work in the United States without restriction, based on their status or circumstance, but generally must apply to USCIS for a document evidencing employment authorization if seeking employment in the United States:[7]
+1. Refugees;[8]
+2. Certain Afghan parolees and certain Ukrainian parolees;[9]
+3. Fiancé(e)s of U.S. citizens or children of such fiancé(e)s (K-1 or K-2 nonimmigrants);[10]
+4. Parents or dependent children of persons granted LPR status based on being an employee of a recognized international organization (or such an employee’s family member);[11]
+5. Citizens of Palau;[12]
+6. Persons granted withholding of deportation or removal;[13]
+7. Persons under Deferred Enforced Departure (DED);[14]
+8. Persons granted temporary protected status (TPS);[15]
+9. Persons granted voluntary departure under the Family Unity Program or granted Family Unity benefits;[16]
+10. V nonimmigrants; and
+11. Noncitizens granted Commonwealth of the Northern Mariana Islands (CNMI) resident status (employment authorization is limited to the CNMI).[17]
+
+Generally, noncitizens in the above categories need to submit Form I-765 (https://www.uscis.gov/i-765) to USCIS with the appropriate fee, in accordance with the form instructions,[18] to receive an Employment Authorization Document (EAD) as evidence of such authorization if they intend to work in the United States.[19]
+
+
+
+2. Noncitizens Who Do Not Need to Apply for Documentation of Employment Authorization
+The following noncitizens are authorized to work in the United States without restriction, based on their status or circumstance, and generally do not need to apply to USCIS for a document evidencing employment authorization if seeking employment in the United States because the documentation they receive showing their status or circumstance may generally also be used to show employment authorization:
+1. Lawful permanent residents (LPRs) (with or without conditions);[20]
+2. Lawful temporary residents;[21]
+3. Asylees;[22]
+4. Citizens of Micronesia or the Marshall Islands;[23]
+5. Spouses of U.S. citizens or children of such spouses (K-3 or K-4 nonimmigrants);[24]
+6. Victims of severe forms of trafficking in persons (T-1 nonimmigrants);[25]
+7. Spouses of principal E nonimmigrants;[26]
+9. 8. Spouses of principal L-1 nonimmigrants;[27] and
+10. Victims of qualifying criminal activity (U-1 nonimmigrants)[28] and certain qualifying family members (U-2, U-3, U-4, and U-5 nonimmigrants).[29]
+
+Although these noncitizens are not required to apply to USCIS for a document evidencing employment authorization, they must still present acceptable evidence of identity and employment authorization when seeking employment in the United States.[30]
+
+Documentation DHS Issues as Evidence of Employment Authorization
+
+LPRs may present a Permanent Resident Card (Form I-551), a foreign passport that contains a temporary I-551 stamp, or a temporary I-551 notation on a machine-readable visa as evidence of both identity and employment authorization.[31]
+
+Asylees, spouses of U.S. citizens or children of such spouses (K-3 and K-4 nonimmigrants), victims of severe forms of trafficking in persons (T-1 nonimmigrants), spouses of E nonimmigrants (E-1S, E-2S, or E-3S nonimmigrants) with limited exceptions,[32] spouses of L nonimmigrants (L-2S nonimmigrants), and victims of qualifying criminal activity (U-1 nonimmigrants) and certain qualifying family members (U-2, U-3, U-4, and U-5 nonimmigrants) may present their Arrival/Departure Record (Form I-94)[33] as acceptable evidence of employment authorization under List C of Employment Eligibility Verification (Form I-9) (https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents).[34]
+
+However, noncitizens seeking employment in the United States who present their Form I-94 to an employer as evidence of employment authorization must also present a document to show evidence of identity.[35] The Form I-94 is not evidence of identity and for the categories of noncitizens listed above can be presented as evidence of employment authorization.
+
+To obtain a document evidencing both identity and employment authorization, these noncitizens may apply for an EAD, with the appropriate fee (or request a fee waiver), if applicable. However, certain categories of noncitizens are automatically issued an EAD showing both identity and employment authorization based on their status and are not required to apply separately for an EAD.[36]
+
+
+
+B. Authorized to Work for Specific Employer Based on Status or Circumstances
+The following nonimmigrants and parolees are automatically authorized to work for a specific employer based on their particular nonimmigrant status or parole:[37]
+1. Foreign government officials (A-1 or A-2 nonimmigrants), or employees of such official (A-3 nonimmigrants);[38]
+2. Foreign government officials in transit (C-2 or C-3 nonimmigrants);[39]
+3. Treaty traders (E-1 nonimmigrants) or treaty investors (E-2 nonimmigrants);[40]
+4. Students (F-1 nonimmigrants) who are seeking:[41]
+    a. On-campus employment;
+    b. Curricular practical training;
+    c An EAD based on a STEM Optional Practical Training (OPT) extension,[42] and whose timely filed Form I-765 or successor form is pending and whose employment authorization and accompanying Form I-766 or successor form was issued based on post-completion OPT;[43] or
+    d. H-1B nonimmigrant status and whose duration of status and employment authorization have been extended as provided in regulations;[44]
+5. Representatives of an international organization (G-1, G-2, G-3, or G-4 nonimmigrants)[45] and their personal employees (G-5 nonimmigrants);[46]
+6. Temporary workers or trainees (H-1, H-2, or H-3 nonimmigrants);[47]
+7. Representatives of foreign information media (I nonimmigrants);[48]
+8. Exchange visitors (J-1 nonimmigrants);[49]
+9. Intra-company transferees (L-1 nonimmigrants);[50]
+10. "Aliens of extraordinary ability in sciences, arts, education, business, or athletics" (O-1 nonimmigrants), "and an accompanying alien" (O-2 nonimmigrants);[51]
+11. Athletes, artists, or entertainers (P-1, P-2, or P-3 nonimmigrants) and essential support personnel;[52]
+12. International cultural exchange visitors (Q-1 nonimmigrants);[53]
+13. Religious workers (R-1 nonimmigrants);[54]
+14. North Atlantic Treaty Organization (NATO) civilian employees[55] and their personal employees;[56]
+15. United States-Mexico-Canada Agreement (USMCA) professionals (TN nonimmigrants);[57]
+16. Temporary workers[58] who filed a Petition for a Nonimmigrant Worker (Form I-129);[59]
+17. CNMI investors (E-2 nonimmigrants);[60]
+18. CNMI transitional workers (CW-1 nonimmigrants);[61]
+19. "Nonimmigrant treaty alien[s] in a specialty occupation" (E-3 nonimmigrants);[62] and
+20. "Alien[s] paroled" as an entrepreneur for the period of authorized parole.[63]
+
+Nonimmigrants authorized to work for a specific employer based on status or circumstances are not required to file a Form I-765 (https://www.uscis.gov/i-765) to obtain authorization to work in the United States; they receive employment authorization automatically once they are admitted into the United States in, or change to, the qualifying nonimmigrant status or parole. These noncitizens are, however, subject to certain restrictions as a condition of their status or parole. Generally, they are only allowed to work for the employer named in their respective nonimmigrant petition or parole application and only allowed to perform the type of work specified in their petition or application.[64] Certain classes of nonimmigrants may continue their employment with the same employer for up to 240 days after the expiration of a prior authorized period of stay, provided they are the beneficiary of a timely filed petition or application for an extension of stay using the Petition for a Nonimmigrant Worker (Form I-129) (https://www.uscis.gov/i-129) or Application to Extend/Change Nonimmigrant Status (Form I-539) (https://www.uscis.gov/i-539).[65]
+
+
+
+C. Noncitizens Required to Apply for Employment Authorization
+The following noncitizens are not authorized to work incident to their immigration status or circumstance but may request employment authorization from USCIS:[66]
+1. Noncitizen spouses or unmarried dependent children or sons or daughters of a foreign government official (A-1 or A-2 nonimmigrants) who present an endorsement from the U.S. Department of State;[67]
+2. Noncitizen spouses or unmarried dependent sons or daughters of noncitizen employees of the Coordination Council for North American Affairs, also known as Taipei Economic and Cultural Representative Office (TECRO) (E-1 nonimmigrants);[68]
+3. Noncitizens in nonimmigrant student (F-1 nonimmigrant) status who:
+    a. Are seeking pre-completion optional practical training, authorization to engage in up to 12 months of post-completion Optional Practical Training (OPT), or a 24-month STEM OPT extension;
+    b Have been offered employment under the sponsorship of an international organization; or
+    c. Are seeking employment because of severe economic hardship;[69]
+4. Noncitizen spouses or unmarried dependent children or sons or daughters of representatives of international organization (G-1, G-3, or G-4 nonimmigrants);[70]
+5. Noncitizen spouses or minor children of an exchange visitor (J-2 nonimmigrants);[71]
+6. Students (M-1 nonimmigrants) seeking employment for practical training;[72]
+7. Dependents of NATO-1 through NATO-6 nonimmigrants;[73]
+8. Applicants for asylum;[74]
+9. Applicants for adjustment of status under INA 245;[75]
+10. Applicants for cancellation of removal;[76]
+11. Most parolees;[77]
+12. Noncitizen spouses of an E-2 CNMI investor;[78]
+13. Noncitizens granted deferred action;[79]
+14. Registry applicants based on continuous residence since January 1, 1972;[80]
+14. Certain visitors for business (B-1 nonimmigrants) who are the personal or domestic servants[81] of a:
+    a. Nonimmigrant employer;[82] or
+    b. U.S. citizen.[83]
+15. Certain visitors for business (B-1 nonimmigrants) employed by a foreign airline;[84]
+16. Applicants under a final order of deportation or removal, including deferral of removal under the Convention against Torture (CAT);[85]
+17. Applicants with pending applications for TPS;[86]
+18. Applicants for adjustment as a special agricultural worker;[87]
+19. Witnesses or informants and their qualified family members (S nonimmigrants);[88]
+20. Applicants for legalization under INA 245A;[89]
+21. Applicants for adjustment under the Legal Immigration Family Equity (LIFE) Act;[90]
+22. Derivative family members of victims of a severe form of trafficking in persons (T-2, T-3, T-4, T-5, and T-6 nonimmigrants);[91]
+23. Spouses of certain H-1B nonimmigrants;[92]
+24. Violence Against Women Act (VAWA) self-petitioners and derivative beneficiaries;[93]
+25. Spouses of entrepreneur parolees;[94] and
+26. Principal beneficiaries of an approved Immigrant Petition for Alien Workers (Form I-140) facing compelling circumstances[95] and their spouse or children.[96]
+
+These noncitizens are not automatically authorized to work and must have an EAD from USCIS as evidence of their authorization to work in the United States. Upon approval of Form I-765, the noncitizen’s type and location of employment is unrestricted.
+
+
+Footnotes:
+[^ 1] There are no age restrictions for requesting an Employment Authorization Document (EAD, Form I-766); the EAD functions as an identity document for some noncitizens.
+
+[^ 2] See 8 CFR 274a.12(a).
+
+[^ 3] See 8 CFR 274a.12(b).
+
+[^ 4] See 8 CFR 274a.12(c). See Matter of Tong (PDF), 16 I&N Dec. 593, 593 (BIA 1978).
+
+[^ 5] See 8 CFR 274a.12(a). Employment authorization under this category may not necessarily be associated with an immigration status. For example, persons who have received voluntary departure or withholding of deportation do not have an immigration status, but the provision of law under which they are permitted to be in the United States also provides employment authorization.
+
+[^ 6] See INA 274A(b). See 8 CFR 274a.2.
+
+[^ 7] See 8 CFR 274a.12(a).
+
+[^ 8] Including those paroled into the United States as a refugee for a period of time. See 8 CFR 274a.12(a)(3)-(4). For those admitted as refugees or those paroled into the United States as refugees, a Form I-94 is a valid receipt establishing identity and employment authorization for a period of 90 days for purposes of Employment Eligibility Verification (Form I-9). See 8 CFR 274a.2(b)(1)(vi)(C). For guidance USCIS has given employers regarding this document as acceptable DHS-issued evidence of employment authorization for Form I-9 completion, see Handbook for Employers (M-274), Section 4.4, Acceptable Receipts and Section 7.3, Refugees and Asylees.
+
+[^ 9] DHS has decided as a matter of policy to provide the benefit of employment authorization incident to parole akin to what is normally accorded to refugees (as well as a no-fee initial and replacement of an initial Employment Authorization Document) to certain Afghan parolees and certain Ukrainian parolees so that they receive similar treatment as refugees, which aligns with the spirit of legislation that states that certain Afghan parolees and certain Ukrainian parolees “shall be eligible for . . . other benefits available to refugees . . . .” See Section 2502(b) of the Extending Government Funding and Delivering Emergency Assistance Act, Pub. L. 117-43 (PDF), 135 Stat. 344, 377 (September 30, 2021), amended by Section 1501 of Division M of the Consolidated Appropriations Act of 2023, Pub. L. 117-328 (PDF), 136 Stat. 4459, 5189 (December 29, 2022), and Section 401(b) of the Additional Ukraine Supplemental Appropriations Act, Pub. L. 117-128 (PDF), 136 Stat. 1211, 1218 (May 21, 2022). An unexpired Form I-94 is an acceptable receipt for Form I-9 that establishes identity and employment authorization for a period of up to 90 days from the date of hire (or in the case of reverification, the date employment authorization expires) for Ukrainian parolees with a class of admission of UHP, Afghan parolees with a class of admission of OAR, Ukrainian noncitizens paroled between February 24, 2022 and September 30, 2023 whose Form I-94 indicates Ukraine as the country of citizenship and contains a class of admission of DT, and Afghan noncitizens paroled on or after July 31, 2021 whose Form I-94 lists Afghanistan as the country of citizenship and contains a class of admission of PAR. For guidance USCIS has given employers regarding this document as acceptable DHS-issued evidence of employment authorization for Form I-9 completion, see Handbook for Employers (M-274), Section 4.4, Acceptable Receipts.
+
+[^ 10] See 8 CFR 274a.12(a)(6).
+
+[^ 11] See 8 CFR 274a.12(a)(7) (N-8 and N-9 nonimmigrants).
+
+[^ 12] See 8 CFR 274a.12(a)(8).
+
+[^ 13] See 8 CFR 274a.12(a)(10).
+
+[^ 14] See 8 CFR 274a.12(a)(11). DED is in the President’s discretion to authorize as part of the President's constitutional power to conduct foreign relations. Although DED is not a specific immigration status, noncitizens covered by DED are not subject to removal from the United States, usually for a designated period of time.
+
+[^ 15] See 8 CFR 274a.12(a)(12).
+
+[^ 16] See 8 CFR 274a.12(a)(13)-(14).
+
+[^ 17] See 48 U.S.C. 1806(e)(6)(A)(iv)(V)-(VI).
+
+[^ 18] See 8 CFR 274a.13. For more information, see the Application for Employment Authorization (Form I-765) webpage.
+
+[^ 19] See 8 CFR 274a.12(a).
+
+[^ 20] See 8 CFR 274a.12(a)(1).
+
+[^ 21] See 8 CFR 274a.12(a)(2).
+
+[^ 22] See 8 CFR 274a.12(a)(5).
+
+[^ 23] Noncitizens from the Federated States of Micronesia (FSM) or Republic of the Marshall Islands (RMI) admitted as nonimmigrants and who have an FSM or RMI passport might not need to apply for a document evidencing employment authorization. These individuals may present their passport, along with a Form I-94 or Form I-94A, as evidence of both identity and employment authorization. See 8 CFR 274a.2(b)(1)(v)(A)(6).
+
+[^ 24] See 8 CFR 274a.12(a)(9).
+
+[^ 25] See 8 CFR 274a.12(a)(16).
+
+[^ 26] See INA 214(e)(2). As of January 30, 2022, an unexpired Form I-94 notated with E-1S, E-2S, or E-3S nonimmigrant status is acceptable as evidence of employment authorization for dependent spouses under List C of Form I-9. Form I-94 for dependents solely notated with E-1, E-2, E-2C, E-3, E-3D, or E-3R nonimmigrant status is insufficient to evidence employment authorization. Not all spouses of principal E nonimmigrants are considered employment authorized incident to status; exceptions apply. For more information, see Part B, Specific Categories, Chapter 2, Employment Authorization for Certain H-4, E, and L Nonimmigrant Dependent Spouses [10 USCIS-PM B.2].
+
+[^ 27] See INA 214(c)(2)(E). As of January 30, 2022, an unexpired Form I-94 notated with L-2S nonimmigrant status is acceptable as evidence of employment authorization for dependent spouses under List C of Form I-9. Form I-94 for dependents solely notated with L-2 nonimmigrant status is insufficient to evidence employment authorization. For more information, see Part B, Specific Categories, Chapter 2, Employment Authorization for Certain H-4, E, and L Nonimmigrant Dependent Spouses [10 USCIS-PM B.2].
+
+[^ 28] See 8 CFR 274a.12(a)(19).
+
+[^ 29] See 8 CFR 274a.12(a)(20). For guidance USCIS has given regarding acceptable DHS-issued evidence of employment authorization that U derivative employees may present to their employers completing Form I-9, see Handbook for Employers (M-274), Section 7.8, T and U Nonimmigrant Status.
+
+[^ 30] See INA 274A(b). See 8 CFR 274a.2.
+
+[^ 31] For guidance USCIS has provided to employers regarding these documents as acceptable DHS-issued evidence of employment authorization for Form I-9 completion, see Handbook for Employers (M-274), Section 7.1, Lawful Permanent Residents (LPR).
+
+[^ 32] This does not apply to dependents (including spouses) of Employees of the Taipei Economic and Cultural Representative Office (TECRO) and Taipei Economic and Cultural Offices (TECO), who continue to be required to apply for employment authorization per 8 CFR 274a.12(c)(2). Further, this does not apply to spouses of Long-Term Investors in the Commonwealth of the Northern Mariana Islands (E-2 CNMI Investors) who are also required to apply for employment authorization per 8 CFR 274a.12(c)(12). Additionally, as noted in 8 CFR 214.2(e)(23)(x)(B), spouses of E-2 CNMI investors who obtained such status based upon a Foreign Retiree Investment Certificate are not eligible for work authorization.
+
+[^ 33] For more information on Form I-94, see Volume 11, Travel and Identity Documents, Part F, Arrival-Departure Records [11 USCIS-PM F].
+
+[^ 34] In some situations, DHS has designated certain Forms I-94 as evidence of employment eligibility. For guidance USCIS has given employers regarding this document as acceptable DHS-issued evidence of employment authorization for Form I-9 completion, see Handbook for Employers (M-274), Section 7.3, Refugees and Asylees, Section 7.8, T and U Nonimmigrant Status, Section 7.9, Other Temporary Workers, and  Section 13.0, Acceptable Documents for Verifying Employment Authorization and Identity.
+
+[^ 35] See 8 CFR 274a.2(b)(1)(v). For guidance USCIS has given employers regarding the acceptable documents to establish identity and employment authorization for Form I-9 completion, see Handbook for Employers (M-274), Section 13.0, Acceptable Documents for Verifying Employment Authorization and Identity.
+
+[^ 36] For example, LPRs, lawful temporary residents, affirmative asylees, trafficking victims (T-1 nonimmigrants), and crime victims (U-1 nonimmigrants) do not need to file Form I-765 to receive an EAD.
+
+[^ 37] See 8 CFR 274a.12(b).
+
+[^ 38] See 8 CFR 274a.12(b)(1)-(2).
+
+[^ 39] See 8 CFR 274a.12(b)(3).
+
+[^ 40] See 8 CFR 274a.12(b)(5). 
+
+[^ 41]For information concerning the employment of F students, see Volume 2, Nonimmigrants, Part F, Students (F, M), Chapter 6, Employment [2 USCIS-PM F.6].
+
+[^ 42] See 8 CFR 274a.12(c)(3)(i)(C).
+
+[^ 43] See 8 CFR 274a.12(c)(3)(i)(B).
+
+[^ 44] See 8 CFR 214.2(f)(5)(vi). See 8 CFR 274a.12(b)(6).
+
+[^ 45] See 8 CFR 274a.12(b)(7).
+
+[^ 46] See 8 CFR 274a.12(b)(8).
+
+[^ 47] See 8 CFR 274a.12(b)(9).
+
+[^ 48] See 8 CFR 274a.12(b)(10).
+
+[^ 49] See 8 CFR 274a.12(b)(11).
+
+[^ 50] See 8 CFR 274a.12(b)(12).
+
+[^ 51] See 8 CFR 274a.12(b)(13).
+
+[^ 52] See 8 CFR 274a.12(b)(14).
+
+[^ 53] See 8 CFR 274a.12(b)(15).
+
+[^ 54] See 8 CFR 274a.12(b)(16).
+
+[^ 55] See 8 CFR 274a.12(b)(17).
+
+[^ 56] See 8 CFR 274a.12(b)(18).
+
+[^ 57] See 8 CFR 274a.12(b)(19).
+
+[^ 58] See 8 CFR 214.2(h)(1)(ii)(C).
+
+[^ 59] See 8 CFR 274a.12(b)(21).
+
+[^ 60] See 8 CFR 274a.12(b)(22).
+
+[^ 61] See 8 CFR 274a.12(b)(23).
+
+[^ 62] See 8 CFR 274a.12(b)(25).
+
+[^ 63] See 8 CFR 274a.12(b)(37).
+
+[^ 64] See 8 CFR 214.1(e). See 8 CFR 212.19(g).
+
+[^ 65] See 8 CFR 274a.12(b)(20).
+
+[^ 66] See 8 CFR 274a.12(c). 8 CFR 274a.12(c) may not be comprehensive. Other authorities may exist for some categories of noncitizens whom USCIS may authorize to work in the United States following an application for and approval of employment authorization. For example, see INA 204(a)(1)(K) (Violence Against Women Act self-petitioners).
+
+[^ 67] See 8 CFR 274a.12(c)(1).
+
+[^ 68] See 8 CFR 274a.12(c)(2).
+
+[^ 69] See 8 CFR 274a.12(c)(3). For information concerning the employment of F students, see Volume 2, Nonimmigrants, Part F, Students (F, M), Chapter 6, Employment [2 USCIS-PM F.6].
+
+[^ 70] See 8 CFR 274a.12(c)(4).
+
+[^ 71] See 8 CFR 274a.12(c)(5).
+
+[^ 72] See 8 CFR 274a.12(c)(6). For information concerning the employment of M students, see Volume 2, Nonimmigrants, Part F, Students (F,M), Chapter 6, Employment [2 USCIS-PM F.6].
+
+[^ 73] See 8 CFR 274a.12(c)(7).
+
+[^ 74] See 8 CFR 274a.12(c)(8).
+
+[^ 75] See 8 CFR 274a.12(c)(9).
+
+[^ 76] See 8 CFR 274a.12(c)(10).
+
+[^ 77] See 8 CFR 274a.12(c)(11). However, entrepreneurs paroled under 8 CFR 212.19 are employment authorized with a specific employer incident to their parole. See 8 CFR 274a.12(b)(37). In addition, USCIS has decided as a matter of policy to provide the benefit of employment authorization incident to parole akin to what is normally accorded to refugees (as well as a no-fee initial and replacement of an initial Employment Authorization Document) to certain Afghan parolees and certain Ukrainian parolees so that they receive similar treatment as refugees, which aligns with the spirit of legislation that states that certain Afghan parolees and certain Ukrainian parolees “shall be eligible for . . . other benefits available to refugees . . . .” See Section 2502(b) of the Extending Government Funding and Delivering Emergency Assistance Act, Pub. L. 117-43 (PDF), 135 Stat. 344, 377 (September 30, 2021), amended by Section 1501 of Division M of the Consolidated Appropriations Act of 2023, Pub. L. 117-328 (PDF), 136 Stat. 4459, 5189 (December 29, 2022), and Section 401(b) of the Additional Ukraine Supplemental Appropriations Act, Pub. L. 117-128 (PDF), 136 Stat. 1211, 1218 (May 21, 2022).
+
+[^ 78] See 8 CFR 274a.12(c)(12).
+
+[^ 79] See 8 CFR 274a.12(c)(14).
+
+[^ 80] See 8 CFR 274a.12(c)(16).
+
+[^ 81] See 8 CFR 274a.12(c)(17).
+
+[^ 82] See 8 CFR 274a.12(c)(17)(i).
+
+[^ 83] See 8 CFR 274a.12(c)(17)(ii).
+
+[^ 84] See 8 CFR 274a.12(c)(17)(iii).
+
+[^ 85] See 8 CFR 274a.12(c)(18).
+
+[^ 86] See 8 CFR 274a.12(c)(19).
+
+[^ 87] Under INA 210. See 8 CFR 274a.12(c)(20).
+
+[^ 88] See 8 CFR 274a.12(c)(21).
+
+[^ 89] See 8 CFR 274a.12(c)(22).
+
+[^ 90] See Title XI of Pub. L. 106-553 (PDF) (December 21, 2000). See 8 CFR 274a.12(c)(24).
+
+[^ 91] See 8 CFR 274a.12(c)(25).
+
+[^ 92] See 8 CFR 274a.12(c)(26).
+
+[^ 93] See INA 204(a)(1)(K). See INA 204(a)(1)(D)(i)(II). See INA 204(a)(1)(D)(i)(IV). See Title IV of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103-322 (PDF), 108 Stat. 1796, 1902 (September 13, 1994) as amended by Title V of the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106-386 (PDF), 114 Stat. 1464, 1518 (October 28, 2000) and Title VIII of the Violence Against Women and Department of Justice Reauthorization Act of 2005, Pub. L. 109-162 (PDF), 119 Stat. 2960, 3053 (January 5, 2006) (providing self-petitioners eligibility for employment authorization).
+
+[^ 94] See 8 CFR 274a.12(c)(34). See 8 CFR 212.19(h)(3).
+
+[^ 95] See 8 CFR 274a.12(c)(35).
+
+[^ 96] See 8 CFR 274a.12(c)(36).

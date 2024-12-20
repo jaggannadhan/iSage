@@ -743,6 +743,86 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: Can I work overtime on H1-B visa?\n                    "
+    },
+    "237f235d821620bcbcb3664bb6709db2": {
+      "return": "Under F-1 OPT (Optional Practical Training), international students can work in their field of study, including potential roles as online tutors. However, the work must be directly related to the student's major. It's essential to ensure that any employment complies with the regulations set forth by USCIS, including obtaining an Employment Authorization Document (EAD) before beginning work.\n\nFor more detailed information about working during OPT, you can refer to the [USCIS OPT Guidelines](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: Can I work as an online tutor under F1-OPT?\n                    "
+    },
+    "d4b5fb8ba76d31716bf9bc9e2feeac49": {
+      "return": "Under the F-1 Optional Practical Training (OPT) program, you may work as an online tutor, provided that the position is directly related to your field of study. Here are a few key considerations:\n\n1. **Relevance**: The tutoring job must align with your major or area of study. For example, if you majored in Education or Mathematics, tutoring in these subjects would typically qualify.\n\n2. **Employment Authorization**: You must have obtained an Employment Authorization Document (EAD) from USCIS to engage in OPT. This document proves your eligibility to work in your chosen position.\n\n3. **Self-Employment**: If you choose to tutor independently (as a self-employed tutor), ensure that you are meeting all necessary legal and tax obligations associated with such work.\n\nFor more specific guidance, it's advisable to consult your Designated School Official (DSO) and reference relevant regulations from USCIS.\n\nFor additional details on OPT, you may refer to the [USCIS OPT page](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: Can I work as an online tutor under F1-OPT?\n\n                    "
+    },
+    "2838b27e522fc08d11e77f25f8264d4d": {
+      "return": "The purpose of Form I-130, also known as the Petition for Alien Relative, is to establish the existence of a qualifying family relationship between a U.S. citizen or lawful permanent resident and a beneficiary who wishes to immigrate to the United States. This form is a critical first step in the family-based immigration process, allowing U.S. citizens and lawful permanent residents to sponsor certain relatives for permanent residency (Green Card).\n\nFor more information, you can visit the official USCIS page [here](https://www.uscis.gov/i-130).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: What is the purpose of Form I-130?\n                    "
+    },
+    "9322ca9c5c6c01bbe084a49e341209cf": {
+      "return": "I don't have personal experiences or a graduation date as I am an AI assistant. However, if you have questions about academic programs or graduation requirements, feel free to ask!",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: When did you graduate?\n                    "
+    },
+    "0609a92c47243ac1951aeb06580d2e3e": {
+      "return": "## Maintaining F-1 Student Status\n\nF-1 students in the United States must adhere to specific requirements to maintain their nonimmigrant status. Here are the key points:\n\n1. **Enrollment in a Full Course of Study**: F-1 students are required to enroll in a full-time academic program at an SEVP-certified institution. This typically means taking a minimum number of credits or classes as defined by the school.\n\n2. **Timely Reporting of Changes**: Students must report changes in personal information, such as address, legal name, or employer details, to their Designated School Official (DSO) within 10 days of the change.\n\n3. **Validation Reports**: F-1 students must submit a Validation Report every six months to confirm their enrollment and compliance with their visa conditions.\n\n4. **Employment Authorization**: Off-campus employment requires obtaining proper authorization through the Form I-765, ensuring the work is related to their studies.\n\n5. **Compliance with Visa Regulations**: Students need to avoid any unauthorized employment or status violations, such as failing to maintain a normal course load.\n\nFor more detailed guidance and regulations, you can refer to the official [USCIS page on F-1 Students](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: How does an F-1 student maintain their status?\n                    "
+    },
+    "a6cf7761c82f74e8d9b5027861ca5a79": {
+      "return": "### H-1B Cap Explained\n\nThe H-1B cap refers to the annual limit on the number of H-1B visas that the United States Citizenship and Immigration Services (USCIS) can issue to foreign workers in specialty occupations. \n\nCurrently, the H-1B visa cap is typically set at **65,000 visas per fiscal year**. Additionally, there are **20,000 additional visas** reserved for individuals holding a master's degree or higher from a U.S. institution.\n\nThis cap affects how many foreign workers can enter the U.S. under the H-1B program, which is essential for employers seeking to hire skilled workers in fields such as technology, engineering, and healthcare.\n\nFor further information, you can visit the USCIS page on H-1B visas: [USCIS H-1B Visa Overview](https://www.uscis.gov/h-1b).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: What is the H-1B cap?\n                    "
+    },
+    "0b45262aa86872f72d6c938dd75c2316": {
+      "return": "Under an F-1 Visa, you can work off-campus, but certain conditions apply:\n\n1. **Work Authorization Required**: You must obtain specific authorization from your Designated School Official (DSO) and file a Form I-765 with USCIS to receive Employment Authorization (EAD) before starting any off-campus employment.\n\n2. **Eligibility**: Generally, you can apply for off-campus employment after completing one academic year of full-time study and under certain conditions such as severe economic hardship or if you gain practical experience related to your academic field (like Optional Practical Training or OPT).\n\n3. **Restrictions**: Off-campus employment is authorized only if it aligns with immigration regulations, and working without proper authorization may jeopardize your visa status.\n\nFor detailed information, you can refer to the [USCIS guidelines on F-1 Employment](https://www.uscis.gov/working-in-the-united-states/temporary-workers/f-1-students) and [Federal Register notices](https://www.federalregister.gov/documents) that might apply to your situation.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: Can I work off-campus in F1 Visa?\n                    "
+    },
+    "561d0f8b6f5cd0b7a59adf4753735a7b": {
+      "return": "Under the Optional Practical Training (OPT) program, F-1 students can only work in jobs that are directly related to their field of study. However, you can work for multiple employers, but each position must maintain a bona fide employer-employee relationship and fulfill the program requirements. It's essential to report any changes in employment to your Designated School Official (DSO) to ensure compliance with OPT regulations.\n\nFor more detailed information, you can refer to the official USCIS guidelines on optional practical training [here](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: Can I work on multiple jobs in OPT?\n                    "
+    },
+    "2cdc49c989040b84315d6c8316bb3d8c": {
+      "return": "I am a helpful assistant designed to provide information and answer questions based on the data available in specific tables. If you have any particular inquiries or need assistance, feel free to ask!",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: who r u?\n                    "
+    },
+    "819143c70d53e46b0904746a15562120": {
+      "return": "### Purpose of Form I-765\n\nForm I-765, also known as the Application for Employment Authorization, is primarily used by noncitizens in the United States to request permission to work legally. It is a crucial form for various categories of individuals, including F-1 students, asylum seekers, and certain temporary protected status (TPS) applicants.\n\nThis form initiates the process of obtaining an Employment Authorization Document (EAD), which serves as proof of an individual's eligibility to work in the U.S. The form is mandatory for those seeking employment authorization, particularly for students during their Optional Practical Training (OPT) periods or for individuals adjusting their immigration status.\n\nFor more information, you can refer to the [USCIS website on Form I-765](https://www.uscis.gov/i-765).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: What is the purpose of Form I-765?\n                    "
     }
   }
 }
