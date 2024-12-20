@@ -49,7 +49,7 @@ def sidebar(model_types):
         
         st.header("🎓iSage - Immigrant Society Advisory Guidance Engine!" , divider="red")
 
-        st.text("""ⓘ AI-powered legal guidance engine for Immgrant students in the U.S, providing trusted, up-to-date immigration from the official government sources (USCIS, educationusa, etc.). 
+        st.text("""ⓘ AI-powered legal guidance engine for Immigrants in the U.S, providing trusted, up-to-date immigration from the official government sources (USCIS, educationusa, etc.). 
                 """)
         
         if st.button("🤔 How to use?"):

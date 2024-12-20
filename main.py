@@ -30,7 +30,7 @@ def main():
     choice_RAG = sidebar(RAG_BAG.model_types.keys())
     
     with tab1:
-        st.subheader("🎓iSage - Trusted Legal Guidance for Immigrant Society" , divider="red")
+        st.subheader("🎓iSage - Trusted Legal Guidance for the Immigrant Society" , divider="red")
         chat_window(choice_RAG, RAG_BAG)
     
     with tab2:
