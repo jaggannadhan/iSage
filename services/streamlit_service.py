@@ -47,7 +47,7 @@ def run_chat_assistant(query, choice_RAG, RAG_BAG, message_container):
 def sidebar(model_types):
     with st.sidebar:
         
-        st.header("🎓iSage - Immigrant Student Advisory Guidance Engine!" , divider="red")
+        st.header("🎓iSage - Immigrant Society Advisory Guidance Engine!" , divider="red")
 
         st.text("""ⓘ AI-powered legal guidance engine for Immgrant students in the U.S, providing trusted, up-to-date immigration from the official government sources (USCIS, educationusa, etc.). 
                 """)
