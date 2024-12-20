@@ -9,7 +9,7 @@ def chat_window(choice_RAG, RAG_BAG):
     if "messages" not in st.session_state:
         st.session_state.messages = []
 
-    message_container = st.container(height=370, border=False)
+    message_container = st.container(height=550, border=False)
 
     # Display chat messages from history on app rerun
     for message in st.session_state.messages:
@@ -52,20 +52,23 @@ def sidebar(model_types):
         st.text("""ⓘ AI-powered legal guidance engine for Immgrant students in the U.S, providing trusted, up-to-date immigration from the official government sources (USCIS, educationusa, etc.). 
                 """)
         
+        if st.button("🤔 How to use?"):
+            how_to()
+        
+        if st.button("""🤩 We encourage your feedback!"""):
+            feedback()
+        else:
+            show_feedback_response()
+
         st.divider()
+
         st.text("""  😎 Author: Jaggannadhan Venugopal""")
         st.page_link("https://www.linkedin.com/in/jvenu94/", label="Follow me on: Linkedin")
         st.page_link("https://www.github.com/jaggannadhan", label="Work with me on: GitHub")
         st.page_link("https://www.buymeacoffee.com/jaggannadhan", label="(or) Just Buy Me Protein 💪🏼")
 
+        st.divider()
 
-        st.divider()
-        if st.button("""🤩 We encourage your feedback!"""):
-            feedback()
-        else:
-            show_feedback_response()
-        
-        st.divider()
         st.text("""😼 Curiosity is a cat!
                 Try different RAG models to compare performance!
                 """)
@@ -107,6 +110,13 @@ def show_feedback_response():
         print(traceback.format_exc())
 
 
+@st.dialog("🤔 How to use?")
+def how_to():
+    st.write("""1) iSage is engineered to serve brief responses due to token limits. Future updates to the app will provide detailed responses and links to forms.""")
+    st.write("""2) Kindly use the feedback feature to submit your queries/concerns to me. I will take up most raised bugs during my weekends to work on.""")
+    st.write("""3) I use a hashmap-based caching setup to address repeated questions. So feel free to ask the same questions again if your session is lost or if you need to refresh your memory. But for new questions please try to keep it to less than 5 questions per session.""")
+    st.write("""4) Please refrain from using profanity. We understand that student life can be frustrating, foul language will not make it better.""")
+    
 
 def show_FAQ_table(FAQ):
     try:
@@ -140,6 +150,8 @@ def show_FAQ_table(FAQ):
                     width="small"
                 ),
             },
+            height=600,
+            width=1000,
             hide_index=True,
         )
     except Exception:
