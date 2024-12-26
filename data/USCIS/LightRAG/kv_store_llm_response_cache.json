@@ -823,6 +823,14 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: What is the purpose of Form I-765?\n                    "
+    },
+    "a4aca4435ea8e0738940427ba442cbb7": {
+      "return": "To obtain an O-1 visa, you must demonstrate extraordinary ability or achievement in your field. Here are the primary steps involved:\n\n1. **Eligibility Criteria**: You must meet specific criteria, such as receiving a major internationally recognized award or fulfilling at least three of ten designated criteria related to your accomplishments.\n\n2. **Documentation**: Gather substantial evidence supporting your extraordinary ability, including awards, publications, media coverage, and letters from experts in your field.\n\n3. **Petition Submission**: A U.S. employer or agent must file Form I-129, the Petition for a Nonimmigrant Worker, on your behalf. This should include supporting documents demonstrating your qualifications and the nature of your work in the U.S.\n\n4. **Approval and Visa Application**: If your petition is approved, you can apply for the O-1 visa at a U.S. consulate or embassy or adjust your status if you are already in the U.S.\n\n5. **Interview**: You may need to attend an interview where you’ll present your case further.\n\nFor detailed eligibility requirements and the application process, refer to the [USCIS Policy Manual](https://www.uscis.gov/policy-manual/volume-2-part-o).\n\nMake sure to keep all your documentation organized and consult resources or legal guidance if needed to navigate the process effectively.",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: How to get an O1 visa?\n                    "
     }
   }
 }

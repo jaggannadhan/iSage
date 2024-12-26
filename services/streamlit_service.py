@@ -30,7 +30,10 @@ def run_chat_assistant(query, choice_RAG, RAG_BAG, message_container):
         with message_container:
             with st.spinner("Thinking..."):
                 try:
-                    answer = RAG_BAG.get_answer(query, choice_RAG)
+                    answer = RAG_BAG.get_answer(
+                        query=query, 
+                        choice_RAG=choice_RAG
+                    )
                 except Exception:
                     print(traceback.format_exc())
                     answer = "Oops! I am unable to respond to your query, please try again later!"

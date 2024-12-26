@@ -160,3 +160,36 @@ class CloudCacheService:
             return answer
     
         return False
+
+
+def cache_management(service):
+    def wrapper(*args, **kwargs):
+        instance = args[0]
+        cache_service = instance.cache_service
+        print(kwargs, args)
+        query = kwargs.get("query", None)
+
+        if not query:
+            return "Query cannot be empty."
+    
+        try:
+            answer = cache_service.check_query_exists(query)
+            if answer:
+                return answer
+        except Exception:
+            print(">>>>>>>>>>>>Error in CACHE RETRIEVAL<<<<<<<<<<<")
+            print(traceback.format_exc())
+            print(">>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<")
+        
+
+        answer = service(*args, **kwargs)
+
+        try:
+            cache_service.add_query(query, answer)
+        except Exception:
+            print(">>>>>>>>>Error in caching LLM Response<<<<<<<<<")
+            print(traceback.format_exc())
+            print(">>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<")
+
+        return answer
+    return wrapper

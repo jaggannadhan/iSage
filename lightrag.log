@@ -14154,3 +14154,211 @@
 2024-12-19 20:24:41,182 - lightrag - WARNING - All docs are already in the storage
 2024-12-19 20:24:41,182 - lightrag - WARNING - All docs are already in the storage
 2024-12-19 20:24:41,183 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:38,984 - lightrag - INFO - Logger initialized for working directory: data/USCIS/LightRAG
+2024-12-26 13:46:38,987 - lightrag - INFO - Load KV llm_response_cache with 175 data
+2024-12-26 13:46:38,989 - lightrag - INFO - Load KV full_docs with 28 data
+2024-12-26 13:46:38,991 - lightrag - INFO - Load KV text_chunks with 138 data
+2024-12-26 13:46:39,131 - lightrag - INFO - Loaded graph from data/USCIS/LightRAG/graph_chunk_entity_relation.graphml with 1329 nodes, 1095 edges
+2024-12-26 13:46:39,239 - lightrag - INFO - Creating a new event loop in main thread.
+2024-12-26 13:46:39,239 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,240 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,240 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,241 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,241 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,241 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,241 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,242 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,242 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,242 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,242 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,242 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,243 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,243 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,243 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,243 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,243 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,244 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,244 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,244 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,244 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,245 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,245 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,245 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,245 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,245 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,245 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:46:39,245 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,400 - lightrag - INFO - Logger initialized for working directory: data/USCIS/LightRAG
+2024-12-26 13:48:05,402 - lightrag - INFO - Load KV llm_response_cache with 175 data
+2024-12-26 13:48:05,404 - lightrag - INFO - Load KV full_docs with 28 data
+2024-12-26 13:48:05,406 - lightrag - INFO - Load KV text_chunks with 138 data
+2024-12-26 13:48:05,430 - lightrag - INFO - Loaded graph from data/USCIS/LightRAG/graph_chunk_entity_relation.graphml with 1329 nodes, 1095 edges
+2024-12-26 13:48:05,534 - lightrag - INFO - Creating a new event loop in main thread.
+2024-12-26 13:48:05,535 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,536 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,536 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,537 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,537 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,537 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,537 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,538 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,538 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,538 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,538 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,538 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,539 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,539 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,539 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,539 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,539 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,539 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,539 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,540 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,540 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,540 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,540 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,540 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,540 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,540 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,541 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:05,541 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,857 - lightrag - INFO - Logger initialized for working directory: data/USCIS/LightRAG
+2024-12-26 13:48:30,860 - lightrag - INFO - Load KV llm_response_cache with 175 data
+2024-12-26 13:48:30,862 - lightrag - INFO - Load KV full_docs with 28 data
+2024-12-26 13:48:30,864 - lightrag - INFO - Load KV text_chunks with 138 data
+2024-12-26 13:48:30,887 - lightrag - INFO - Loaded graph from data/USCIS/LightRAG/graph_chunk_entity_relation.graphml with 1329 nodes, 1095 edges
+2024-12-26 13:48:30,991 - lightrag - INFO - Creating a new event loop in main thread.
+2024-12-26 13:48:30,992 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,992 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,993 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,993 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,993 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,994 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,994 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,994 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,994 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,994 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,994 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,994 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,995 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,995 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,995 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,995 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,995 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,996 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,996 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,996 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,996 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,996 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,996 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,997 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,997 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,997 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,997 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:30,997 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,447 - lightrag - INFO - Logger initialized for working directory: data/USCIS/LightRAG
+2024-12-26 13:48:57,450 - lightrag - INFO - Load KV llm_response_cache with 175 data
+2024-12-26 13:48:57,452 - lightrag - INFO - Load KV full_docs with 28 data
+2024-12-26 13:48:57,453 - lightrag - INFO - Load KV text_chunks with 138 data
+2024-12-26 13:48:57,476 - lightrag - INFO - Loaded graph from data/USCIS/LightRAG/graph_chunk_entity_relation.graphml with 1329 nodes, 1095 edges
+2024-12-26 13:48:57,574 - lightrag - INFO - Creating a new event loop in main thread.
+2024-12-26 13:48:57,574 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,574 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,575 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,575 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,575 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,576 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,576 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,576 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,576 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,576 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,576 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,577 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,577 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,577 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,577 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,577 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,577 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,577 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,578 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,578 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,578 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,578 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,579 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,579 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,579 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,579 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,579 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:48:57,580 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,607 - lightrag - INFO - Logger initialized for working directory: data/USCIS/LightRAG
+2024-12-26 13:49:49,610 - lightrag - INFO - Load KV llm_response_cache with 175 data
+2024-12-26 13:49:49,611 - lightrag - INFO - Load KV full_docs with 28 data
+2024-12-26 13:49:49,614 - lightrag - INFO - Load KV text_chunks with 138 data
+2024-12-26 13:49:49,637 - lightrag - INFO - Loaded graph from data/USCIS/LightRAG/graph_chunk_entity_relation.graphml with 1329 nodes, 1095 edges
+2024-12-26 13:49:49,747 - lightrag - INFO - Creating a new event loop in main thread.
+2024-12-26 13:49:49,748 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,749 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,750 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,750 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,750 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,750 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,750 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,751 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,751 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,751 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,751 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,751 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,751 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,752 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,752 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,752 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,752 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,752 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,753 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,753 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,753 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,753 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,753 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,754 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,754 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,754 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,754 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:49:49,754 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:39,916 - lightrag - INFO - Logger initialized for working directory: data/USCIS/LightRAG
+2024-12-26 13:50:39,919 - lightrag - INFO - Load KV llm_response_cache with 175 data
+2024-12-26 13:50:39,921 - lightrag - INFO - Load KV full_docs with 28 data
+2024-12-26 13:50:39,923 - lightrag - INFO - Load KV text_chunks with 138 data
+2024-12-26 13:50:39,946 - lightrag - INFO - Loaded graph from data/USCIS/LightRAG/graph_chunk_entity_relation.graphml with 1329 nodes, 1095 edges
+2024-12-26 13:50:40,050 - lightrag - INFO - Creating a new event loop in main thread.
+2024-12-26 13:50:40,050 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,050 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,051 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,051 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,052 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,052 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,052 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,052 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,053 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,053 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,053 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,053 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,054 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,054 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,054 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,054 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,054 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,054 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,055 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,055 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,055 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,055 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,055 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,055 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,055 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,056 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,056 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:50:40,056 - lightrag - WARNING - All docs are already in the storage
+2024-12-26 13:52:01,617 - lightrag - INFO - Creating a new event loop in main thread.
+2024-12-26 13:52:02,673 - lightrag - INFO - kw_prompt result:
+2024-12-26 13:52:04,649 - lightrag - INFO - Local query uses 60 entites, 61 relations, 3 text units
+2024-12-26 13:52:05,392 - lightrag - INFO - Global query uses 35 entites, 60 relations, 4 text units
