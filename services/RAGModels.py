@@ -40,8 +40,7 @@ class LOAD_RAG_MODEL:
     def get_answer(self, query="", choice_RAG="LightRAG"): 
 
         rag_model = self.get_model(model=choice_RAG)
-        _prompt = f"""Always answer briefly unless asked otherwise by the user! 
-                    Do not be verbose. Answer up to the point! 
+        _prompt = f""" Always answer up to the point. Do not be verbose. 
                     Add source link where ever possible.
                     User query: {query}
                     """

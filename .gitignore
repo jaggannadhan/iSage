@@ -6,3 +6,5 @@ __pycache__/
 .vscode
 *.faiss
 *_chunks.txt
+
+.codegpt
