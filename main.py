@@ -7,7 +7,7 @@ from static.main_css import main_css
 
 def get_FAQ():
     RAG_BAG.cache_service = CloudCacheService()
-    FAQ = RAG_BAG.cache_service.get_top_queries(k=50)
+    FAQ = RAG_BAG.cache_service.get_top_queries(k=30)
     return FAQ
 
 
