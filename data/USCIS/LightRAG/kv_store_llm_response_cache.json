@@ -831,6 +831,14 @@
       "embedding_min": null,
       "embedding_max": null,
       "original_prompt": "Always answer briefly unless asked otherwise by the user! \n                    Do not be verbose. Answer up to the point! \n                    Add source link where ever possible.\n                    User query: How to get an O1 visa?\n                    "
+    },
+    "494ba4351f40653434e90be5c059f859": {
+      "return": "### Employment Through Curricular Practical Training (CPT)\n\nCurricular Practical Training (CPT) allows F-1 students to engage in work that is integral to their academic curriculum. However, there are specific regulations regarding employment during this period:\n\n1. **Full-Time vs Part-Time CPT**: \n   - F-1 students can participate in **full-time CPT** (more than 20 hours per week) during school breaks or if they have received authorization for full-time CPT from their Designated School Official (DSO).\n   - **Part-time CPT** (20 hours or fewer per week) is generally permitted while classes are in session.\n\n2. **Multiple Jobs on CPT**:\n   - Students **can hold multiple jobs** on CPT as long as all jobs are authorized through their DSO and fall within the scope of CPT regulations. Each job must be part of the approved training program and relevant to the student’s major field of study.\n\n3. **Employer Communication**:\n   - It's important for students to communicate their plans with their DSO and ensure that they have the necessary documentation for each employment opportunity.\n\nFor more detailed information about CPT and employment regulations, you can refer to the USCIS policy guidance on CPT [here](https://www.uscis.gov/policy-manual/volume-2-part-f-chapter-5).",
+      "embedding": null,
+      "embedding_shape": null,
+      "embedding_min": null,
+      "embedding_max": null,
+      "original_prompt": " Always answer up to the point. Do not be verbose. \n                    Add source link where ever possible.\n                    User query: Can I work multiple jobs on CPT?\n                    "
     }
   }
 }
