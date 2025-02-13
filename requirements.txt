@@ -1,33 +1,35 @@
 # VectorDB
-faiss-cpu
-sentence_transformers
+faiss-cpu==1.9.0.post1
+sentence_transformers==3.3.1
 
 # Streamlit
-streamlit
-ai21
+streamlit==1.41.0
+ai21==3.0.1
 
 # LIGHT RAG
-lightrag-hku
-aioboto3
-ollama
-nano_vectordb
-neo4j
-oracledb
+lightrag-hku==1.1.5
+aioboto3==13.2.0
+ollama==0.4.4
+nano_vectordb==0.0.4.3
+neo4j==5.27.0
+oracledb==2.5.0
 
 # LLMs
-openai
-langchain
-anthropic
-groq
-langchain_openai
-langchain-community
-scikit-learn
+openai==1.57.2
+langchain==0.3.11
+anthropic==0.40.0
+groq==0.13.0
+langchain_openai==0.2.12
+langchain-community==0.3.11
+scikit-learn==1.6.0
 
 # DOCS
-PyPDF2
-python-docx
-python-dotenv
+PyPDF2==3.0.1
+python-docx==1.1.2
+python-dotenv==1.0.1
 
 # EmailClient
-mailjet_rest
+mailjet_rest==1.3.4
+
+pipmaster==0.4.0
 
