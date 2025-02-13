@@ -24,9 +24,11 @@ iSage is an informational tool and should not be considered legal advice. Please
 * **Visit the iSage application:** https://immigrant-student-advisory-engine.streamlit.app/
 * **Explore the features:** Interact with the AI assistant, access helpful resources, and get answers to your questions.
 
+
 **Contribute:**
 We welcome contributions to the iSage project. If you are interested in contributing code, improving documentation, or providing feedback, please contact us.
 
+![iSagePreview](https://github.com/user-attachments/assets/36b9dcd3-d509-493f-8a3f-e8bd9a773a37)
 
 ### Installation Guide:
 #### Step 1: 
