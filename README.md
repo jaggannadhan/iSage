@@ -28,7 +28,7 @@ iSage is an informational tool and should not be considered legal advice. Please
 We welcome contributions to the iSage project. If you are interested in contributing code, improving documentation, or providing feedback, please contact us.
 
 
-### How to?
+### Installation Guide:
 #### Step 1: 
 ```
 make create-venv
