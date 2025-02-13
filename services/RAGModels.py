@@ -9,7 +9,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 from lightrag import LightRAG, QueryParam
-from lightrag.llm.openai import gpt_4o_mini_complete
+from lightrag.llm.openai import gpt_4o_mini_complete, openai_embed
 from dotenv import load_dotenv
 
 from services.cache_service import cache_management
@@ -164,6 +164,7 @@ class RAG_MOD_LIGHTRAG:
 
         self.rag_model = LightRAG(
             working_dir=self.working_dir,
+            embedding_func=openai_embed,
             llm_model_func=gpt_4o_mini_complete,
             enable_llm_cache=True
         )

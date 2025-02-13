@@ -14502,3 +14502,151 @@
 2025-02-13 17:01:52,075 - lightrag - WARNING - All docs are already in the storage
 2025-02-13 17:01:52,075 - lightrag - WARNING - All docs are already in the storage
 2025-02-13 17:01:52,075 - lightrag - WARNING - All docs are already in the storage
+2025-02-13 17:26:28,465 - lightrag - INFO - Logger initialized for working directory: data/USCIS/LightRAG
+2025-02-13 17:26:28,465 - lightrag - INFO - Load KV json_doc_status_storage with 0 data
+2025-02-13 17:26:28,467 - lightrag - INFO - Load KV llm_response_cache with 175 data
+2025-02-13 17:26:28,469 - lightrag - INFO - Load KV full_docs with 28 data
+2025-02-13 17:26:28,471 - lightrag - INFO - Load KV text_chunks with 138 data
+2025-02-13 17:26:28,494 - lightrag - INFO - Loaded graph from data/USCIS/LightRAG/graph_chunk_entity_relation.graphml with 1329 nodes, 1095 edges
+2025-02-13 17:26:28,602 - lightrag - INFO - Loaded document status storage with 0 records
+2025-02-13 17:26:28,602 - lightrag - INFO - Creating a new event loop in main thread.
+2025-02-13 17:26:28,602 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:26:28,792 - lightrag - INFO - Inserting 3 vectors to chunks
+2025-02-13 17:27:00,336 - lightrag - INFO - Inserting 47 vectors to entities
+2025-02-13 17:27:01,603 - lightrag - INFO - Inserting 36 vectors to relationships
+2025-02-13 17:27:03,278 - lightrag - INFO - Writing graph with 1345 nodes, 1125 edges
+2025-02-13 17:27:03,312 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:27:03,315 - lightrag - INFO - Inserting 3 vectors to chunks
+2025-02-13 17:27:48,908 - lightrag - INFO - Inserting 63 vectors to entities
+2025-02-13 17:27:50,325 - lightrag - INFO - Inserting 35 vectors to relationships
+2025-02-13 17:27:51,713 - lightrag - INFO - Writing graph with 1384 nodes, 1154 edges
+2025-02-13 17:27:51,745 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:27:51,774 - lightrag - INFO - Inserting 39 vectors to chunks
+2025-02-13 17:29:11,593 - lightrag - INFO - Inserting 460 vectors to entities
+2025-02-13 17:29:14,001 - lightrag - INFO - Inserting 294 vectors to relationships
+2025-02-13 17:29:15,947 - lightrag - INFO - Writing graph with 1591 nodes, 1367 edges
+2025-02-13 17:29:15,986 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:29:15,989 - lightrag - INFO - Inserting 3 vectors to chunks
+2025-02-13 17:29:45,366 - lightrag - INFO - Inserting 33 vectors to entities
+2025-02-13 17:29:46,441 - lightrag - INFO - Inserting 35 vectors to relationships
+2025-02-13 17:29:47,526 - lightrag - INFO - Writing graph with 1602 nodes, 1386 edges
+2025-02-13 17:29:47,564 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:29:47,569 - lightrag - INFO - Inserting 6 vectors to chunks
+2025-02-13 17:30:26,576 - lightrag - INFO - Inserting 74 vectors to entities
+2025-02-13 17:30:31,247 - lightrag - INFO - Inserting 62 vectors to relationships
+2025-02-13 17:30:32,819 - lightrag - INFO - Writing graph with 1633 nodes, 1430 edges
+2025-02-13 17:30:32,860 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:30:32,866 - lightrag - INFO - Inserting 7 vectors to chunks
+2025-02-13 17:31:18,218 - lightrag - INFO - Inserting 127 vectors to entities
+2025-02-13 17:31:21,270 - lightrag - INFO - Inserting 47 vectors to relationships
+2025-02-13 17:31:22,596 - lightrag - INFO - Writing graph with 1698 nodes, 1459 edges
+2025-02-13 17:31:22,638 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:31:22,640 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-02-13 17:31:57,243 - lightrag - INFO - Inserting 25 vectors to entities
+2025-02-13 17:31:58,248 - lightrag - INFO - Inserting 11 vectors to relationships
+2025-02-13 17:31:58,991 - lightrag - INFO - Writing graph with 1706 nodes, 1468 edges
+2025-02-13 17:31:59,040 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:31:59,042 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-02-13 17:32:23,549 - lightrag - INFO - Inserting 12 vectors to entities
+2025-02-13 17:32:24,810 - lightrag - INFO - Inserting 8 vectors to relationships
+2025-02-13 17:32:25,414 - lightrag - INFO - Writing graph with 1712 nodes, 1474 edges
+2025-02-13 17:32:25,455 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:32:25,458 - lightrag - INFO - Inserting 3 vectors to chunks
+2025-02-13 17:32:56,129 - lightrag - INFO - Inserting 38 vectors to entities
+2025-02-13 17:32:57,392 - lightrag - INFO - Inserting 16 vectors to relationships
+2025-02-13 17:32:58,511 - lightrag - INFO - Writing graph with 1724 nodes, 1482 edges
+2025-02-13 17:32:58,554 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:32:58,557 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-02-13 17:33:16,939 - lightrag - INFO - Inserting 22 vectors to entities
+2025-02-13 17:33:17,904 - lightrag - INFO - Inserting 12 vectors to relationships
+2025-02-13 17:33:18,567 - lightrag - INFO - Writing graph with 1734 nodes, 1491 edges
+2025-02-13 17:33:18,610 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:33:18,618 - lightrag - INFO - Inserting 9 vectors to chunks
+2025-02-13 17:34:39,133 - lightrag - INFO - Inserting 135 vectors to entities
+2025-02-13 17:34:40,521 - lightrag - INFO - Inserting 113 vectors to relationships
+2025-02-13 17:34:41,917 - lightrag - INFO - Writing graph with 1806 nodes, 1579 edges
+2025-02-13 17:34:41,967 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:34:41,974 - lightrag - INFO - Inserting 7 vectors to chunks
+2025-02-13 17:35:12,802 - lightrag - INFO - Inserting 48 vectors to entities
+2025-02-13 17:35:13,725 - lightrag - INFO - Inserting 52 vectors to relationships
+2025-02-13 17:35:15,200 - lightrag - INFO - Writing graph with 1825 nodes, 1610 edges
+2025-02-13 17:35:15,257 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:35:15,266 - lightrag - INFO - Inserting 3 vectors to chunks
+2025-02-13 17:35:42,015 - lightrag - INFO - Inserting 37 vectors to entities
+2025-02-13 17:35:43,033 - lightrag - INFO - Inserting 27 vectors to relationships
+2025-02-13 17:35:43,870 - lightrag - INFO - Writing graph with 1838 nodes, 1630 edges
+2025-02-13 17:35:43,916 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:35:43,918 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-02-13 17:36:07,810 - lightrag - INFO - Inserting 17 vectors to entities
+2025-02-13 17:36:08,782 - lightrag - INFO - Inserting 6 vectors to relationships
+2025-02-13 17:36:09,350 - lightrag - INFO - Writing graph with 1843 nodes, 1632 edges
+2025-02-13 17:36:09,394 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:36:09,398 - lightrag - INFO - Inserting 4 vectors to chunks
+2025-02-13 17:36:35,016 - lightrag - INFO - Inserting 52 vectors to entities
+2025-02-13 17:36:36,504 - lightrag - INFO - Inserting 33 vectors to relationships
+2025-02-13 17:36:38,528 - lightrag - INFO - Writing graph with 1863 nodes, 1644 edges
+2025-02-13 17:36:38,572 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:36:38,574 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-02-13 17:37:02,504 - lightrag - INFO - Inserting 19 vectors to entities
+2025-02-13 17:37:03,451 - lightrag - INFO - Inserting 9 vectors to relationships
+2025-02-13 17:37:04,352 - lightrag - INFO - Writing graph with 1871 nodes, 1649 edges
+2025-02-13 17:37:04,407 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:37:04,411 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-02-13 17:37:34,447 - lightrag - INFO - Inserting 28 vectors to entities
+2025-02-13 17:37:35,618 - lightrag - INFO - Inserting 23 vectors to relationships
+2025-02-13 17:37:36,770 - lightrag - INFO - Writing graph with 1877 nodes, 1668 edges
+2025-02-13 17:37:36,819 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:37:36,838 - lightrag - INFO - Inserting 4 vectors to chunks
+2025-02-13 17:38:34,395 - lightrag - INFO - Inserting 46 vectors to entities
+2025-02-13 17:38:37,431 - lightrag - INFO - Inserting 42 vectors to relationships
+2025-02-13 17:38:38,283 - lightrag - INFO - Writing graph with 1889 nodes, 1703 edges
+2025-02-13 17:38:38,331 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:38:38,333 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-02-13 17:39:06,205 - lightrag - INFO - Inserting 18 vectors to entities
+2025-02-13 17:39:06,853 - lightrag - INFO - Inserting 14 vectors to relationships
+2025-02-13 17:39:08,474 - lightrag - INFO - Writing graph with 1894 nodes, 1711 edges
+2025-02-13 17:39:08,522 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:39:08,526 - lightrag - INFO - Inserting 3 vectors to chunks
+2025-02-13 17:39:43,472 - lightrag - INFO - Inserting 54 vectors to entities
+2025-02-13 17:39:44,730 - lightrag - INFO - Inserting 20 vectors to relationships
+2025-02-13 17:39:46,090 - lightrag - INFO - Writing graph with 1918 nodes, 1723 edges
+2025-02-13 17:39:46,136 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:39:46,140 - lightrag - INFO - Inserting 4 vectors to chunks
+2025-02-13 17:40:18,646 - lightrag - INFO - Inserting 49 vectors to entities
+2025-02-13 17:40:19,828 - lightrag - INFO - Inserting 52 vectors to relationships
+2025-02-13 17:40:21,302 - lightrag - INFO - Writing graph with 1934 nodes, 1754 edges
+2025-02-13 17:40:21,350 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:40:21,353 - lightrag - INFO - Inserting 3 vectors to chunks
+2025-02-13 17:40:55,381 - lightrag - INFO - Inserting 57 vectors to entities
+2025-02-13 17:40:56,387 - lightrag - INFO - Inserting 24 vectors to relationships
+2025-02-13 17:40:57,500 - lightrag - INFO - Writing graph with 1944 nodes, 1766 edges
+2025-02-13 17:40:57,549 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:40:57,550 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-02-13 17:41:23,108 - lightrag - INFO - Inserting 15 vectors to entities
+2025-02-13 17:41:23,705 - lightrag - INFO - Inserting 7 vectors to relationships
+2025-02-13 17:41:24,639 - lightrag - INFO - Writing graph with 1952 nodes, 1771 edges
+2025-02-13 17:41:24,687 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:41:24,698 - lightrag - INFO - Inserting 12 vectors to chunks
+2025-02-13 17:42:13,428 - lightrag - INFO - Inserting 134 vectors to entities
+2025-02-13 17:42:14,995 - lightrag - INFO - Inserting 109 vectors to relationships
+2025-02-13 17:42:16,688 - lightrag - INFO - Writing graph with 2013 nodes, 1853 edges
+2025-02-13 17:42:16,738 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:42:16,800 - lightrag - INFO - Inserting 1 vectors to chunks
+2025-02-13 17:42:42,888 - lightrag - INFO - Inserting 15 vectors to entities
+2025-02-13 17:42:43,713 - lightrag - INFO - Inserting 10 vectors to relationships
+2025-02-13 17:42:44,478 - lightrag - INFO - Writing graph with 2015 nodes, 1860 edges
+2025-02-13 17:42:44,527 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:42:44,530 - lightrag - INFO - Inserting 2 vectors to chunks
+2025-02-13 17:43:05,221 - lightrag - INFO - Inserting 21 vectors to entities
+2025-02-13 17:43:06,150 - lightrag - INFO - Inserting 18 vectors to relationships
+2025-02-13 17:43:07,228 - lightrag - INFO - Writing graph with 2016 nodes, 1868 edges
+2025-02-13 17:43:07,280 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:43:07,283 - lightrag - INFO - Inserting 3 vectors to chunks
+2025-02-13 17:43:28,685 - lightrag - INFO - Inserting 54 vectors to entities
+2025-02-13 17:43:29,931 - lightrag - INFO - Inserting 23 vectors to relationships
+2025-02-13 17:43:30,803 - lightrag - INFO - Writing graph with 2041 nodes, 1888 edges
+2025-02-13 17:43:30,853 - lightrag - INFO - Processing 1 new unique documents
+2025-02-13 17:43:30,860 - lightrag - INFO - Inserting 8 vectors to chunks
+2025-02-13 17:44:04,068 - lightrag - INFO - Inserting 79 vectors to entities
+2025-02-13 17:44:05,182 - lightrag - INFO - Inserting 80 vectors to relationships
+2025-02-13 17:44:06,598 - lightrag - INFO - Writing graph with 2062 nodes, 1932 edges
